@@ -1,0 +1,16 @@
+name="tom "
+url="https://kodihub.net/35wa2"
+img="https://github.com/krecik71/tom/blob/master/icon.png"
+fanart="https://github.com/krecik71/tom/blob/master/fanart.jpg"
+description="     "
+version="1.0.1"
+
+name="tom2 "
+url="https://kodihub.net/afzkp"
+img="https://github.com/krecik71/tom/blob/master/icon.png"
+fanart="https://github.com/krecik71/tom/blob/master/fanart.jpg"
+description="     "
+version="1.0.1"
+
+
+
