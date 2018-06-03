@@ -1,5 +1,5 @@
-name="tom "
-url="https://kodihub.net/35wa2"
+name="tom3 "
+url="https://kodihub.net/g9jj5"
 img="https://github.com/krecik71/tom/blob/master/icon.png"
 fanart="https://github.com/krecik71/tom/blob/master/fanart.jpg"
 description="     "
