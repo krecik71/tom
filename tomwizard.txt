@@ -16,7 +16,7 @@ version="1.0.1"
 
 name="TOM 3  17"
 version="1"
-url="http://qwer.cherrytv.webd.pl/BUILDY/17_QPVR.zip"
+url="https://kodihub.net/g9jj5"
 gui=""
 kodi="17.6"
 theme="http://"
