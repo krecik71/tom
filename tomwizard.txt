@@ -1,5 +1,5 @@
-name="tom3 "
-url="https://kodihub.net/g9jj5"
+name="tom5+tv internetowa "
+url="https://kodihub.net/gevg3"
 img="https://github.com/krecik71/tom/raw/master/icon.png"
 fanart="https://github.com/krecik71/tom/raw/master/fanart.jpg"
 description="     "
