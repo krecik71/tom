@@ -1,0 +1,230 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+http://bit.ly/TestadorIPTVVideoApresentacao
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: vh1
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/97.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tvpseriale
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/77.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tvpinfo
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/4.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tvp3
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/3.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tvp2
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/2.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tvp1
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/1.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tvp sport hd
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/90.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tvp kultura
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/45.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tvnturbo
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/16.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tvnstyle
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/17.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tvn7
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/14.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tvn24biznes
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/18.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tvn24
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/15.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tvn
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/13.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tv6
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/98.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tv4
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/7.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tlc
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/83.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: polsatsportextra
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/20.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: polsat2
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/6.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: polsat1
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/5.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: polsat sport news
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/19.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: polsat sport
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/21.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: polsat food
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/89.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: polsat romans
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/74.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: polsat play
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/10.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: Polsat News 2
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/99.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: polsat news
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/9.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: polsat film
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/8.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: polsat cafe
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/11.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: nsport
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/28.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: nationalgeo
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/32.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: mtv
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/40.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: kuchnia
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/56.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: kinopolska
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/43.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: hbo3
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/55.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: hbo2
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/54.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: hbo
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/53.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: eurosport2
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/27.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: eurosport
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/26.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: Eleven HD
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/92.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: Eleven Extra HD
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/93.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: discovery turbo xtra
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/25.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: discovery
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/22.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: bbc earth
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/58.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: bbc
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/72.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: AXN White
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/102.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: AXN Black
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/103.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: ATM Rozrywka TV
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/88.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: amc
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/66.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: ale kino
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/60.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: 13ulica
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/73.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AXN - AXN
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/104.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: xtream sport
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/64.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: VOX MUSIC TV
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/105.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: viva
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/38.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tvpseriale
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/77.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tvpinfo
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/4.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tvp3
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/3.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tvp2
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/2.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tvp1
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/1.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tvp sport hd
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/90.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tvp kultura
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/45.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tvp historia
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/44.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: MTV Rocks
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/94.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: motowizja tv
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/59.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: lifetime
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/70.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: id
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/69.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: fightbox
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/85.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: disneyjunior
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/37.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: Disney XD
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/96.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: discovery science
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/23.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: discovery live
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/24.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: discovery historia
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/76.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: bomerang
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/34.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: animal planet
+http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/57.ts
+
