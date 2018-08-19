@@ -3,10 +3,10 @@
 #EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
 http://bit.ly/TestadorIPTVVideoApresentacao
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: vh1
+#EXTINF:-0 tvg-id="VH1" tvg-logo="http://epg.cvxcvx.pl/logo/VH1.png" group-title="Muzyka" ,VH1
 http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/97.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tvpseriale
+#EXTINF:0 tvg-id="TVP Seriale" tvg-logo="http://epg.cvxcvx.pl/logo/TVP Seriale.png" group-title="Film" ,TVP Seriale
 http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/77.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tvpinfo
