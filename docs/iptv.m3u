@@ -18,43 +18,40 @@ http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/3.ts
 #EXTINF:-0 tvg-id="TVP 2 HD" tvg-logo="http://epg.cvxcvx.pl/logo/TVP%202%20HD.png" group-title="Popularny" ,TVP 2 HD
 http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/2.ts
 
-#EXTINF:-0 tvg-id="TVP Sport HD" tvg-logo="http://epg.cvxcvx.pl/logo/TVP%20Sport%20HD.png" group-title="Sport" ,TVP Sport HD
+#EXTINF:-0 tvg-id="TVP 1" tvg-logo="http://epg.cvxcvx.pl/logo/TVP%201.png" group-title="Popularny" ,TVP 1
 http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/1.ts
 
 #EXTINF:-0 tvg-id="TVP Sport HD" tvg-logo="http://epg.cvxcvx.pl/logo/TVP%20Sport%20HD.png" group-title="Sport" ,TVP Sport HD
 http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/90.ts
 
-#EXTINF:-0 tvg-id="TVP  Kultura HD" tvg-logo="http://epg.cvxcvx.pl/logo/TVP%20 Kultura%20HD.png" group-title="Sport" ,TVP  Kultura HD
+#EXTINF:-0 tvg-id="TVP  Kultura HD" tvg-logo="http://epg.cvxcvx.pl/logo/TVP%20 Kultura%20HD.png" group-title="Popularny" ,TVP  Kultura HD
 http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/45.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tvnturbo
+#EXTINF:-0 tvg-id="TVN Turbo" tvg-logo="http://epg.cvxcvx.pl/logo/TVN%20Turbo.png" group-title="Sport" ,TVN Turbo
 http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/16.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tvnstyle
+#EXTINF:-0 tvg-id="TVN Style HD" tvg-logo="http://epg.cvxcvx.pl/logo/TVN%20Style%20HD.png" group-title="Rozrywka" ,TVN Style HD
 http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/17.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tvn7
+#EXTINF:-0 tvg-id="TVN 7 HD" tvg-logo="http://epg.cvxcvx.pl/logo/TVN%207%20HD.png" group-title="Popularny" ,TVN 7 HD
 http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/14.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tvn24biznes
-http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/18.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tvn24
+#EXTINF:-0 tvg-id="TVN 24 HD" tvg-logo="http://epg.cvxcvx.pl/logo/TVN%2024%20HD.png" group-title="Informacje" ,TVN 24 HD
 http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/15.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tvn
+#EXTINF:-:0 tvg-id="TVN HD" tvg-logo="http://epg.cvxcvx.pl/logo/TVN%20HD.png" group-title="Popularny" ,TVN HD
 http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/13.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tv6
+#EXTINF:-0 tvg-id="TV 6 HD" tvg-logo="http://epg.cvxcvx.pl/logo/TV%206%20HD.png" group-title="Popularny" ,TV 6 HD
 http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/98.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tv4
+#EXTINF:-0 tvg-id="TV 4 HD" tvg-logo="http://epg.cvxcvx.pl/logo/TV%204%20HD.png" group-title="Popularny" ,TV 4 HD
 http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/7.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tlc
+#EXTINF:-0 tvg-id="TLC HD" tvg-logo="http://epg.cvxcvx.pl/logo/TLC%20HD.png" group-title="Rozrywka" ,TLC HD
 http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/83.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: polsatsportextra
+#EXTINF:-0 tvg-id="Polsat Sport Extra HD" tvg-logo="http://epg.cvxcvx.pl/logo/Polsat%20Sport%20Extra%20HD.png" group-title="Sport" ,Polsat Sport Extra HD
 http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/20.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: polsat2
