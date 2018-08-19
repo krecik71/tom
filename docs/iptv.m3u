@@ -6,25 +6,25 @@ http://bit.ly/TestadorIPTVVideoApresentacao
 #EXTINF:-0 tvg-id="VH1" tvg-logo="http://epg.cvxcvx.pl/logo/VH1.png" group-title="Muzyka" ,VH1
 http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/97.ts
 
-#EXTINF:-0 tvg-id="TVP Seriale" tvg-logo="http://epg.cvxcvx.pl/logo/TVP Seriale.png" group-title="Film" ,TVP Seriale
+#EXTINF:-0 tvg-id="TVP Seriale" tvg-logo="http://epg.cvxcvx.pl/logo/TVP%20Seriale.png" group-title="Popularny" ,TVP Seriale
 http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/77.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tvpinfo
+#EXTINF:-0 tvg-id="TVP Info" tvg-logo="http://epg.cvxcvx.pl/logo/TVP%20Info.png" group-title="Informacje" ,TVP Info
 http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/4.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tvp3
+#EXTINF:-0 tvg-id="TVP 3 Warszawa" tvg-logo="http://epg.cvxcvx.pl/logo/TVP%203%20Warszawa.png" group-title="Popularny" ,TVP 3 Warszawa
 http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/3.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tvp2
+#EXTINF:-0 tvg-id="TVP 2 HD" tvg-logo="http://epg.cvxcvx.pl/logo/TVP%202%20HD.png" group-title="Popularny" ,TVP 2 HD
 http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/2.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tvp1
+#EXTINF:-0 tvg-id="TVP Sport HD" tvg-logo="http://epg.cvxcvx.pl/logo/TVP%20Sport%20HD.png" group-title="Sport" ,TVP Sport HD
 http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/1.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tvp sport hd
+#EXTINF:-0 tvg-id="TVP Sport HD" tvg-logo="http://epg.cvxcvx.pl/logo/TVP%20Sport%20HD.png" group-title="Sport" ,TVP Sport HD
 http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/90.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tvp kultura
+#EXTINF:-0 tvg-id="TVP  Kultura HD" tvg-logo="http://epg.cvxcvx.pl/logo/TVP%20 Kultura%20HD.png" group-title="Sport" ,TVP  Kultura HD
 http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/45.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: tvnturbo
