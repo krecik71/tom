@@ -54,16 +54,18 @@ http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/83.ts
 #EXTINF:-0 tvg-id="Polsat Sport Extra HD" tvg-logo="http://epg.cvxcvx.pl/logo/Polsat%20Sport%20Extra%20HD.png" group-title="Sport" ,Polsat Sport Extra HD
 http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/20.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: polsat2
+#EXTINF:-0 tvg-id="Polsat 2" tvg-logo="http://epg.cvxcvx.pl/logo/Polsat%202.png" group-title="Popularny" ,Polsat 2
 http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/6.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: polsat1
+#EXTINF:-0 tvg-id="Polsat HD" tvg-logo="http://epg.cvxcvx.pl/logo/Polsat%20HD.png" group-title="Popularny" ,Polsat HD
 http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/5.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: polsat sport news
 http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/19.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: polsat sport
+#EXTINF:-0 tvg-id="Polsat Sport HD" tvg-logo="http://epg.cvxcvx.pl/logo/Polsat%20Sport%20HD.png" group-title="Sport" ,Polsat Sport HD
+http://tv.xs4iptv.xdns.pro:80/live/test/test/11200.ts
+#EXTINF:0 tvg-id="Super Polsat HD" tvg-logo="http://epg.cvxcvx.pl/logo/Super%20Polsat%20HD.png" group-title="Popularny" ,Super Polsat HD
 http://polnish.dyndns.org:59695/live/portalPol/WIZOofMcD6/21.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Polnish: polsat food
