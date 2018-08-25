@@ -1,3 +1,12 @@
+
+name="drobne poprawki "
+url="https://kodihub.net/z6n5h"
+img="https://github.com/krecik71/tom/raw/master/icon.png"
+fanart="https://github.com/krecik71/tom/raw/master/fanart.jpg"
+description="     "
+version="1.0.1"
+
+
 name="tom5+tv internetowa "
 url="https://kodihub.net/gevg3"
 img="https://github.com/krecik71/tom/raw/master/icon.png"
