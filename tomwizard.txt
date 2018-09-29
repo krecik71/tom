@@ -1,5 +1,5 @@
 
-name="drobne poprawki "
+name="tom6 drobne poprawki "
 url="https://kodihub.net/z6n5h"
 img="https://github.com/krecik71/tom/raw/master/icon.png"
 fanart="https://github.com/krecik71/tom/raw/master/fanart.jpg"
