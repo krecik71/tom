@@ -15,7 +15,7 @@ description="     "
 version="1.0.1"
 
 name="tom7 dodane nowe wtyczki od kol.mbebe "
-url="https://kodihub.net/5d3ib"
+url="https://kodihub.net/px5lt"
 img="https://github.com/krecik71/tom/raw/master/icon.png"
 fanart="https://github.com/krecik71/raw/blob/master/fanart.jpg"
 description="     "
