@@ -1,0 +1,149 @@
+#EXTM3U
+#EXTINF:-1,PL: Ale Kino
+http://37.59.17.187:8005/live/Edi2/Edi2/1828.ts
+#EXTINF:-1,PL: Canal 1 HD
+http://37.59.17.187:8005/live/Edi2/Edi2/1829.ts
+#EXTINF:-1,PL: Canal Film HD
+http://37.59.17.187:8005/live/Edi2/Edi2/1830.ts
+#EXTINF:-1,PL: Canal+ Family HD
+http://37.59.17.187:8005/live/Edi2/Edi2/1831.ts
+#EXTINF:-1,PL: Canal+ Film HD
+http://37.59.17.187:8005/live/Edi2/Edi2/1832.ts
+#EXTINF:-1,PL: Canal+ Seriale HD
+http://37.59.17.187:8005/live/Edi2/Edi2/1833.ts
+#EXTINF:-1,PL: FilmBox Action
+http://37.59.17.187:8005/live/Edi2/Edi2/1834.ts
+#EXTINF:-1,PL: FilmBox Family
+http://37.59.17.187:8005/live/Edi2/Edi2/1835.ts
+#EXTINF:-1,PL: FilmBox Premium
+http://37.59.17.187:8005/live/Edi2/Edi2/1836.ts
+#EXTINF:-1,PL: Kino Polska
+http://37.59.17.187:8005/live/Edi2/Edi2/1837.ts
+#EXTINF:-1,PL: Kino TV
+http://37.59.17.187:8005/live/Edi2/Edi2/1838.ts
+#EXTINF:-1,PL: Planete HD
+http://37.59.17.187:8005/live/Edi2/Edi2/1839.ts
+#EXTINF:-1,PL: Polsat 1 HD
+http://37.59.17.187:8005/live/Edi2/Edi2/1840.ts
+#EXTINF:-1,PL: Polsat 2 HD
+http://37.59.17.187:8005/live/Edi2/Edi2/1841.ts
+#EXTINF:-1,PL: TV Puls HD
+http://37.59.17.187:8005/live/Edi2/Edi2/1842.ts
+#EXTINF:-1,PL: TVN Turbo HD
+http://37.59.17.187:8005/live/Edi2/Edi2/1843.ts
+#EXTINF:-1,PL: TVP HD
+http://37.59.17.187:8005/live/Edi2/Edi2/1844.ts
+#EXTINF:-1,PL: TVP Info
+http://37.59.17.187:8005/live/Edi2/Edi2/1845.ts
+#EXTINF:-1,PL: TVP1 HD
+http://37.59.17.187:8005/live/Edi2/Edi2/1846.ts
+#EXTINF:-1,PL: TVP2 HD
+http://37.59.17.187:8005/live/Edi2/Edi2/1847.ts
+#EXTINF:-1,PL: TVP3 HD
+http://37.59.17.187:8005/live/Edi2/Edi2/1848.ts
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="PL | AXN" tvg-logo="" group-title="Poland",PL | AXN
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10995.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL |  AXN BLACK" tvg-logo="" group-title="Poland",PL |  AXN BLACK
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10994.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | AXN WHITE" tvg-logo="" group-title="Poland",PL | AXN WHITE
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10993.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | BBC" tvg-logo="" group-title="Poland",PL | BBC
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10992.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | BBC EARTH" tvg-logo="" group-title="Poland",PL | BBC EARTH
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10991.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | CANAL  HD" tvg-logo="" group-title="Poland",PL | CANAL  HD
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10990.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | CANAL  SPORT" tvg-logo="" group-title="Poland",PL | CANAL  SPORT
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10989.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | CANAL  SPORT 2  HD" tvg-logo="" group-title="Poland",PL | CANAL  SPORT 2  HD
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10988.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | CANAL DISCOVERY HD" tvg-logo="" group-title="Poland",PL | CANAL DISCOVERY HD
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10987.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | CANAL FAMILY HD" tvg-logo="" group-title="Poland",PL | CANAL FAMILY HD
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10986.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | CANAL FILM HD" tvg-logo="" group-title="Poland",PL | CANAL FILM HD
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10985.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | CANAL SERIALE HD" tvg-logo="" group-title="Poland",PL | CANAL SERIALE HD
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10984.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | CARTOON NETWORK HD" tvg-logo="" group-title="Poland",PL | CARTOON NETWORK HD
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10983.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | CBS REALITY" tvg-logo="" group-title="Poland",PL | CBS REALITY
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10982.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | CINEMAX" tvg-logo="" group-title="Poland",PL | CINEMAX
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10981.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | CINEMAX 2" tvg-logo="" group-title="Poland",PL | CINEMAX 2
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10980.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | COMEDY CENTRAL" tvg-logo="" group-title="Poland",PL | COMEDY CENTRAL
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10979.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | EUROSPORT 1" tvg-logo="" group-title="Poland",PL | EUROSPORT 1
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10978.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | EUROSPORT 2" tvg-logo="" group-title="Poland",PL | EUROSPORT 2
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10977.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | FILMBOX" tvg-logo="" group-title="Poland",PL | FILMBOX
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10976.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | FILMBOX ACTION" tvg-logo="" group-title="Poland",PL | FILMBOX ACTION
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10975.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | FILMBOX FAMILY" tvg-logo="" group-title="Poland",PL | FILMBOX FAMILY
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10974.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | FILMBOX PREIMUIM" tvg-logo="" group-title="Poland",PL | FILMBOX PREIMUIM
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10973.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | FILMBOX PREMIER" tvg-logo="" group-title="Poland",PL | FILMBOX PREMIER
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10972.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | HBO" tvg-logo="" group-title="Poland",PL | HBO
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10971.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | HBO 2 HD" tvg-logo="" group-title="Poland",PL | HBO 2 HD
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10970.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | HBO 3 HD" tvg-logo="" group-title="Poland",PL | HBO 3 HD
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10969.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | NATIONAL GEO GRAPHIC" tvg-logo="" group-title="Poland",PL | NATIONAL GEO GRAPHIC
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10968.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | NICK JR" tvg-logo="" group-title="Poland",PL | NICK JR
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10967.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | NICLEODEON" tvg-logo="" group-title="Poland",PL | NICLEODEON
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10966.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | NSPORT" tvg-logo="" group-title="Poland",PL | NSPORT
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10965.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | POLSAT 1" tvg-logo="" group-title="Poland",PL | POLSAT 1
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10964.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | POLSAT 2" tvg-logo="" group-title="Poland",PL | POLSAT 2
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10963.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | POLSAT 2 HD" tvg-logo="" group-title="Poland",PL | POLSAT 2 HD
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10962.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | POLSAT CAFE" tvg-logo="" group-title="Poland",PL | POLSAT CAFE
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10961.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | POLSAT FILM" tvg-logo="" group-title="Poland",PL | POLSAT FILM
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10960.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | POLSAT FOOD" tvg-logo="" group-title="Poland",PL | POLSAT FOOD
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10959.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | POLSAT PLAY" tvg-logo="" group-title="Poland",PL | POLSAT PLAY
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10958.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | POLSAT ROMANS" tvg-logo="" group-title="Poland",PL | POLSAT ROMANS
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10957.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | POLSAT SPORT" tvg-logo="" group-title="Poland",PL | POLSAT SPORT
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10956.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | POLSAT SPORT EXTRA HD" tvg-logo="" group-title="Poland",PL | POLSAT SPORT EXTRA HD
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10955.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | POLSAT SPORTS NEWS" tvg-logo="" group-title="Poland",PL | POLSAT SPORTS NEWS
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10954.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | TVN 24" tvg-logo="" group-title="Poland",PL | TVN 24
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10953.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | TVN STYLE" tvg-logo="" group-title="Poland",PL | TVN STYLE
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10952.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | TVN TURBO" tvg-logo="" group-title="Poland",PL | TVN TURBO
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10951.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | TVP 1" tvg-logo="" group-title="Poland",PL | TVP 1
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10950.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | TVP 2" tvg-logo="" group-title="Poland",PL | TVP 2
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10949.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | TVP 3" tvg-logo="" group-title="Poland",PL | TVP 3
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10948.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | TVP HISTORIA" tvg-logo="" group-title="Poland",PL | TVP HISTORIA
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10947.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | TVP INFO" tvg-logo="" group-title="Poland",PL | TVP INFO
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10946.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | TVP KULTURE" tvg-logo="" group-title="Poland",PL | TVP KULTURE
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10945.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL | TVP SPORT HD" tvg-logo="" group-title="Poland",PL | TVP SPORT HD
+http://redo101.com:8080/live/1ODFE6nTX6/n7XHs85iIX/10944.ts
