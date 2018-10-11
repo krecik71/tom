@@ -584,4 +584,124 @@ http://cdntraffice.com:80/live/ge90fjE358/K668fb284/23369.ts
 http://cdntraffice.com:80/live/ge90fjE358/K668fb284/23370.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="BBC CBeebies PL" tvg-logo="" group-title="Poland",BBC CBeebies PL
-http://cdntraffice.com:80/live/ge90fjE358/K668fb284/23427.ts
+http://cdntraffice.com:80/live/ge90fjE358/K668fb284/23427.ts#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="PL: ALE KINO" tvg-logo="" group-title="Poland - PL",PL: ALE KINO
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6121.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: ANIMAL PLANET" tvg-logo="" group-title="Poland - PL",PL: ANIMAL PLANET
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6120.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Canal+ Film" tvg-logo="" group-title="Poland - PL",PL: Canal+ Film
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6111.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Canal+ Seriale" tvg-logo="" group-title="Poland - PL",PL: Canal+ Seriale
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6109.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Canal 1 HD" tvg-logo="" group-title="Poland - PL",PL: Canal 1 HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6064.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Canal Family HD" tvg-logo="" group-title="Poland - PL",PL: Canal Family HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6063.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: CANAL+  HD" tvg-logo="" group-title="Poland - PL",PL: CANAL+  HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6110.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: CANAL+  SPORT" tvg-logo="" group-title="Poland - PL",PL: CANAL+  SPORT
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6108.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: CBS Action" tvg-logo="" group-title="Poland - PL",PL: CBS Action
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6136.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: CINEMAX HD" tvg-logo="" group-title="Poland - PL",PL: CINEMAX HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6106.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Discovery HD" tvg-logo="" group-title="Poland - PL",PL: Discovery HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6104.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: DISCOVERY SCIENCE" tvg-logo="" group-title="Poland - PL",PL: DISCOVERY SCIENCE
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6102.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Disney Channel" tvg-logo="" group-title="Poland - PL",PL: Disney Channel
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6101.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Disney XD" tvg-logo="" group-title="Poland - PL",PL: Disney XD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6075.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Filmbox" tvg-logo="" group-title="Poland - PL",PL: Filmbox
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6099.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Filmbox Action" tvg-logo="" group-title="Poland - PL",PL: Filmbox Action
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6098.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Filmbox Extra HD" tvg-logo="" group-title="Poland - PL",PL: Filmbox Extra HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6133.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Filmbox Family" tvg-logo="" group-title="Poland - PL",PL: Filmbox Family
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6097.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Filmbox Premium" tvg-logo="" group-title="Poland - PL",PL: Filmbox Premium
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6096.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: HBO 2 HD" tvg-logo="" group-title="Poland - PL",PL: HBO 2 HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6093.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: HBO 3 HD" tvg-logo="" group-title="Poland - PL",PL: HBO 3 HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6092.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: History" tvg-logo="" group-title="Poland - PL",PL: History
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6132.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: MTV POLSKA" tvg-logo="" group-title="Poland - PL",PL: MTV POLSKA
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6088.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Nat Geo Wild" tvg-logo="" group-title="Poland - PL",PL: Nat Geo Wild
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6087.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: NATIONAL GEO" tvg-logo="" group-title="Poland - PL",PL: NATIONAL GEO
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6086.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: PL: CANAL  SPORT 2 HD" tvg-logo="" group-title="Poland - PL",PL: PL: CANAL  SPORT 2 HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6085.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Planete" tvg-logo="" group-title="Poland - PL",PL: Planete
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6129.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Polo Tv" tvg-logo="" group-title="Poland - PL",PL: Polo Tv
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6138.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Polsat 2" tvg-logo="" group-title="Poland - PL",PL: Polsat 2
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6081.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Polsat Cafe" tvg-logo="" group-title="Poland - PL",PL: Polsat Cafe
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6127.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Polsat Film" tvg-logo="" group-title="Poland - PL",PL: Polsat Film
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6126.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Polsat HD" tvg-logo="" group-title="Poland - PL",PL: Polsat HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6080.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Polsat News HD" tvg-logo="" group-title="Poland - PL",PL: Polsat News HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6105.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Polsat Play" tvg-logo="" group-title="Poland - PL",PL: Polsat Play
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6125.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Polsat Sport HD" tvg-logo="" group-title="Poland - PL",PL: Polsat Sport HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6076.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Super Polsat HD" tvg-logo="" group-title="Poland - PL",PL: Super Polsat HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6084.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: TeleTOON HD" tvg-logo="" group-title="Poland - PL",PL: TeleTOON HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6079.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: TV 4" tvg-logo="" group-title="Poland - PL",PL: TV 4
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6071.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: TV PULS" tvg-logo="" group-title="Poland - PL",PL: TV PULS
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6124.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Tv Puls HD" tvg-logo="" group-title="Poland - PL",PL: Tv Puls HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6082.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: TVN" tvg-logo="" group-title="Poland - PL",PL: TVN
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6069.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: TVN 7" tvg-logo="" group-title="Poland - PL",PL: TVN 7
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6062.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: TVP ABC" tvg-logo="" group-title="Poland - PL",PL: TVP ABC
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6066.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: TVP 1 HD" tvg-logo="" group-title="Poland - PL",PL: TVP 1 HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6065.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Vox Music TV" tvg-logo="" group-title="Poland - PL",PL: Vox Music TV
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6090.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PL:Polsat Viasat Explore HD" tvg-logo="" group-title="Poland - PL",PL:Polsat Viasat Explore HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/6134.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="??? ADULT(+18) ???" tvg-logo="" group-title="For adults",??? ADULT(+18) ???
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/217.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: CineBox Adult 1 HD" tvg-logo="" group-title="For adults",XXX: CineBox Adult 1 HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/12947.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: CineBox Adult 2 HD" tvg-logo="" group-title="For adults",XXX: CineBox Adult 2 HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/12948.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: CineBox Adult 3 HD" tvg-logo="" group-title="For adults",XXX: CineBox Adult 3 HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/12949.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: CineBox Anal HD" tvg-logo="" group-title="For adults",XXX: CineBox Anal HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/12950.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: CineBox Asian HD" tvg-logo="" group-title="For adults",XXX: CineBox Asian HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/12951.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: CineBox Blonde HD" tvg-logo="" group-title="For adults",XXX: CineBox Blonde HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/12952.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: CineBox Group HD" tvg-logo="" group-title="For adults",XXX: CineBox Group HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/12953.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: CineBox Hardcore HD" tvg-logo="" group-title="For adults",XXX: CineBox Hardcore HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/12954.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: CineBox Party HD" tvg-logo="" group-title="For adults",XXX: CineBox Party HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/12955.ts
+#EXTINF:-1 tvg-ID="" tvg-name="XXX: CineBox Public HD" tvg-logo="" group-title="For adults",XXX: CineBox Public HD
+http://ipturkhd.eu:8000/live/Focusiptv/7zW20aN3w8/12956.ts
+
+
+
+
+
