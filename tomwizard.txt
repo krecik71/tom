@@ -7,7 +7,7 @@ description="     "
 version="1.0.1"
 
 
-name="17wer8 dodane repo mbebe Gregs wall "
+name="17wer8 dodane repo mbebe + Gregs wall "
 url="https://kodihub.net/rr6un"
 img="https://github.com/krecik71/tom/raw/master/icon.png"
 fanart="https://github.com/krecik71/tom/raw/master/fanart.jpg"
