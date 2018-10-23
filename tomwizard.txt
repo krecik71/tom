@@ -1,6 +1,6 @@
 
 name="18 wer1 "
-url="https://kodihub.net/enn8q"
+url="https://kodihub.net/l8wnf"
 img="https://github.com/krecik71/tom/raw/master/icon.png"
 fanart="https://github.com/krecik71/tom/raw/master/fanart.jpg"
 description="     "
@@ -8,14 +8,14 @@ version="1.0.1"
 
 
 name="17wer8 dodane repo mbebe + Gregs wall "
-url="https://kodihub.net/rr6un"
+url="https://kodihub.net/guu48"
 img="https://github.com/krecik71/tom/raw/master/icon.png"
 fanart="https://github.com/krecik71/tom/raw/master/fanart.jpg"
 description="     "
 version="1.0.1"
 
 name="tom7 dodane nowe wtyczki od kol.mbebe "
-url="https://kodihub.net/guu48"
+url="https://kodihub.net/px5lt"
 img="https://github.com/krecik71/tom/raw/master/icon.png"
 fanart="https://github.com/krecik71/raw/blob/master/fanart.jpg"
 description="     "
