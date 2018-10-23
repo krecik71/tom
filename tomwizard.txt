@@ -1,6 +1,6 @@
 
 name="18 wer1 "
-url="https://kodihub.net/enn8q"
+url="https://kodihub.net/edrrs"
 img="https://github.com/krecik71/tom/raw/master/icon.png"
 fanart="https://github.com/krecik71/tom/raw/master/fanart.jpg"
 description="     "
