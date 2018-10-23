@@ -1,0 +1,29 @@
+id="plugin.program.tw"
+version="1.0.3"
+zip="http://.zip"
+
+
+name="TOM Kodi 17"
+version="8"
+url="https://kodihub.net/guu48"
+gui="http://"   -
+kodi="17.6"
+theme=""
+icon="https://github.com/krecik71/tom/raw/master/icon.png"
+fanart="https://github.com/krecik71/tom/raw/master/fanart.jpg"
+preview=""
+adult="no"
+description=" Dodane repo mbebe + Gregs wall."
+
+
+name="TOM Kodi 18"
+version="1"
+url="https://kodihub.net/l8wnf"
+gui="http://"   -
+kodi="18.0"
+theme=""
+icon="https://github.com/krecik71/tom/raw/master/icon.png"
+fanart="https://github.com/krecik71/tom/raw/master/fanart.jpg"
+preview=""
+adult="no"
+description=" Dodane repo mbebe + Gregs wall."
