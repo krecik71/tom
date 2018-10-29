@@ -18,7 +18,7 @@ description=" Dodane repo mbebe + Gregs wall."
 
 name="TOM Kodi 18"
 version="1"
-url="https://kodihub.net/l8wnf"
+url="https://kodihub.net/qiz7y"
 gui="http://"   -
 kodi="18.0"
 theme=""
