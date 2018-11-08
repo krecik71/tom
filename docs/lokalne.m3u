@@ -38,6 +38,14 @@ http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgorzow
 #EXTINF:0 tvg-id="TVP3Katowice" tvg-logo="http://okti.c0.pl/ico/TVP_Regionalna.png" group-title="TVP",TVP Katowice
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkatowice
 
+#EXTINF:0 group-title="DE: Germany",DE: PL TVN 24 HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2073.ts
+
+
+
+
+
+
 #EXTINF:0 tvg-id="TVP3Kielce" tvg-logo="http://okti.c0.pl/ico/TVP_Regionalna.png" group-title="TVP",TVP Kielce
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkielce
 
