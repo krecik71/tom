@@ -15,7 +15,7 @@ description="     "
 version="1.0.1"
 
 name="tom7 dodane nowe wtyczki od kol.mbebe "
-url="https://kodihub.net/px5lt"
+url="http://tw.cherrytv.webd.pl/koditom/17kodi/17.6%20%20%20Dodane%20repo%20mbebe%20+%20Gregs%20wall-0.1.zip"
 img="https://github.com/krecik71/tom/raw/master/icon.png"
 fanart="https://github.com/krecik71/raw/blob/master/fanart.jpg"
 description="     "
