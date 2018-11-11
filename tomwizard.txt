@@ -7,7 +7,7 @@ description="     "
 version="1.0.1"
 
 name="18 dodane repo mbebe + Gregs wall wer1+sf "
-url="https://kodihub.net/lcy"
+url="https://kodihub.net/lcy85"
 img="https://github.com/krecik71/tom/raw/master/icon.png"
 fanart="https://github.com/krecik71/tom/raw/master/fanart.jpg"
 description="     "
