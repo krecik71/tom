@@ -15,7 +15,7 @@ description="     "
 version="1.0.1"
 
 name="18 dodane repo mbebe + Gregs wall "
-url="http://tw.cherrytv.webd.pl/koditom/18kodi/18TOM.zip"
+url="http://tw.cherrytv.webd.pl/koditom/18kodi/18TOML.zip"
 img="https://github.com/krecik71/tom/raw/master/icon.png"
 fanart="https://github.com/krecik71/tom/raw/master/fanart.jpg"
 description="     "
