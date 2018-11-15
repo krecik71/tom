@@ -1,4 +1,15 @@
+<rss version="2.0">
+<channel>
+<title>TOM Wizard</title>
 
-TOM Wizard
-Aktualna wersja 0.1
-Jezeli kupiles od kogos nakladke zostales oszukany
+
+<item>
+<title>Aktualna wersja 0.1</title>
+</item>
+
+
+<item>
+<title>Jezeli kupiles od kogos nakladke zostales oszukany </title>
+</item>
+</channel>
+</rss>
