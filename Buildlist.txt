@@ -31,7 +31,7 @@ description=" Dodane repo mbebe + Gregs wall."
 
 name="TOM Kodi 18lite"
 version="1"
-url="http://tw.cherrytv.webd.pl/koditom/18kodi/18TOMlite.zip"
+url="http://tw.cherrytv.webd.pl/koditom/18kodi/18TOML.zip"
 gui="http://"   -
 kodi="18.0"
 theme=""
