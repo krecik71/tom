@@ -8,7 +8,7 @@ description="     "
 version="1.0.1"
 
 name="17 dodane repo mbebe + Gregs wall+sf "
-url="http://tw.cherrytv.webd.pl/koditom/17kodi/17.6%20%20-0.1.zip"
+url="https://kodihub.net/d5jh6"
 img="https://github.com/krecik71/tom/raw/master/icon.png"
 fanart="https://github.com/krecik71/raw/blob/master/fanart.jpg"
 description="     "
