@@ -8,12 +8,18 @@ description="     "
 version="1.0.1"
 
 name="17 dodane repo mbebe + Gregs wall+sf "
-url="https://kodihub.net/d5jh6"
+url="http://tw.cherrytv.webd.pl/koditom/17kodi/17.6%20%20-0.1.zip"
 img="https://github.com/krecik71/tom/raw/master/icon.png"
 fanart="https://github.com/krecik71/raw/blob/master/fanart.jpg"
 description="     "
 version="1.0.1"
 
+name="18lite dodane repo mbebe + Gregs wall "
+url="http://tw.cherrytv.webd.pl/koditom/18kodi/18TOM%20lite.zip"
+img="https://github.com/krecik71/tom/raw/master/icon.png"
+fanart="https://github.com/krecik71/tom/raw/master/fanart.jpg"
+description="     "
+version="1.0.1"
 
 
 name="TOM 3  17"
