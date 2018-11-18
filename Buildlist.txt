@@ -16,17 +16,18 @@ adult="no"
 description=" Dodane repo mbebe + Gregs wall."
 
 
-name="TOM Kodi 17"
+name="TOM WIZARD 17/TEST"
 version="0.0.2"
 url="https://kodihub.net/d5jh6"
 gui="http://"   -
 kodi="17.6"
 theme=""
-icon="https://github.com/krecik71/tom/raw/master/icon.png"
-fanart="https://github.com/krecik71/tom/raw/master/fanart.jpg"
-preview=""
+icon="https://polishteamforum.com.pl/polishteamforum/download/file.php?avatar=771_1540708494.png"
+fanart="https://betanews.com/wp-content/uploads/2018/09/Kodi.jpg"
+preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
 adult="no"
-description=" Dodane repo mbebe + Gregs wall+sf"
+description=" TOM WIZARD TEST.  Opcja Fresh lub Standard."
+
 
 
 
