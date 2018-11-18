@@ -1,6 +1,6 @@
 id="plugin.program.tom"
-version="1.0.0"
-zip="https://github.com/krecik71/tom/raw/master/docs/plugin.program.tom-1.0.0.zip"
+version="1.0.3"
+zip="https://github.com/krecik71/tom/raw/master/docs/plugin.program.tom-1.0.3.zip"
 
 
 name="TOM Kodi 17"
