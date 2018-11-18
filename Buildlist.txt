@@ -16,18 +16,6 @@ adult="no"
 description=" Dodane repo mbebe + Gregs wall."
 
 
-name="TOM Kodi 18"
-version="1"
-url="http://tw.cherrytv.webd.pl/koditom/18kodi/18TOM.zip"
-gui="http://"   -
-kodi="18.0"
-theme=""
-icon="https://github.com/krecik71/tom/raw/master/icon.png"
-fanart="https://github.com/krecik71/tom/raw/master/fanart.jpg"
-preview=""
-adult="no"
-description=" Dodane repo mbebe + Gregs wall+sf."
-
 
 name="TOM Kodi 18lite"
 version="1"
