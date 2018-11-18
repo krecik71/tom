@@ -15,9 +15,24 @@ preview=""
 adult="no"
 description=" Dodane repo mbebe + Gregs wall."
 
+
+name="TOM Kodi 17"
+version="9"
+url="https://kodihub.net/d5jh6"
+gui="http://"   -
+kodi="17.6"
+theme=""
+icon="https://github.com/krecik71/tom/raw/master/icon.png"
+fanart="https://github.com/krecik71/tom/raw/master/fanart.jpg"
+preview=""
+adult="no"
+description=" Dodane repo mbebe + Gregs wall."
+
+
+
 name="TOM Lite Kodi 18 "
 version="1"
-url="http://tw.cherrytv.webd.pl/koditom/18kodi/Kodi.zip"
+url="https://kodihub.net/tafag"
 gui="http://"
 kodi="18.0"
 theme=""
@@ -29,7 +44,7 @@ description="TOM Kodi 18 beta 4.Opcja Fresh lub Standard."
 
 name="TOM WIZARD 18/TEST"
 version="0.1"
-url="http://tw.cherrytv.webd.pl/koditom/18kodi/18TOM.zip"
+url="https://kodihub.net/tzcck"
 gui="http://"   -
 kodi="18.0"
 theme=""
