@@ -26,7 +26,7 @@ icon="https://github.com/krecik71/tom/raw/master/icon.png"
 fanart="https://github.com/krecik71/tom/raw/master/fanart.jpg"
 preview=""
 adult="no"
-description=" Dodane repo mbebe + Gregs wall."
+description=" Dodane repo mbebe + Gregs wall+sf"
 
 
 
