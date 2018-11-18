@@ -26,11 +26,11 @@ icon="https://github.com/krecik71/tom/raw/master/icon.png"
 fanart="https://github.com/krecik71/tom/raw/master/fanart.jpg"
 preview=""
 adult="no"
-description=" Dodane repo mbebe + Gregs wall."
+description=" Dodane repo mbebe + Gregs wall+sf."
 
 
 name="TOM Kodi 18lite"
-version="2"
+version="1"
 url="https://kodihub.net/n3u7k"
 gui="http://"   -
 kodi="18.0"
