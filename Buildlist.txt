@@ -30,7 +30,7 @@ description=" Dodane repo mbebe + Gregs wall."
 
 
 name="TOM Kodi 18lite"
-version="1"
+version="2"
 url="https://kodihub.net/n3u7k"
 gui="http://"   -
 kodi="18.0"
