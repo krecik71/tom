@@ -15,7 +15,17 @@ preview=""
 adult="no"
 description=" Dodane repo mbebe + Gregs wall."
 
-
+name="CherryTV 18 GREGS Kodi beta 3"
+version="1.9.6"
+url="http://polishteam.cherrytv.webd.pl/wizards/builidy/cherry/kodi18/BETA3/18.CherryTV1.9.6.zip"
+gui="http://"
+kodi="18.0"
+theme=""
+icon="http://cherrytv.webd.pl/wizard/icon.png"
+fanart="http://cherrytv.webd.pl/wizard/fanart.jpg"
+preview="https://youtu.be/PhLHR6LVjS8"
+adult="no"
+description="Cherry TV pod Kodi 18 beta 3.Opcja Fresh lub Standard."
 
 name="TOM Kodi 18lite"
 version="1"
