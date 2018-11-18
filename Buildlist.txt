@@ -27,7 +27,7 @@ preview="https://youtu.be/PhLHR6LVjS8"
 adult="no"
 description="Cherry TV pod Kodi 18 beta 3.Opcja Fresh lub Standard."
 
-name="TOM Kodi 18lite"
+name="TOM Kodi 18  lite"
 version="1"
 url="https://kodihub.net/n3u7k"
 gui="http://"   -
