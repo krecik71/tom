@@ -4,7 +4,7 @@ zip="https://github.com/krecik71/tom/raw/master/docs/plugin.program.tom-1.0.0.zi
 
 
 name="TOM Kodi 17"
-version="8"
+version="0.0.1"
 url="https://kodihub.net/guu48"
 gui="http://"   -
 kodi="17.6"
@@ -17,7 +17,7 @@ description=" Dodane repo mbebe + Gregs wall."
 
 
 name="TOM Kodi 17"
-version="8.1"
+version="0.0.2"
 url="https://kodihub.net/d5jh6"
 gui="http://"   -
 kodi="17.6"
