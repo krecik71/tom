@@ -56,7 +56,7 @@ adult="no"
 description=" TOM WIZARD TEST.  Opcja Fresh lub Standard."
 
 
-name="TOM WIZARD 18/TEST"
+name="TOM WIZARD 18/RC"
 version="1.0.3"
 url="http://tw.cherrytv.webd.pl/koditom/18kodi/18%201.0.3.zip"
 gui="http://"   -
