@@ -30,7 +30,7 @@ description=" TOM WIZARD TEST.  Opcja Fresh lub Standard."
 
 name="TOM WIZARD 17"
 version="0.0.3"
-url="https://kodihub.net/d5jh6"
+url="http://tw.cherrytv.webd.pl/koditom/17kodi/17%201.0.3.zip"
 gui="http://"   -
 kodi="17.6"
 theme=""
