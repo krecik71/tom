@@ -28,6 +28,18 @@ preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
 adult="no"
 description=" TOM WIZARD TEST.  Opcja Fresh lub Standard."
 
+name="TOM WIZARD 17"
+version="0.0.3"
+url="https://kodihub.net/d5jh6"
+gui="http://"   -
+kodi="17.6"
+theme=""
+icon="https://polishteamforum.com.pl/polishteamforum/download/file.php?avatar=771_1540708494.png"
+fanart="https://betanews.com/wp-content/uploads/2018/09/Kodi.jpg"
+preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
+adult="no"
+description=" TOM WIZARD TEST. Opcja Fresh lub Standard."
+
 
 
 
