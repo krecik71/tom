@@ -79,3 +79,16 @@ fanart="https://betanews.com/wp-content/uploads/2018/09/Kodi.jpg"
 preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
 adult="no"
 description=" TOM WIZARD TEST.  Opcja Fresh lub Standard."
+
+
+name="LISTA PVR SIMPLE IPTV UPDATE"
+version="0.0.1"
+url="http://tw.cherrytv.webd.pl/koditom/18kodi/UPDATE_PVR_18.zip"
+gui="http://"   -
+kodi="18.0"
+theme=""
+icon="https://polishteamforum.com.pl/polishteamforum/download/file.php?avatar=771_1540708494.png"
+fanart="https://betanews.com/wp-content/uploads/2018/09/Kodi.jpg"
+preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
+adult="no"
+description="DANE LISTA PVR SIMPLE IPTV CLIENT  DLA TOM WIZARD   KODI 18"
