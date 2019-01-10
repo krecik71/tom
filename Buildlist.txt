@@ -43,7 +43,7 @@ description=" TOM WIZARD TEST. Opcja Fresh lub Standard."
 
 name="TOM WIZARD 17.6"
 version="1.0.4"
-url="http://tw.cherrytv.webd.pl/koditom/17kodi/17%201.0.43.zip"
+url="http://tw.cherrytv.webd.pl/koditom/17kodi/17%201.0.4.zip"
 gui="http://"   -
 kodi="17.6"
 theme=""
