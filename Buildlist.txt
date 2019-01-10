@@ -42,8 +42,8 @@ description=" TOM WIZARD TEST. Opcja Fresh lub Standard."
 
 
 name="TOM WIZARD 17.6"
-version="1.0.3"
-url="http://tw.cherrytv.webd.pl/koditom/17kodi/17%201.0.3.zip"
+version="1.0.4"
+url="http://tw.cherrytv.webd.pl/koditom/17kodi/17%201.0.43.zip"
 gui="http://"   -
 kodi="17.6"
 theme=""
@@ -100,9 +100,9 @@ adult="no"
 description=" TOM WIZARD TEST.  Opcja Fresh lub Standard."
 
 
-name="TOM WIZARD 18/RC3"
-version="1.0.3"
-url="http://tw.cherrytv.webd.pl/koditom/18kodi/18%201.0.3.zip"
+name="TOM WIZARD 18/RC4"
+version="1.0.4"
+url="http://tw.cherrytv.webd.pl/koditom/18kodi/18%201.0.4.zip"
 gui="http://"   -
 kodi="18.0"
 theme=""
