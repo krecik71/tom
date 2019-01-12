@@ -53,7 +53,17 @@ preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
 adult="no"
 description=" TOM WIZARD TEST. Opcja Fresh lub Standard."
 
-
+name="TOM WIZARD"
+version="1.0.3"
+url="http://tw.cherrytv.webd.pl/koditom/17kodi/17%201.0.3.zip"
+gui="http://"   -
+kodi="17.6"
+theme=""
+icon="https://polishteamforum.com.pl/polishteamforum/download/file.php?avatar=771_1540708494.png"
+fanart="https://betanews.com/wp-content/uploads/2018/09/Kodi.jpg"
+preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
+adult="no"
+description=" TOM WIZARD TEST. Opcja Fresh lub Standard."
 
 
 
@@ -112,7 +122,17 @@ preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
 adult="no"
 description=" TOM WIZARD TEST.  Opcja Fresh lub Standard."
 
-
+name="TOM WIZARD "
+version="1.0.3"
+url="http://tw.cherrytv.webd.pl/koditom/18kodi/18%201.0.3.zip"
+gui="http://"   -
+kodi="18.0"
+theme=""
+icon="https://polishteamforum.com.pl/polishteamforum/download/file.php?avatar=771_1540708494.png"
+fanart="https://betanews.com/wp-content/uploads/2018/09/Kodi.jpg"
+preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
+adult="no"
+description=" TOM WIZARD TEST.  Opcja Fresh lub Standard."
 
 
 name="LISTA PVR SIMPLE IPTV UPDATE"
