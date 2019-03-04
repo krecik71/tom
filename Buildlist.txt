@@ -158,7 +158,7 @@ preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
 adult="no"
 description="DANE LISTA PVR SIMPLE IPTV CLIENT  DLA TOM WIZARD   KODI 18"
 
-name="Bufor 150MB"
+name="Bufor 150MB UPDATE "
 version="1.0"
 url="http://tw.cherrytv.webd.pl/koditom/inne/Bufor150.zip"
 gui="http://"
