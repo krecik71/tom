@@ -29,19 +29,6 @@ adult="no"
 description=" TOM WIZARD TEST.  Opcja Fresh lub Standard."
 
 name="TOM WIZARD 17"
-version="1.0.5"
-url="http://tw.cherrytv.webd.pl/koditom/17kodi/17%201.0.5.zip"
-gui="http://"   -
-kodi="17.6"
-theme=""
-icon="https://polishteamforum.com.pl/polishteamforum/download/file.php?avatar=771_1540708494.png"
-fanart="https://betanews.com/wp-content/uploads/2018/09/Kodi.jpg"
-preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
-adult="no"
-description=" TOM WIZARD TEST. Opcja Fresh lub Standard."
-
-
-name="TOM WIZARD 17.6"
 version="1.0.6"
 url="http://tw.cherrytv.webd.pl/koditom/17kodi/17%201.0.6.zip"
 gui="http://"   -
@@ -53,9 +40,22 @@ preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
 adult="no"
 description=" TOM WIZARD TEST. Opcja Fresh lub Standard."
 
+
+name="TOM WIZARD 17.6"
+version="1.0.7"
+url="http://tw.cherrytv.webd.pl/koditom/17kodi/17%201.0.7.zip"
+gui="http://"   -
+kodi="17.6"
+theme=""
+icon="https://polishteamforum.com.pl/polishteamforum/download/file.php?avatar=771_1540708494.png"
+fanart="https://betanews.com/wp-content/uploads/2018/09/Kodi.jpg"
+preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
+adult="no"
+description=" TOM WIZARD TEST. Opcja Fresh lub Standard."
+
 name="TOM 17.6"
-version="1.0.4"
-url="http://tw.cherrytv.webd.pl/koditom/17kodi/17%201.0.4.zip"
+version="1.0.5"
+url="http://tw.cherrytv.webd.pl/koditom/17kodi/17%201.0.5.zip"
 gui="http://"   -
 kodi="17.6"
 theme=""
@@ -111,18 +111,6 @@ description=" TOM WIZARD TEST.  Opcja Fresh lub Standard."
 
 
 name="TOM WIZARD 18/RC4"
-version="1.0.4"
-url="http://tw.cherrytv.webd.pl/koditom/18kodi/18%201.0.4.zip"
-gui="http://"   -
-kodi="18.0"
-theme=""
-icon="https://polishteamforum.com.pl/polishteamforum/download/file.php?avatar=771_1540708494.png"
-fanart="https://betanews.com/wp-content/uploads/2018/09/Kodi.jpg"
-preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
-adult="no"
-description=" TOM WIZARD TEST.  Opcja Fresh lub Standard."
-
-name="TOM WIZARD 18 "
 version="1.0.6"
 url="http://tw.cherrytv.webd.pl/koditom/18kodi/18%201.0.6.zip"
 gui="http://"   -
@@ -134,7 +122,19 @@ preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
 adult="no"
 description=" TOM WIZARD TEST.  Opcja Fresh lub Standard."
 
-name="TOM WIZARD 18 mr-evil "
+name="TOM WIZARD 18 "
+version="1.0.7"
+url="http://tw.cherrytv.webd.pl/koditom/18kodi/18%201.0.7.zip"
+gui="http://"   -
+kodi="18.0"
+theme=""
+icon="https://polishteamforum.com.pl/polishteamforum/download/file.php?avatar=771_1540708494.png"
+fanart="https://betanews.com/wp-content/uploads/2018/09/Kodi.jpg"
+preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
+adult="no"
+description=" TOM WIZARD TEST.  Opcja Fresh lub Standard."
+
+name="TOM  18 mr-evil "
 version="0.0.1"
 url="http://tw.cherrytv.webd.pl/koditom/18kodi/18%20mr-evil%20%200.0.1.zip"
 gui="http://"   -
@@ -145,6 +145,19 @@ fanart="https://betanews.com/wp-content/uploads/2018/09/Kodi.jpg"
 preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
 adult="no"
 description=" TOM WIZARD TEST.  Opcja Fresh lub Standard."
+
+name="TOM WIZARD 18 mr-evil "
+version="0.0.2"
+url="http://tw.cherrytv.webd.pl/koditom/18kodi/18%20mr-evil%20%200.0.2.zip"
+gui="http://"   -
+kodi="18.0"
+theme=""
+icon="https://polishteamforum.com.pl/polishteamforum/download/file.php?avatar=771_1540708494.png"
+fanart="https://betanews.com/wp-content/uploads/2018/09/Kodi.jpg"
+preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
+adult="no"
+description=" TOM WIZARD TEST.  Opcja Fresh lub Standard."
+
 
 name="LISTA PVR SIMPLE IPTV UPDATE"
 version="0.0.1"
