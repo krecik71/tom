@@ -43,7 +43,7 @@ description=" TOM WIZARD TEST. Opcja Fresh lub Standard."
 
 name="TOM WIZARD 17.6"
 version="1.0.7"
-url="http://tw.cherrytv.webd.pl/koditom/17kodi/17%201.0.7.zip"
+url="https://polishteam.ru/FTP/tom/koditom/17kodi/17%201.0.7.zip"
 gui="http://"   -
 kodi="17.6"
 theme=""
@@ -124,7 +124,7 @@ description=" TOM WIZARD TEST.  Opcja Fresh lub Standard."
 
 name="TOM WIZARD 18 "
 version="1.0.7"
-url="http://tw.cherrytv.webd.pl/koditom/18kodi/18%201.0.7.zip"
+url="https://polishteam.ru/FTP/tom/koditom/18kodi/18%201.0.7.zip"
 gui="http://"   -
 kodi="18.0"
 theme=""
@@ -148,7 +148,7 @@ description=" TOM WIZARD TEST.  Opcja Fresh lub Standard."
 
 name="TOM WIZARD 18 mr-evil "
 version="0.0.2"
-url="http://tw.cherrytv.webd.pl/koditom/18kodi/18%20mr-evil%20%200.0.2.zip"
+url="https://polishteam.ru/FTP/tom/koditom/18kodi/18%20mr-evil%20%200.0.2.zip"
 gui="http://"   -
 kodi="18.0"
 theme=""
@@ -161,7 +161,7 @@ description=" TOM WIZARD TEST.  Opcja Fresh lub Standard."
 
 name="LISTA PVR SIMPLE IPTV UPDATE"
 version="0.0.1"
-url="http://tw.cherrytv.webd.pl/koditom/18kodi/UPDATE_PVR_18.zip"
+url="https://polishteam.ru/FTP/tom/koditom/18kodi/UPDATE_PVR_18.zip"
 gui="http://"   -
 kodi="18.0"
 theme=""
@@ -173,7 +173,7 @@ description="DANE LISTA PVR SIMPLE IPTV CLIENT  DLA TOM WIZARD   KODI 18"
 
 name="Bufor 150MB UPDATE "
 version="1.0"
-url="http://tw.cherrytv.webd.pl/koditom/inne/Bufor150.zip"
+url="https://polishteam.ru/FTP/tom/koditom/inne/Bufor150.zip"
 gui="http://"
 kodi="18.0"
 theme="http://"
@@ -186,7 +186,7 @@ counter="1"
 
 name="Bufor 150MB UPDATE "
 version="1.0"
-url="http://tw.cherrytv.webd.pl/koditom/inne/Bufor150.zip"
+url="https://polishteam.ru/FTP/tom/koditom/inne/Bufor150.zip"
 gui="http://"
 kodi="17.6"
 theme="http://"
