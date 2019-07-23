@@ -88,7 +88,7 @@ description=" TOM WIZARD TEST.  Opcja Fresh lub Standard."
 
 name="TOM WIZARD 18/RC"
 version="1.0.8"
-url="https://kodihub.net/hcm2hs"
+url="https://polishteam.ru/FTP/tom/koditom/18kodi/18%201.0.8.zip"
 gui="http://"   -
 kodi="18.0"
 theme=""
@@ -114,7 +114,7 @@ description=" TOM WIZARD TEST.  Opcja Fresh lub Standard."
 
 name="TOM  18 mr-evil "
 version="0.0.3"
-url="https://polishteam.ru/FTP/tom/koditom/18kodi/18%20mr-evil%20%200.0.3s.zip"
+url="https://polishteam.ru/FTP/tom/koditom/18kodi/18%20mr-evil%20%200.0.3.zip"
 gui="http://"   -
 kodi="18.0"
 theme=""
