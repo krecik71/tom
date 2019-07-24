@@ -102,7 +102,7 @@ description=" TOM WIZARD TEST.  Opcja Fresh lub Standard."
 
 name="TOM WIZARD 18 "
 version="1.0.7"
-url=""
+url="http"
 gui="http://"   -
 kodi="18.0"
 theme=""
