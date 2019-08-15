@@ -168,7 +168,7 @@ counter="1"
 
 name="AKTUALIZACJA  mr evil vip "
 version="0.0.4"
-url="https://kodihub.net/ys5u4"
+url="https://kodihub.net/bchzv"
 gui="http://"
 kodi="18.3"
 theme="http://"
