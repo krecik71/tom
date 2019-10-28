@@ -140,7 +140,7 @@ description=" TOM WIZARD TEST.  Opcja Fresh lub Standard."
 
 name="WP PILOT UPDATE"
 version="0.0.1"
-url=""
+url="https://polishteam.ru/FTP/tom/koditom/RSS/UPDATE_WP%20PILOT.zip"
 gui="http://"   -
 kodi="18.0"
 theme=""
