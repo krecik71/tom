@@ -229,7 +229,7 @@ description="AKTUALIZACJA VIP 18 1.0.8 pod Kodi 18.Opcja STANDARD"
 
 name="AKTUALIZACJA  18.2  vip "
 version="1.0.9"
-url="https://polishteam.ru/FTP/tom/koditom//vip%20test/18%201.0.9%20vip.zip"
+url="https://polishteam.ru/FTP/tom/koditom/inne/vip%20test/18%201.0.9%20vip.zip"
 gui="http://"
 kodi="18.3"
 theme="http://"
