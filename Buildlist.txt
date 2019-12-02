@@ -151,7 +151,7 @@ adult="no"
 description="DANE WP PILOT  DLA TOM WIZARD   KODI 18"
 
 
-name="LISTA PVR SIMPLE IPTV UPDATE"
+name="LISTA PVR SIMPLE IPTV "
 version="0.0.1"
 url=""
 gui="http://"   -
