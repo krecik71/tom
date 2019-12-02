@@ -175,7 +175,7 @@ preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
 adult="no"
 description="Bufor 150MB UPDATE"
 
-name="AKTUALIZACJA  bufor 150 "
+name="AKTUALIZACJA  bufor 150 UPDATE"
 version="0.0.1"
 url="https://kodihub.net/k5kyr"
 gui="http://"
