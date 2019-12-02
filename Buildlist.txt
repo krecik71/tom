@@ -151,7 +151,7 @@ adult="no"
 description="DANE WP PILOT  DLA TOM WIZARD   KODI 18"
 
 
-name="LISTA PVR SIMPLE IPTV "
+name="LISTA PVR SIMPLE IPTV UPDATE"
 version="0.0.1"
 url=""
 gui="http://"   -
@@ -164,14 +164,14 @@ adult="no"
 description="DANE LISTA PVR SIMPLE IPTV CLIENT  DLA TOM WIZARD   KODI 18"
 
 name="Bufor18 150MB UPDATE "
-version="1.0"
+version="0.0.1"
 url="https://kodihub.net/k5kyr"
 gui="http://"
 kodi="18.0"
-theme="http://"
-icon="http://"
-fanart="http://"
-preview="http://"
+theme=""
+icon="https://raw.githubusercontent.com/krecik71/tom/master/icon.png"
+fanart="https://betanews.com/wp-content/uploads/2018/09/Kodi.jpg"
+preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
 adult="no"
 description="Bufor 150MB UPDATE"
 
