@@ -50,7 +50,7 @@ description="TOM Kodi 18 beta 4.Opcja Fresh lub Standard."
 
 name="TOM WIZARD 18-2"
 version="1.0.9"
-url="https://kodihub.net/tzcck"
+url="https://megawrzuta.pl/files/937330315f8bd96532f18588a7f5c4e9.zip"
 gui="http://"   -
 kodi="18.0"
 theme=""
