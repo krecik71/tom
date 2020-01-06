@@ -38,7 +38,7 @@ description=" TOM WIZARD TEST. Opcja Fresh lub Standard."
 
 name="TOM WIZARD 18/RC mr-evil-2 "
 version="0.0.4"
-url="https://kodihub.net/tafag"
+url="http://tom12.webd.pro/18/18%20mr-evil%20%200.0.4.zip"
 gui="http://"
 kodi="18.0"
 theme=""
@@ -50,7 +50,7 @@ description="TOM Kodi 18 beta 4.Opcja Fresh lub Standard."
 
 name="TOM WIZARD 18-2"
 version="1.0.9"
-url="https://megawrzuta.pl/files/937330315f8bd96532f18588a7f5c4e9.zip"
+url="http://tom12.webd.pro/18/18%201.0.9.zip"
 gui="http://"   -
 kodi="18.0"
 theme=""
