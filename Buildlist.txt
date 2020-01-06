@@ -3,31 +3,6 @@ version="1.0.3"
 zip="https://github.com/krecik71/tom/raw/master/docs/plugin.program.tom-1.0.3.zip"
 
 
-name="TOM Kodi 17"
-version="1.0.1"
-url="https://kodihub.net/guu48"
-gui="http://"   -
-kodi="17.6"
-theme=""
-icon="https://github.com/krecik71/tom/raw/master/icon.png"
-fanart="https://github.com/krecik71/tom/raw/master/fanart.jpg"
-preview=""
-adult="no"
-description=" Dodane repo mbebe + Gregs wall."
-
-
-name="TOM WIZARD 17/TEST"
-version="1.0.2"
-url="https://kodihub.net/d5jh6"
-gui="http://"   -
-kodi="17.6"
-theme=""
-icon="https://raw.githubusercontent.com/krecik71/tom/master/icon.png"
-fanart="https://betanews.com/wp-content/uploads/2018/09/Kodi.jpg"
-preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
-adult="no"
-description=" TOM WIZARD TEST.  Opcja Fresh lub Standard."
-
 name="TOM WIZARD 17"
 version="1.0.8"
 url="https://kodihub.net/j4yhh"
@@ -61,8 +36,8 @@ description=" TOM WIZARD TEST. Opcja Fresh lub Standard."
 
 
 
-name="TOM Lite Kodi 18 "
-version="1.0.1"
+name="TOM WIZARD 18/RC mr-evil-2 "
+version="0.0.4"
 url="https://kodihub.net/tafag"
 gui="http://"
 kodi="18.0"
@@ -73,8 +48,8 @@ preview="https://youtu.be/jS8"
 adult="no"
 description="TOM Kodi 18 beta 4.Opcja Fresh lub Standard."
 
-name="TOM WIZARD 18/TEST"
-version="1.0.2"
+name="TOM WIZARD 18-2"
+version="1.0.9"
 url="https://kodihub.net/tzcck"
 gui="http://"   -
 kodi="18.0"
