@@ -136,7 +136,7 @@ description=" TOM WIZARD TEST.  Opcja Fresh lub Standard."
 
 name="CMKodi 18 LINK 3 "
 version="1.7.3"
-url="https://tom12.webd.pro/18/CMKodi%2018.zip"
+url="http://tom12.webd.pro/18/CMKodi%2018.zip"
 gui="http://"   -
 kodi="18.5"
 theme=""
