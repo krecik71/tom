@@ -134,6 +134,20 @@ preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
 adult="no"
 description=" TOM WIZARD TEST.  Opcja Fresh lub Standard."
 
+name="CMKodi 18 LINK 3 "
+version="1.7.3"
+url="https://tom12.webd.pro/18/CMKodi%2018.zip"
+gui="http://"   -
+kodi="18.5"
+theme=""
+icon="https://polishteam.ru/FTP/cmkodi/CM/icon.png"
+fanart="https://polishteam.ru/FTP/cmkodi/CM/Zrzuty/E2.jpeg"
+preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
+adult="no"
+description=" Skin Kim-Shiu SuperFast E2.  Opcja Fresh lub Standard."
+
+
+
 name="WP PILOT UPDATE"
 version="0.0.1"
 url="https://polishteam.ru/FTP/tom/koditom/RSS/UPDATE_WP%20PILOT.zip"
