@@ -146,7 +146,17 @@ preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
 adult="no"
 description=" Skin Kim-Shiu SuperFast E2.  Opcja Fresh lub Standard."
 
-
+ame="CHERRY TV"
+version="2.0.4"
+url="http://tom12.webd.pro/18/CHERRY204.zip"
+gui="http://"
+kodi="18.5"
+theme=""
+icon="http://polishteam.ru/PolishTeam/ikony/cherry/icon.png"
+fanart="http://polishteam.ru/PolishTeam/ikony/cherry/fanart.jpg"
+preview="https://youtu.be/PhLHR6LVjS8"
+adult="no"
+description="Cherry TV pod Kodi 18.Opcja Fresh lub Standard.LINK "
 
 name="WP PILOT UPDATE"
 version="0.0.1"
