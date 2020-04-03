@@ -36,7 +36,7 @@ description=" TOM WIZARD TEST. Opcja Fresh lub Standard."
 
 
 
-name="TOM WIZARD 18/RC mr-evil-2 "
+name="TOM WIZARD 18/RC mr-evil-link2 "
 version="0.0.4"
 url="http://tom12.webd.pro/18/18%20mr-evil%20%200.0.4.zip"
 gui="http://"
@@ -48,7 +48,7 @@ preview="https://youtu.be/jS8"
 adult="no"
 description="TOM Kodi 18 beta 4.Opcja Fresh lub Standard."
 
-name="TOM WIZARD 18-2"
+name="TOM WIZARD 18-link2"
 version="1.0.9"
 url="http://tom12.webd.pro/18/18%201.0.9.zip"
 gui="http://"   -
@@ -60,21 +60,9 @@ preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
 adult="no"
 description=" TOM WIZARD TEST.  Opcja Fresh lub Standard."
 
-name="TOM WIZARD E2 18-2"
+name="TOM WIZARD E2 18-link2"
 version="1.0.9"
 url="http://tom12.webd.pro/18/18%201.0.9%20e2.zip"
-gui="http://"   -
-kodi="18.0"
-theme=""
-icon="https://raw.githubusercontent.com/krecik71/tom/master/icon.png"
-fanart="https://betanews.com/wp-content/uploads/2018/09/Kodi.jpg"
-preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
-adult="no"
-description=" TOM WIZARD TEST.  Opcja Fresh lub Standard."
-
-name="TOM WIZARD 18/RC"
-version="1.0.8"
-url="https://polishteam.ru/FTP/tom/koditom/18kodi/18%201.0.8.zip"
 gui="http://"   -
 kodi="18.0"
 theme=""
@@ -108,19 +96,6 @@ preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
 adult="no"
 description=" TOM WIZARD TEST.  Opcja Fresh lub Standard."
 
-
-
-name="TOM WIZARD 18 mr-evil "
-version="0.0.3"
-url="https://polishteam.ru/FTP/tom/koditom/18kodi/18%20mr-evil%20%200.0.3.zip"
-gui="http://"   -
-kodi="18.0"
-theme=""
-icon="https://raw.githubusercontent.com/krecik71/tom/master/icon.png"
-fanart="https://betanews.com/wp-content/uploads/2018/09/Kodi.jpg"
-preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
-adult="no"
-description=" TOM WIZARD TEST.  Opcja Fresh lub Standard."
 
 name="TOM WIZARD 18/RC mr-evil "
 version="0.0.4"
