@@ -234,7 +234,7 @@ description="AKTUALIZACJA VIP 18 1.0.9 pod Kodi 18.Opcja STANDARD"
 
 name="AKTUALIZACJA  18  vip "
 version="1.0.9"
-url="ftp://tom12@ftp.tom12.webd.pro/public_ftp/18%201.0.9%20vip.zip"
+url="18%201.0.9%20vip.zip"
 gui="http://"
 kodi="18.3"
 theme="http://"
