@@ -27,11 +27,3 @@
 <info></info> 
 </channel>
 
-<channels> 
-<channel> 
-<name>[B]Telewizja[/B]</name> 
-<thumbnail>https://ia802901.us.archive.org/30/items/polska_202003/Polska.png</thumbnail> 
-<externallink>https://raw.githubusercontent.com/anton432/PL_Addon/master/TelewizjaMenue</externallink> 
-<fanart>https://ia802901.us.archive.org/30/items/polska_202003/Polska.png</fanart> 
-<info></info> 
-</channel>
