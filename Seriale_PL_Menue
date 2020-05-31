@@ -46,14 +46,7 @@
 <info></info> 
 </channel>
 
-<channels> 
-<channel> 
-<name>[B]Sukcesja[/B]</name> 
-<thumbnail>https://fwcdn.pl/fpo/94/56/779456/7845605.3.jpg</thumbnail> 
-<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Sukcesja.m3u</externallink> 
-<fanart>https://fwcdn.pl/fpo/94/56/779456/7845605.3.jpg</fanart> 
-<info></info> 
-</channel>
+
 
 <channels> 
 <channel> 
@@ -64,23 +57,7 @@
 <info></info> 
 </channel>
 
-<channels> 
-<channel> 
-<name>[B]The Long Song[/B]</name> 
-<thumbnail>https://2.bp.blogspot.com/-q6VBkiXYvk4/XDynbw_N8EI/AAAAAAABsbg/W_kpspBD4jk-60vUJStLg1ef4-TI0udRACLcBGAs/s1600/8J2ci62.jpg</thumbnail> 
-<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_The%20long%20song.m3u</externallink> 
-<fanart>https://2.bp.blogspot.com/-q6VBkiXYvk4/XDynbw_N8EI/AAAAAAABsbg/W_kpspBD4jk-60vUJStLg1ef4-TI0udRACLcBGAs/s1600/8J2ci62.jpg</fanart> 
-<info></info> 
-</channel>
 
-<channels> 
-<channel> 
-<name>[B]Upload[/B]</name> 
-<thumbnail>https://st.kp.yandex.net/images/film_iphone/iphone360_1127489.jpg</thumbnail> 
-<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Upload.m3u</externallink> 
-<fanart>https://st.kp.yandex.net/images/film_iphone/iphone360_1127489.jpg</fanart> 
-<info></info> 
-</channel>
 
 <channels> 
 <channel> 
@@ -88,14 +65,5 @@
 <thumbnail>https://www.newsslash.com/images/upload/tag_teaser/5060-wataha.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Wataha.m3u</externallink> 
 <fanart>https://www.newsslash.com/images/upload/tag_teaser/5060-wataha.jpg</fanart> 
-<info></info> 
-</channel>
-
-<channels> 
-<channel> 
-<name>[B]Znaki[/B]</name> 
-<thumbnail>https://i.iplsc.com/znaki-wyrezyserowali-jakub-miszczak-i-marcin-ziebinski/0007KDN879QWD3ER-C122-F4.jpg</thumbnail> 
-<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Serial_Znaki.m3u</externallink> 
-<fanart>https://i.iplsc.com/znaki-wyrezyserowali-jakub-miszczak-i-marcin-ziebinski/0007KDN879QWD3ER-C122-F4.jpg</fanart> 
 <info></info> 
 </channel>
