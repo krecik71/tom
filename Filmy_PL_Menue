@@ -1,0 +1,61 @@
+<layouttype>thumbnail</layouttype>
+
+<channels> 
+<channel> 
+<name>[B]Filmy 1[/B]</name>
+<link>http://ignorame<link>
+<thumbnail></thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Filmy_PL_1.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Filmy 2[/B]</name>
+<link>http://ignorame<link>
+<thumbnail></thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Filmy_PL_2.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Filmy 3[/B]</name>
+<link>http://ignorame<link>
+<thumbnail></thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Filmy_PL_3.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Filmy 4[/B]</name>
+<link>http://ignorame<link>
+<thumbnail></thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Filmy_PL_4.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Filmy 5[/B]</name>
+<link>http://ignorame<link>
+<thumbnail></thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Filmy_PL_5.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Filmy 6 - 4K UHD[/B]</name>
+<link>http://ignorame<link>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/anton432/M3U/master/Filmy_PL_4_K.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel>
