@@ -3,27 +3,27 @@
 <channels> 
 <channel> 
 <name>[B]Dla Dzieci[/B]</name> 
-<thumbnail>https://ia800107.us.archive.org/26/items/unnamed_20180306_2028/unnamed.png</thumbnail> 
+<thumbnail>https://raw.githubusercontent.com/krecik71/tom/master/docs/png/BAJKI.png</thumbnail> 
 <externallink>https://raw.githubusercontent.com/krecik71/tom/master/DLA_DZIECI_Menue</externallink> 
-<fanart>https://ia800107.us.archive.org/26/items/unnamed_20180306_2028/unnamed.png</fanart> 
+<fanart>https://raw.githubusercontent.com/krecik71/tom/master/docs/png/BAJKI.png</fanart> 
 <info></info> 
 </channel>
 
 <channels> 
 <channel> 
 <name>[B]Filmy[/B]</name> 
-<thumbnail>https://ia800107.us.archive.org/26/items/unnamed_20180306_2028/unnamed.png</thumbnail> 
+<thumbnail>https://raw.githubusercontent.com/krecik71/tom/master/docs/png/FILMY.png</thumbnail> 
 <externallink>https://raw.githubusercontent.com/krecik71/tom/master/Filmy_PL_Menue</externallink> 
-<fanart>https://ia800107.us.archive.org/26/items/unnamed_20180306_2028/unnamed.png</fanart> 
+<fanart>https://raw.githubusercontent.com/krecik71/tom/master/docs/png/FILMY.png</fanart> 
 <info></info> 
 </channel>
 
 <channels> 
 <channel> 
 <name>[B]Seriale[/B]</name> 
-<thumbnail>https://ia800107.us.archive.org/26/items/unnamed_20180306_2028/unnamed.png</thumbnail> 
+<thumbnail>https://raw.githubusercontent.com/krecik71/tom/master/docs/png/SERIALE.png</thumbnail> 
 <externallink>https://raw.githubusercontent.com/krecik71/tom/master/Seriale_PL_Menue</externallink> 
-<fanart>https://ia800107.us.archive.org/26/items/unnamed_20180306_2028/unnamed.png</fanart> 
+<fanart>https://raw.githubusercontent.com/krecik71/tom/master/docs/png/SERIALE.png</fanart> 
 <info></info> 
 </channel>
 
@@ -31,8 +31,8 @@
 <channels> 
 <channel> 
 <name>[B]Telewizja[/B]</name> 
-<thumbnail>https://ia802901.us.archive.org/30/items/polska_202003/Polska.png</thumbnail> 
+<thumbnail>https://raw.githubusercontent.com/krecik71/tom/master/docs/png/TVPL.png</thumbnail> 
 <externallink>https://raw.githubusercontent.com/krecik71/tom/master/PL_TV_Menu</externallink> 
-<fanart>https://ia802901.us.archive.org/30/items/polska_202003/Polska.png</fanart> 
+<fanart>https://raw.githubusercontent.com/krecik71/tom/master/docs/png/TVPL.png</fanart> 
 <info></info> 
 </channel> 
