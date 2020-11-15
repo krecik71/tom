@@ -3,9 +3,9 @@
 <channels> 
 <channel> 
 <name>[B]Poland TV [/B]</name> 
-<thumbnail>https://ia802901.us.archive.org/30/items/polska_202003/Polska.png</thumbnail> 
+<thumbnail>https://raw.githubusercontent.com/krecik71/tom/master/docs/png/TVPL.png</thumbnail> 
 <externallink>https://raw.m3u</externallink> 
-<fanart>https://ia802901.us.archive.org/30/items/polska_202003/Polska.png</fanart> 
+<fanart>https://raw.githubusercontent.com/krecik71/tom/master/docs/png/TVPL.png</fanart> 
 <info></info> 
 </channel>
 
