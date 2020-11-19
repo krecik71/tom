@@ -19,3 +19,15 @@
 <fanart></fanart> 
 <info></info> 
 </channel>
+
+
+<channels> 
+<channel> 
+<name>[B]Filmy 2[/B]</name>
+<link>http://ignorame<link>
+<thumbnail></thumbnail> 
+<externallink>https://github.com/krecik71/tom/tree/master/docs/m3u/LukeSkyK</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel>
+
