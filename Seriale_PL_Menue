@@ -92,8 +92,16 @@
 <channel> 
 <name>[B]król[/B]</name> 
 <thumbnail>https://www.jambox.pl/sites/default/files/2020-11-otwarte-okno-KROL-subpage.png</thumbnail> 
-<externallink>https://raw.githubusercontent.com/krecik71/tom/master/docs/m3u/Serial_Kr%C3%B3l.m3u.m3u</externallink> 
+<externallink>https://raw.githubusercontent.com/krecik71/tom/master/docs/m3u/Serial_Kr%C3%B3l.m3u</externallink> 
 <fanart>https://www.jambox.pl/sites/default/files/2020-11-otwarte-okno-KROL-subpage.png</fanart> 
 <info></info> 
 </channel>
 
+<channels> 
+<channel> 
+<name>[B]Krolestwo.Kobiet[/B]</name> 
+<thumbnail>https://fwcdn.pl/fpo/67/81/856781/7934941.3.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/krecik71/tom/master/docs/m3u/Serial_Kr%C3%B3lestwo%20Kobiet.m3u</externallink> 
+<fanart>https://fwcdn.pl/fpo/67/81/856781/7934941.3.jpg</fanart> 
+<info></info> 
+</channel>
