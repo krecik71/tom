@@ -1,24 +1,6 @@
 <layouttype>thumbnail</layouttype>
 
-<channels> 
-<channel> 
-<name>[B]Filmy 1[/B]</name>
-<link>http://ignorame<link>
-<thumbnail></thumbnail> 
-<externallink>https://raw.githubusercontent.com/krecik71/tom/master/docs/m3u/Filmy_PL_1.m3u</externallink> 
-<fanart></fanart> 
-<info></info> 
-</channel>
 
-<channels> 
-<channel> 
-<name>[B]Filmy 2[/B]</name>
-<link>http://ignorame<link>
-<thumbnail></thumbnail> 
-<externallink>https://raw.githubusercontent.com/krecik71/tom/master/docs/m3u/Filmy_PL_2.m3u</externallink> 
-<fanart></fanart> 
-<info></info> 
-</channel>
 
 
 <channels> 
