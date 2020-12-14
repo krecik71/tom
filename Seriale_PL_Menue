@@ -40,9 +40,9 @@
 <channels> 
 <channel> 
 <name>[B][/B]</name> 
-<thumbnail></thumbnail> 
-<externallink></externallink> 
-<fanart></fanart> 
+<thumbnail>https://i0.wp.com/niestatystyczny.pl/wp-content/uploads/2020/03/chy%C5%82ka.jpg?resize=1000%2C667&ssl=1</thumbnail> 
+<externallink>https://raw.githubusercontent.com/krecik71/tom/master/docs/m3u/Serial_Chylka.m3u</externallink>  
+<fanart>https://i0.wp.com/niestatystyczny.pl/wp-content/uploads/2020/03/chy%C5%82ka.jpg?resize=1000%2C667&ssl=1</fanart> 
 <info></info> 
 </channel>
 
