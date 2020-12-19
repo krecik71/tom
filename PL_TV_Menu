@@ -2,16 +2,16 @@
 
 <channels> 
 <channel> 
-<name>[B] TV [/B]</name> 
+<name>[B] CHMURA TV  KSW [/B]</name> 
 <thumbnail>https://raw.githubusercontent.com/krecik71/tom/master/docs/png/TVPL.png</thumbnail> 
-<externallink>https://raw.githubusercontent.com/krecik71/tom/master/docs/m3u/TV.m3u</externallink> 
+<externallink>http://chmuratv.xoxo.pl/polishteam.ru/live.m3u</externallink> 
 <fanart>https://raw.githubusercontent.com/krecik71/tom/master/docs/png/TVPL.png</fanart> 
 <info></info> 
 </channel>
 
 <channels> 
 <channel> 
-<name>[B] TV1 [/B]</name> 
+<name>[B] CHMURA TV1 [/B]</name> 
 <thumbnail>https://raw.githubusercontent.com/krecik71/tom/master/docs/png/TVPL.png</thumbnail> 
 <externallink>https://raw.githubusercontent.com/krecik71/tom/master/docs/m3u/TV1.m3u</externallink> 
 <fanart>https://raw.githubusercontent.com/krecik71/tom/master/docs/png/TVPL.png</fanart> 
@@ -20,7 +20,7 @@
 
 <channels> 
 <channel> 
-<name>[B] TV2 [/B]</name> 
+<name>[B] CHMURA TV2 [/B]</name> 
 <thumbnail>https://raw.githubusercontent.com/krecik71/tom/master/docs/png/TVPL.png</thumbnail> 
 <externallink>https://raw.githubusercontent.com/krecik71/tom/master/docs/m3u/TV2.m3u</externallink> 
 <fanart>https://raw.githubusercontent.com/krecik71/tom/master/docs/png/TVPL.png</fanart> 
