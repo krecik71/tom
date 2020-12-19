@@ -62,10 +62,10 @@ description=" TOM WIZARD TEST.  Opcja Fresh lub Standard."
 
 
 name="TOM WIZARD 18 "
-version="1.0.9"
-url="https://polishteam.ru/FTP/tom/koditom/18kodi/18%201.0.9.zip"
+version="1.1.0"
+url="https://polishteam.ru/FTP/tom/koditom/18kodi/18%201.1.0.zip"
 gui="http://"   -
-kodi="18.0"
+kodi="18.9"
 theme=""
 icon="https://raw.githubusercontent.com/krecik71/tom/master/icon.png"
 fanart="https://betanews.com/wp-content/uploads/2018/09/Kodi.jpg"
@@ -75,10 +75,10 @@ description=" TOM WIZARD TEST.  Opcja Fresh lub Standard."
 
 
 name="TOM WIZARD 18/RC mr-evil "
-version="0.0.4"
-url="https://polishteam.ru/FTP/tom/koditom/18kodi/18%20mr-evil%20%200.0.4.zip"
+version="0.0.5"
+url="https://polishteam.ru/FTP/tom/koditom/18kodi/18%20mr-evil%20%200.0.5.zip"
 gui="http://"   -
-kodi="18.0"
+kodi="18.9"
 theme=""
 icon="https://raw.githubusercontent.com/krecik71/tom/master/icon.png"
 fanart="https://betanews.com/wp-content/uploads/2018/09/Kodi.jpg"
