@@ -1,7 +1,1010 @@
-#EXTM3U 
-#EXTINF:-1, Bliźniak 2019
-http://patrz.pl/static/uploaded/video/188/1881/188184/55c073a1a50a0c9a5e3538825340a087_720.mp4
-#EXTINF:-1, Zabójcze Maszyny 2018
-http://patrz.pl/static/uploaded/video/188/1881/188197/7d339f27afbf9a74e5c7b8dc3313e827_720.mp4
-#EXTINF:-1, Anna 2019
-http://patrz.pl/static/uploaded/video/188/1881/188189/36496c95de1f6580e563254f611a72fb_720.mp4
+#EXTM3U
+
+#EXTINF:0 type="video" channelId="-1", 3D Gwiezdne wojny: Skywalker. Odrodzenie
+http://patrz.pl/static/uploaded/video/187/1875/187591/a4fa1e831c38c99fe3b47c02f1dc285d_720.mp4
+#EXTINF:0 type="video" channelId="-1", Sprawa Colliniego 2019
+https://hlsvod3.internetowa.tv/Der-Fall-Collini-Sprawa-Colliniego-2019-Lektor-PL.mp4/index.m3u8 
+#EXTINF:0 type="video" channelId="-1", Wyścig o życie 2019
+https://hlsvod3.internetowa.tv/The-Great-Alaskan-Race-2019-Lektor-PL-1080p.mp4/index.m3u8 
+#EXTINF:0 type="video" channelId="-1", After 2019
+https://hlsvod3.internetowa.tv/After-2019-Lektor-PL.mp4/index.m3u8 
+#EXTINF:0 type="video" channelId="-1", Daniel 2019
+https://hlsvod3.internetowa.tv/Daniel-2019-Lektor-PL-1080p.mp4/index.m3u8 
+#EXTINF:0 type="video" channelId="-1", Jack Reacher: Nigdy nie wracaj 2016
+https://hlsvod3.internetowa.tv/Jack-Reacher-Never-Go-Back-2016-Lektor-PL-720p.mp4/index.m3u8 
+#EXTINF:0 type="video" channelId="-1", Inheritance 2020
+https://hlsvod3.internetowa.tv/Inheritance-2020-PL-SUB-1080p.mp4/index.m3u8 
+#EXTINF:0 type="video" channelId="-1", Zawód gangster II 2015
+https://hlsvod3.internetowa.tv/Zawod-gangster-2-Lektor-PL.mp4/index.m3u8 
+#EXTINF:0 type="video" channelId="-1", Avanpost 2019
+https://hlsvod3.internetowa.tv/Avanpost-2019-Lektor-PL-1080p.mp4/index.m3u8 
+#EXTINF:0 type="video" channelId="-1", Seryjny Morderca 2019
+https://hlsvod3.internetowa.tv/Quick-Seryjny-morderca-2019-Lektor-PL.mp4/index.m3u8 
+#EXTINF:0 type="video" channelId="-1", Mój książe z bajki 2020
+https://hlsvod3.internetowa.tv/Le-Prince-Oublie-2020-PL-SUB-720p.mp4/index.m3u8 
+#EXTINF:0 type="video" channelId="-1", Psy i koty 3: Łapa w łapę 2020
+https://hlsvod3.internetowa.tv/Cats-and-Dogs-3-Paws-Unite-2020-Lektor-PL-1080p.mp4/index.m3u8 
+#EXTINF:0 type="video" channelId="-1", Antebellum 2020
+https://hlsvod3.internetowa.tv/Antebellum-2020-PL-SUB-1080p.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1", Momentum 2015
+https://hlsvod3.internetowa.tv/Momentum-2015-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1", Węzeł śmierci 2018
+https://hlsvod3.internetowa.tv/The-Clovehitch-Killer-Wezel-smierci-2018-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1", Miłość Gwarantowana 2020
+https://hlsvod3.internetowa.tv/Love-Guaranteed-Milosc-gwarantowana-2020-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1", Alone 2020
+https://hlsvod3.internetowa.tv/Alone-2020-PL-SUB-1080p.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1", Projekt Larsen 2018
+https://hlsvod3.internetowa.tv/The-Catcher-Was-a-Spy-2018-Lektor-PL-1080p.mp4/index.m3u8 
+#EXTINF:0 type="video" channelId="-1", (Nie) Dobra Kobieta 2019
+https://hlsvod3.internetowa.tv/A-Good-Woman-Is-Hard-To-Find-2019-Lektor-PL-720p.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1", Mardaani 2 2019
+https://hlsvod3.internetowa.tv/Mardaani-2-2019-PL-SUB-1080p.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1", Upiory Wojny 2020
+https://hlsvod3.internetowa.tv/Ghosts-Of-War-2019-PL-SUB-720p.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1", grimsby 2016
+https://hlsvod3.internetowa.tv/The-Brothers-Grimsby-2016-Lektor-PL-720p.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1", Enola Holmes 2020
+https://hlsvod3.internetowa.tv/Enola-Holmes-2020-PL-DUB.mp4/index.m3u8
+#EXTINF:0 type="video" channelid="-1, Wróg numer jeden 2012
+https://datacenter1.govod.tv/oldmovies/4640cac3bc87fa9c0fbda0df78e0b38a79bb3edc.mp4/index.m3u8 
+#EXTINF:0 type="video" channelid="-1, Zagubiona kula 2020
+https://datacenter1.govod.tv/Zagubiona-kula-2020-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelid="-1, The Silencing 2020
+https://cache1.abcvideo.cc/hls/arc2whchhdpnrhe3zaf653zmowmgpz77ruydcbgdyobidtlimo7hefviovpa/index-v1-a1.m3u8
+#EXTINF:0 type="video" channelid="-1, Nieśmiertelny 2019
+https://hlsvod3.internetowa.tv/L-Immortale-Niesmiertelny-2019-PL-SUB.mp4/index.m3u8 
+#EXTINF:0 type="video" channelid="-1, Jarhead: Żołnierz piechoty morskiej 2005
+https://hlsvod3.internetowa.tv/oldmovies/f513efe2976ce08f125642d37fa8cf5c25f85601.mp4/index.m3u8 
+#EXTINF:0 type="video" channelid="-1, Jarhead 2 W polu ognia 2014
+https://hlsvod3.internetowa.tv/Jarhead-2-Field-Of-Fire-Jarhead-2-W-polu-ognia-2014-Lektor-PL.mp4/index.m3u8 
+#EXTINF:0 type="video" channelid="-1, Jarhead 3: Oblężenie
+https://hlsvod3.internetowa.tv/Jarhead-3-The-Siege-Jarhead-3-Oblezenie-2016-Lektor-PL.mp4/index.m3u8 
+#EXTINF:0 type="video" channelId="-1, Swingersi 2020
+https://hlsvod3.internetowa.tv/Swingersi-2020-1080p-PL.mp4/index.m3u8 
+#EXTINF:0 type="video" channelId="-1, Z tatą czy z mamą 2
+https://hlsvod3.internetowa.tv/Papa-ou-maman-2-2016-Lektor-PL-1080p.mp4/index.m3u8 
+#EXTINF:0 type="video" channelId="-1, Resistance 2020
+https://hlsvod3.internetowa.tv/Resistance-2020-Lektor-PL-720p.mp4/index.m3u8 
+#EXTINF:0 type="video" channelId="-1, Przyjaźń w cieniu Kremla. Jutro Ukraina...
+https://hlsvod3.internetowa.tv/Przyjazn-w-cieniu-Kremla-Jutro-Ukraina-2018-720p-Lektor-PL.mp4/index.m3u8  
+#EXTINF:0 type="video" channelId="-1, Sputnik 2020
+https://hlsvod3.internetowa.tv/Sputnik-2020-1080p-PL-SUB.mp4/index.m3u8 
+#EXTINF:0 type="video" channelId="-1, Power 2020
+https://hlsvod3.internetowa.tv/Project-Power-2020-Lektor-PL-1080p.mp4/index.m3u8 
+#EXTINF:0 type="video" channelId="-1,Zwariowane wesele
+https://hlsvod3.internetowa.tv/Skazhene-Vesillya-2018-Lektor-PL-1080p.mp4/index.m3u8 
+#EXTINF:0 type="video" channelId="-1,Czas pionierów
+https://hlsvod3.internetowa.tv/Spacewalk-2017-Lektor-PL-720p.mp4/index.m3u8 
+#EXTINF:0 type="video" channelId="-1,The Last Full Measure
+https://hlsvod3.internetowa.tv/The-last-full-measure-2019-1080p-PL-SUB.mp4/index.m3u8 
+#EXTINF:0 type="video" channelId="-1,Wiedźma 
+https://hlsvod3.internetowa.tv/The-Wretched-2019-Lektor-PL-1080p.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1, Turniej 2009
+https://hlsvod3.internetowa.tv/oldmovies/ef9bb2fc9f0cdcdaa063f5ef96f6466ae9b7f35e.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1, Ostatnia arystokratka / Poslední aristokratka
+https://hlsvod3.internetowa.tv/Posledni-aristokratka-Ostatnia-arystokratka-2019-Lektor-PL.mp4/index.m3u8 
+#EXTINF:0 type="video" channelId="-1, Uzależniona 2014
+https://hlsvod3.internetowa.tv/Addicted-Uzalezniona-2014-Lektor-PL.mp4/index.m3u8 
+#EXTINF:0 type="video" channelId="-1,Braven 2018
+https://hlsvod3.internetowa.tv/oldmovies/ebed955e142b4d1fbdb4067a7946fc7cba1efcfb.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1, Zakrzywienie 2020
+https://hlsvod3.internetowa.tv/Curvature-2017-Lektor-PL-720p.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://assets.upflix.pl/media/plakat/2020/snajper-koniec-zabojcy__300_427.jpg" size="Big", Snajper: Koniec Zabójcy
+https://hlsvod3.internetowa.tv/Sniper-Assassins-End-Snajper-koniec-zabojcy-2020-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019" logo="https://assets.upflix.pl/media/plakat/2020/you-should-have-left__300_427.jpg" size="Big", You Should Have Left 2020
+https://hlsvod3.internetowa.tv/You-Should-Have-Left-2019-PL-SUB-720p.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://assets.upflix.pl/media/plakat/2020/pod-sloncem-riccione__300_427.jpg" size="Big", Pod słońcem Riccione 2020
+https://hlsvod3.internetowa.tv/Under-the-Riccione-Sun-2020-Lektor-PL-720p.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://assets.upflix.pl/media/plakat/2020/pod-powierzchnia__300_427.jpg" size="Big", Pod powierzchnią 2020
+https://hlsvod3.internetowa.tv/Breaking-Surface-2020-Lektor-PL-1080p.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://fwcdn.pl/fpo/15/84/851584/7924376.3.jpg" size="Big", Desperados 2020
+https://hlsvod3.internetowa.tv/Desperados-2020-Lektor-PL-720p.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://i.ibb.co/q1ZwgD2/s-RJ9-Cuq-A0-SKY.jpg" size="Big", Zniewolona: Felix Austria 2020
+https://hlsvod3.internetowa.tv/Felix-Austria-2020-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://fwcdn.pl/fpo/45/27/844527/7925318.3.jpg" size="Big", Fatalny romans 2020
+https://hlsvod3.internetowa.tv/Fatal-Affair-2020-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="inne" logo="https://m.media-amazon.com/images/M/MV5BMjI5ODkyMjA2Nl5BMl5BanBnXkFtZTcwNTcyNTgzNw@@._V1_.jpg" size="Big", Safe House-2012
+https://hlsvod3.internetowa.tv/Safe-House-2012-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="inne" logo="https://fwcdn.pl/fpo/02/41/720241/7700135.3.jpg" size="Big", Anatomia zła-2015-
+https://hlsvod3.internetowa.tv/Anatomia-Zla-2015-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019" logo="https://fwcdn.pl/fpo/38/33/823833/7899264.3.jpg" size="Big", Tajemnica Henriego Picka-2019
+https://hlsvod3.internetowa.tv/Le-Mystere-Henri-Pick-Tajemnica-Henriego-Picka-2019-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="inne" logo="https://paradoks.net.pl/image_files/text/32772/siec-podejrzen-390.jpg" size="Big", Sieć podejrzeń 2018 film 2018
+https://hlsvod3.internetowa.tv/Spinning-Man-Siec-podejrzen-2018-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="inne" logo="https://fwcdn.pl/fpo/18/70/771870/7922131.3.jpg" size="Big", Zniknięcie Sidneya Halla 2017 film 2017
+https://hlsvod3.internetowa.tv/The-Vanishing-of-Sidney-Hall-2017-Lektor-PL-720p.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="inne" logo="https://m.media-amazon.com/images/M/MV5BMjAyNjA5MTU5N15BMl5BanBnXkFtZTgwMTQ2NjE2MzI@._V1_.jpg" size="Big", Revolt 2017 film 2017
+https://hlsvod3.internetowa.tv/Revolt-2017-Lektor-PL-720p.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019" logo="https://s6.ifotos.pl/img/coverpng_qqrrpen.png" size="Big", Horyzont uczuć 2019 film 2019
+https://hlsvod3.internetowa.tv/Dem-Horizont-so-nah-2019-Lektor-PL-720p.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://fwcdn.pl/fpo/72/53/807253/7918016.3.jpg" size="Big", Misja Gryhound 2020 film 2020
+https://hlsvod3.internetowa.tv/Greyhound-Misja-Greyhound-2020-PL-SUB.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="inne" logo="https://fwcdn.pl/fpo/03/10/810310/7866791.3.jpg" size="Big", 100 rzeczy 2018 film 2018
+https://hlsvod3.internetowa.tv/100-Dinge-100-rzeczy-2018-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://fwcdn.pl/fpo/50/18/855018/7924026.6.jpg" size="Big", Archive 2020 film 2020
+https://hlsvod3.internetowa.tv/Archive-2020-PL-SUB-720p.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://fwcdn.pl/fpo/72/71/847271/7925583.6.jpg" size="Big", Wyzwanie 2020 film 2020
+https://hlsvod3.internetowa.tv/Wyzwanie-2020-PL-720p.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://fwcdn.pl/fpo/97/03/819703/7913088.3.jpg" size="Big", Skłodowska 2020 film 2020
+https://patrz.pl/static/uploaded/video/190/1906/190610/f1dbf8a5df4f3b6bb4ccf35e679f8092_240.mp4
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://ocs-pl.oktawave.com/v1/AUTH_2887234e-384a-4873-8bc5-405211db13a2/splay/2020/02/Nic-si%C4%99-nie-sta%C5%82o-1180x541.jpg" size="Big", Nic się nie stało 2020 film 2020
+https://hlsvod3.internetowa.tv/Nic-sie-nie-stalo-2020-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://fwcdn.pl/fpo/90/78/849078/7922189.3.jpg" size="Big", Zabawa w chowanego 2020 film 2020
+https://hlsvod3.internetowa.tv/Zabawa-w-chowanego-2020-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://fwcdn.pl/fpo/71/01/837101/7907830.3.jpg" size="Big", Mayday 2020 film 2020
+http://patrz.pl/static/uploaded/video/185/1852/185247/41810d5cd08c7fa062631055f4584b19_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://fwcdn.pl/fpo/24/52/842452/7909947.6.jpg" size="Big", 365 dni 2020 film 2020
+http://patrz.pl/static/uploaded/video/183/1837/183748/5bb76083632899b20465930896c0028f_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://fwcdn.pl/fpo/58/16/835816/7908750.3.jpg" size="Big", Psy 3. W imię zasad 2020 film 2020
+http://patrz.pl/static/uploaded/video/185/1854/185484/617455ed7b0f4906420bb18fe6ce40c6_240.mp4
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://fwcdn.pl/fpo/92/25/829225/7911651.3.jpg" size="Big", Zenek 2020 film 2020
+http://patrz.pl/static/uploaded/video/186/1864/186434/58abc22e1cc98ee92b87c4b960c63ba1_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://fwcdn.pl/fpo/23/45/852345/7919727.3.jpg" size="Big", Bliskość 2020 film 2020
+https://hlsvod3.internetowa.tv/Proximity-Bliskosc-2020-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://i1.fdbimg.pl/f3bd3o02/2000x2914_q5skms.jpg" size="Big", Emma 2020 film 2020
+https://hlsvod3.internetowa.tv/Emma-2020-PL-SUB.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://i.ibb.co/dgMCT3m/Pj-C1e7pir-Xct.jpg" size="Big", Penance Lane 2020 film 2020
+https://hlsvod3.internetowa.tv/Penance-Lane-2020-Lektor-PL-1080p.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://fwcdn.pl/fpo/04/08/770408/7916148.3.jpg" size="Big", Niewidzialny człowiek 2020 film 2020
+https://hlsvod3.internetowa.tv/The-Invisible-Man-Niewidzialny-czlowiek-2020-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://fwcdn.pl/fpo/41/41/844141/7909003.3.jpg" size="Big", Fukushima 2020 film 2020
+https://hlsvod3.internetowa.tv/Fukushima-50-2020-Lektor-PL-720p.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://fwcdn.pl/fpo/61/07/786107/7925581.6.jpg", Capone 2020 film 2020
+https://hlsvod3.internetowa.tv/Capone-2020-PL-SUB.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://fwcdn.pl/fpo/89/37/808937/7920644.3.jpg", Sztuka zbrodni 2020 film 2020
+https://hlsvod3.internetowa.tv/The-Postcard-Killings-2020-Lektor-PL-720p.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://upload.wikimedia.org/wikipedia/en/1/18/I_Still_Believe_promotional_poster.jpg", I Still Believe 2020 film 2020
+http://patrz.pl/static/uploaded/video/187/1871/187198/c960e7e17e8bf3943214ad57d8ae1ad4_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://fwcdn.pl/fpo/64/69/496469/7364321.3.jpg", Niepokonani 2020 film 2020
+http://patrz.pl/static/uploaded/video/186/1869/186931/5b7189fcda1b9f0589b870f3b39c7db2_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://fwcdn.pl/fpo/58/43/615843/7917693.3.jpg", The Quarry 2020 film 2020
+https://hlsvod3.internetowa.tv/The-Quarry-2020-PL-SUB.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" logo="https://icdn.2cda.pl/vid/premium/5128359/299x446/32b39c09c7c1d27f036ade03fac87686.jpg", Kałasznikow 2020 film 2020
+https://hlsvod3.internetowa.tv/Kalashnikov-2020-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://fwcdn.pl/fpo/66/00/856600/7926521.3.jpg", Pod powierzchnią 2020 film 2020
+https://hlsvod3.internetowa.tv/Breaking-Surface-2020-Lektor-PL-1080p.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://9.allegroimg.com/s1024/0c3340/d62498ca49bab5b03a5d8ecb10e9", The Host 2020 film 2020
+https://hlsvod3.internetowa.tv/The-Host-2020-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://assets.upflix.pl/media/plakat/2020/snajper-koniec-zabojcy__300_427.jpg", Snajper: Koniec Zabójcy 2020 film 2020
+https://hlsvod3.internetowa.tv/Sniper-Assassins-End-Snajper-koniec-zabojcy-2020-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://fwcdn.pl/fpo/13/91/851391/7919717.3.jpg", Groźne kłamstwa 2020 film 2020
+https://hlsvod3.internetowa.tv/Dangerous-Lies-Grozne-klamstwa-2020-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" logo="https://fwcdn.pl/fpo/98/79/849879/7917639.3.jpg", Mortal Kombat Legends: Scorpion's Revenge 2020 film 2020
+https://hlsvod3.internetowa.tv/Mortal-Kombat-Legends-Scorpions-Revenge-2020-PL-SUB-720p.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://fwcdn.pl/fpo/90/70/829070/7919285.3.jpg", Tyler Rake: Ocalenie 2020 film 2020
+https://hlsvod3.internetowa.tv/Tyler-Rake-Ocalenie-2020-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://fwcdn.pl/fpo/57/03/845703/7910334.3.jpg", Upadek Grace 2020 film 2020
+http://patrz.pl/static/uploaded/video/182/1825/182540/c1138d18b4eabacdb8808f97ac9f199e_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://fwcdn.pl/fpo/16/67/831667/7910192.3.jpg", Małgosia i Jaś 2020 film 2020
+https://hlsvod3.internetowa.tv/Gretel-and-Hansel-Malgosia-i-Jas-2020-PL-SUB.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://assets.upflix.pl/media/plakat/2020/panna-fisher-i-krypta-lez__300_427.jpg", Panna Fisher i Krypta Łez 2020 film 2020
+https://hlsvod3.internetowa.tv/Miss-Fisher-and-the-Crypt-of-Tears-Panna-Fisher-i-krypta-lez-2020-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://fwcdn.pl/fpo/03/18/640318/7534651.3.jpg", Polowanie 2020 film 2020
+https://hlsvod3.internetowa.tv/The-Hunt-2020-PL-SUB.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://fwcdn.pl/fpo/47/13/834713/7905080.3.jpg", The Way Back 2020 film 2020
+https://hlsvod3.internetowa.tv/The-Way-Back-2020-PL-SUB.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://fwcdn.pl/fpo/61/62/846162/7912498.3.jpg", Bad Boy 2020 film 2020
+http://patrz.pl/static/uploaded/video/185/1858/185872/b91a4cd6911fe33f7043327d1a6d9a4a_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://fwcdn.pl/fpo/88/89/848889/7918609.3.jpg", Były lokator 2020 film 2020
+http://patrz.pl/static/uploaded/video/185/1855/185562/8d0c72709c7f7b77192812ed34d05fca_240.mp4
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://upload.wikimedia.org/wikipedia/en/8/86/Escape_from_Pretoria_film_poster.png", Escape from Pretoria 2020 film 2020
+http://patrz.pl/static/uploaded/video/185/1854/185410/a745577c8b8b047c9de39a2aa0a34cf9_240.mp4
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://fwcdn.pl/fpo/34/87/803487/7906000.3.jpg", Zew krwi 2020 film 2020
+http://patrz.pl/static/uploaded/video/185/1853/185377/a1b1be8176479299deb4116c9e5cd543_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://paradoks.net.pl/image_files/text/39475/unnamed.jpg", Głębia strachu 2020 film 2020
+http://patrz.pl/static/uploaded/video/185/1854/185407/372ea4034dc55cf716c7be0b79ed9b0f_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://fwcdn.pl/fpo/26/08/742608/7917056.3.jpg", Bloodshot 2020 film 2020
+http://patrz.pl/static/uploaded/video/185/1851/185149/128867569adfa57dda81814c2fe7fb5f_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://fwcdn.pl/fpo/82/82/848282/7918412.3.jpg", Ultras 2020 film 2020
+http://patrz.pl/static/uploaded/video/185/1850/185007/041a9d25363151ce5eaea7151318f98d_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://fwcdn.pl/fpo/24/25/842425/7911414.3.jpg", W lesie dziś nie zaśnie nikt 2020 film 2020
+http://patrz.pl/static/uploaded/video/184/1849/184995/9b7f87b9c051e3723efca6b6426c97a4_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://fwcdn.pl/fpo/80/17/818017/7914782.3.jpg", Sala samobójców. Hejter 2020 film 2020
+http://patrz.pl/static/uploaded/video/184/1849/184916/efe2eba034cbd58d15fd2f62273239a7_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://fwcdn.pl/fpo/42/24/764224/7915886.3.jpg", Sonic. Szybki jak błyskawica 2020 film 2020
+http://patrz.pl/static/uploaded/video/184/1844/184494/1b6daab7889d0a8dbd197e845ffd7902_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://fwcdn.pl/fpo/01/83/830183/7911823.3.jpg", Śledztwo Spensera 2020 film 2020
+http://patrz.pl/static/uploaded/video/184/1845/184570/dbbcbad640e0c6b06ee122507c48ea2c_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2020" logo="https://assets.upflix.pl/media/plakat/2015/alone_1__300_427.jpg", Alone 2020 film 2020
+http://patrz.pl/static/uploaded/video/183/1835/183595/69c12ab57b46c3eca4f44b85589b4b6b_240.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019" logo="https://www.kino-apollo.pl/wp-content/uploads/2019/12/wdmm_plakat.jpg", Wszystko dla mojej matki 2019 film 2019
+https://hlsvod3.internetowa.tv/Wszystko-dla-mojej-matki-2019-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", (Nie)znajomi 2019 film 2019
+https://hlsvod3.internetowa.tv/Nieznajomi-2019-Lektor-PL.mp4/index.m3u8?md5=nfA5zJPIKYDK02JJ2dXnrw&expires=1589944878
+#EXTINF:0 type="video" channelId="-1" group="2019" size="Big", Na bank się uda 2019 film 2019
+http://patrz.pl/static/uploaded/video/184/1847/184712/9b62399dbff674a0b0a2a53cbccd746b_480.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Jak poślubić milionera? 2019 film 2019
+http://patrz.pl/static/uploaded/video/185/1852/185265/aad3feb29b589efd72db5ce7a31b0033_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Futro z misia 2019 film 2019
+http://patrz.pl/static/uploaded/video/184/1849/184998/f41607ca0c61b25f6cba638d03d1849b_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Kurier 2019 film 2019
+http://patrz.pl/static/uploaded/video/178/1787/178712/59cc498f3b2ccbe6be6b95576fe8ad88_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Polityka 2019 film 2019
+http://patrz.pl/static/uploaded/video/181/1818/181825/6f89201f8ddc8ae6682d7dc0ba4a9ba2_240.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Czarny Mercedes 2019 film 2019
+http://patrz.pl/static/uploaded/video/183/1830/183063/8eda3d7c07c55cd440fe8e2f2ec7beca_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Solid Gold 2019 film 2019
+http://patrz.pl/static/uploaded/video/186/1868/186826/12e358475fb83bc03e658ab4c4c7a8f7_240.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Men in Black: International 2019 film 2019
+https://hlsvod3.internetowa.tv/Men-in-Black-International-2019-Lektor-PL-720p.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", X-Men: Mroczna Phoenix 2019 film 2019
+http://patrz.pl/static/uploaded/video/183/1830/183070/542a80c22977238bb165cc6774e70e64_720.mp4
+#EXTINF:0 type="video" channelId="-1", Szybcy i wściekli 9 2019 film 2019
+https://hlsvod3.internetowa.tv/Fast-and-Furious-Presents-Hobbs-and-Shaw-2019-Lektor-PL-720p.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Avengers: Koniec gry 2019 film 2019
+https://hlsvod3.internetowa.tv/Avengers-Koniec-gry-PL-DUB.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Ukryta gra 2019 film 2019
+http://patrz.pl/static/uploaded/video/183/1830/183081/7108bb48ccac200601d7026565d012e5_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Jezioro dzikich gęsi 2019 film 2019
+https://hlsvod3.internetowa.tv/The-Wild-Goose-Lake-Jezioro-dzikich-gesi-2019-PL-SUB.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Trauma 2019 film 2019
+https://hlsvod3.internetowa.tv/Trauma-720p-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", W labiryncie 2019 film 2019
+https://hlsvod3.internetowa.tv/Luomo-del-labirinto-W-labiryncie-2019-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", The Kill Team 2019 film 2019
+https://hlsvod3.internetowa.tv/The-Kill-Team-Oddzial-zabojcow-2019-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Bratstvo 2019 film 2019
+http://patrz.pl/static/uploaded/video/187/1870/187059/2ffd88951e296e2696a4adb62d02e347_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Ukryte życie 2019 film 2019
+https://hlsvod3.internetowa.tv/A-Hidden-Life-Ukryte-zycie-2019-PL-SUB.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Danger Close: The Battle of Long Tan 2019 film 2019
+https://hlsvod3.internetowa.tv/Danger-Close-The-Battle-of-Long-Tan-2019-PL-SUB-720p.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", W domu innego 2019 film 2019
+https://hlsvod3.internetowa.tv/W-domu-innego-2019-PL-SUB.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Wędrująca Ziemia 2019 film 2019
+https://hlsvod3.internetowa.tv/The-Wandering-Earth-2019-PL-SUB.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", W cieniu księżyca 2019 film 2019
+https://hlsvod3.internetowa.tv/W-cieniu-ksiezyca-720p-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Jestem matką 2019 film 2019
+https://hlsvod3.internetowa.tv/I-Am-Mother-Jestem-matka-2019-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Code 8 2019 film 2019
+https://hlsvod3.internetowa.tv/Code-8-2019-PL-SUB.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Black and Blue 2019 film 2019
+https://hlsvod3.internetowa.tv/Black-and-Blue-Policjanci-i-Rasizm-2019-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", The Room 2019 film 2019
+https://hlsvod3.internetowa.tv/The-Room-Pokoj-2019-Pl-SUB.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Platforma 2019 film 2019
+https://hlsvod3.internetowa.tv/El-hoyo-Platforma-2019-PL-SUB.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Downton Abbey 2019 film 2019
+https://hlsvod3.internetowa.tv/Downton-Abbey-2019-PL-SUB.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Na noże 2019 film 2019
+http://patrz.pl/static/uploaded/video/183/1830/183039/b20c25a90356bb3ca9c7eb92d5fc1da5_240.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Barwy gangu 2019 film 2019
+https://hlsvod3.internetowa.tv/Blue-Story-Barwy-gangu-2019-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Kołysanka 2019 film 2019
+https://hlsvod3.internetowa.tv/Chanson-Douce-2019-LEktor-PL-720p.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Clemency 2019 film 2019
+https://hlsvod3.internetowa.tv/Clemency-2019-Lektor-PL-720p.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Mine 9 2019 film 2019
+https://hlsvod3.internetowa.tv/Mine-9-2019-Lektor-PL-720p.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Wysoka dziewczyna film 2019
+https://hlsvod3.internetowa.tv/Dylda-Wysoka-dziewczyna-2019-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Luce 2019 film 2019
+https://hlsvod3.internetowa.tv/LUCE-2019-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Co przyniesie jutro 2019 film 2019
+https://hlsvod3.internetowa.tv/Hope-Gap-Co-przyniesie-jutro-2019-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Harriet 2019 film 2019
+https://hlsvod3.internetowa.tv/Harriet-2019-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Le Mans '66 2019 film 2019
+https://hlsvod3.internetowa.tv/Le-Mans-66-2019-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Cóż za piękny dzień 2019 film 2019
+https://hlsvod3.internetowa.tv/A-Beautiful-Day-in-the-Neighborhood-Coz-za-piekny-dzien-2019-PL-SUB.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Judy 2019 film 2019
+https://hlsvod3.internetowa.tv/Judy-2019-PL-SUB.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Ukryte życie 2019 film 2019
+https://hlsvod3.internetowa.tv/A-Hidden-Life-Ukryte-zycie-2019-PL-SUB.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", 1BR 2019 film 2019
+https://hlsvod3.internetowa.tv/1BR-2019-PL-SUB.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Oderwani 2019 film 2019
+https://hlsvod3.internetowa.tv/Break-Oderwani-2019-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Bohater 2019 film 2019
+https://hlsvod3.internetowa.tv/Geroj-2019-LEktor-PL-720p.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Diablo. Wyścig o wszystko 2019 film 2019
+https://hlsvod3.internetowa.tv/Diablo-Wyscig-o-wszystko-2019-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Przykładny obywatel 2019 film 2019
+https://hlsvod3.internetowa.tv/Cold-Pursuit-Przykladny-obywatel-2019-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Curiosa. Sztuka uwodzenia 2019 film 2019
+https://hlsvod3.internetowa.tv/Curiosa-2019-Lektor-PL-720p.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Pierwszy król 2019 film 2019
+https://hlsvod3.internetowa.tv/Il-primo-re-2019-Lektor-PL-720p.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Ślicznotki 2019 film 2019
+http://patrz.pl/static/uploaded/video/183/1830/183068/c7ea2f7c121a9141f65c87d8c80737b1_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Last Christmas 2019 film 2019
+http://patrz.pl/static/uploaded/video/183/1830/183061/8eed3e5d9a218abe64fbdf111e938303_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Countdown 2019 film 2019
+http://patrz.pl/static/uploaded/video/182/1828/182852/3a50398dfe8d99f36c1aa0b4f227beda_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Tajemnica anioła 2019 film 2019
+http://patrz.pl/static/uploaded/video/182/1825/182539/7e9bc4a11bfa5421a3b887cc9cb5b473_240.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Świat w ogniu 2019 film 2019
+http://patrz.pl/static/uploaded/video/182/1825/182538/91e859fdbe2122e898c202d7d6b773e6_240.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Terminator: Mroczne przeznaczenie 2019 film 2019
+http://patrz.pl/static/uploaded/video/182/1824/182484/9fbe7246007b0330108b4782f7cdc2dc_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Legiony 2019 film 2019
+http://patrz.pl/static/uploaded/video/182/1824/182470/870cc1c3c5ac8e0c8e3452f2e29cf1b7_720.mp4
+#EXTINF:0 type="video" channelId="-1" name="Rozdział 2 2019 film 2019" group="2019" tvg-country="to",  Rozdział 2 2019 film 2019
+http://patrz.pl/static/uploaded/video/182/1824/182485/963f1df645095958ee92875d78a70555_240.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Doktor Sen 2019 film 2019
+http://patrz.pl/static/uploaded/video/182/1824/182456/7d85813962249382180b4147d6259334_240.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Sługi wojny 2019 film 2019
+http://patrz.pl/static/uploaded/video/182/1824/182438/cf04814777f1c8c653968650321e2166_240.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Aladyn 2019 film 2019
+http://patrz.pl/static/uploaded/video/182/1824/182434/cc5d7e39a44c2513e53545cca6d5d7d7_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Rambo: Ostatnia krew 2019 film 2019
+http://patrz.pl/static/uploaded/video/182/1820/182074/1d92c3cf299be873381326f7b0ae3d46_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", 1917 2019 film 2019
+http://patrz.pl/static/uploaded/video/182/1823/182380/743f421ee053d2c2e38868d1e2c149d3_480.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Piłsudski 2019 film 2019
+http://patrz.pl/static/uploaded/video/182/1822/182217/d7c532b7a3c69ba67f564411dc6b059b_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Bliźniak 2019 film 2019
+http://patrz.pl/static/uploaded/video/182/1820/182029/fef9c4c449d0a59053d1e8dd64f1aa66_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Danger Close: The Battle of Long Tan 2019 film 2019
+http://patrz.pl/static/uploaded/video/182/1820/182043/3c3548aeaadb07d72733c40414ddfc01_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Men in Black: International 2019 film 2019
+http://patrz.pl/static/uploaded/video/181/1819/181902/d7d7e1347382f8009257008b343e28da_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Midsommar. W biały dzień 2019 film 2019
+http://patrz.pl/static/uploaded/video/181/1818/181826/b1341111202a59634e30b55305cab58a_240.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Gwiezdne wojny: Skywalker. Odrodzenie 2019 film 2019
+http://patrz.pl/static/uploaded/video/181/1818/181806/b55ea2b31088012450d7b3f1adeb7b22_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Togo 2019 film 2019
+http://patrz.pl/static/uploaded/video/181/1818/181815/34edca01c4aa3776966ef1465328d650_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Midway 2019 film 2019
+http://patrz.pl/static/uploaded/video/183/1832/183291/bc2c50f49ae7aa0d95b24a80bbe2e0e3_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Złodziej i oszustka 2019 film 2019
+http://patrz.pl/static/uploaded/video/181/1819/181958/65b4efd1c16d189f5b8cba74f6c260dd_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", X-Men: Mroczna Phoenix 2019 film 2019
+http://patrz.pl/static/uploaded/video/181/1819/181968/1619440c9f8d6786ce6091e723019f6e_240.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Jestem matką 2019 film 2019
+http://patrz.pl/static/uploaded/video/179/1795/179546/f4b487af98f1c88fff9adf311e5663ce_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Czarownica 2 2019 film 2019
+http://patrz.pl/static/uploaded/video/181/1817/181748/510b7a9cf0eeffa103c535bffcbf7a26_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Kraina lodu II 2019 film 2019
+http://patrz.pl/static/uploaded/video/181/1813/181355/0cc94d735547a5e3e6347edfe80487ee_480.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Planeta Singli 3 2019 film 2019
+http://patrz.pl/static/uploaded/video/178/1789/178956/81359a8f7a9445406cd2a5fece2bf3de_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Joker 2019 film 2019
+http://patrz.pl/static/uploaded/video/181/1815/181521/2c8565d8cbb94a2800aae205d87363d2_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", W wysokiej trawie 2019 film 2019
+http://patrz.pl/static/uploaded/video/179/1796/179630/0f134d9fdbbb05fd5999d7fe2dcf7d3a_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Nieplanowane 2019 film 2019
+http://patrz.pl/static/uploaded/video/180/1802/180227/2c4f4ff49f7b927da35957b0b548bb73_240.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", The King 2019 film 2019
+http://patrz.pl/static/uploaded/video/180/1802/180221/052da5a600fc8af614311a56b837f754_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Zabawa w pochowanego 2019 film 2019
+http://patrz.pl/static/uploaded/video/181/1810/181071/def0e4f821160a5fd5f16cb59ede09de_240.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Pół Wieku Poezji Później 2019 film 2019
+http://patrz.pl/static/uploaded/video/181/1810/181022/8f6a10f6d429e4d9525fd85806fac31c_240.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Anna 2019 film 2019
+http://patrz.pl/static/uploaded/video/180/1803/180326/c6eeb6dd72b66f236c6e8f59c6527264_240.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Ad Astra 2019 film 2019
+http://patrz.pl/static/uploaded/video/181/1810/181016/2e7f0d6f1c01cc59172f59c17b2388cc_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", 47 Meters Down: Uncaged 2019 film 2019
+http://patrz.pl/static/uploaded/video/181/1811/181107/8928cf383db8141629107f2e34d3d02d_240.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Zombieland: Kulki w łeb 2019 film 2019
+http://patrz.pl/static/uploaded/video/181/1815/181597/87033aec8391621b22b833c052f1fa4d_240.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Rodzina Addamsów 2019 film 2019
+http://patrz.pl/static/uploaded/video/181/1815/181599/5c8f0f463a1b3ab424c893aabbc38348_240.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Brudna gra 2019 film 2019
+http://patrz.pl/static/uploaded/video/180/1809/180931/f60de1bdbf53626c5ececb0c6808dcc5_240.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Gdzie jesteś\\\\, Bernadette? 2019 film 2019
+https://hlsvod3.internetowa.tv/Where-d-You-Go-Bernadette-Gdzie-jestes-Bernadette-2019-PL-SUB.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Ostatnia góra 2019 film 2019
+https://hlsvod3.internetowa.tv/Ostatnia-Gora-2019-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", W otchłani lęku 2019 film 2019
+https://hlsvod3.internetowa.tv/Sea-Fever-W-otchlani-leku-2019-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Seberg 2019 film 2019
+https://hlsvod3.internetowa.tv/Seberg-2019-PL-SUB.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Ciemno\\\\, prawie noc 2019 film 2019
+https://hlsvod3.internetowa.tv/Ciemno-prawie-noc-2019-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Dzięki Bogu 2019 film 2019
+https://hlsvod3.internetowa.tv/Grace-A-Dieu-Dzieki-Bogu-2018-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Mowa ptaków 2019 film 2019
+https://hlsvod3.internetowa.tv/Mowa-Ptakow-2019-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Więźniowie dzielnicy 2019 film 2019
+https://hlsvod3.internetowa.tv/We-Die-Young-Wiezniowie-dzielnicy-2019-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Trzy kroki od siebie 2019 film 2019
+https://hlsvod3.internetowa.tv/Five-Feet-Apart-Trzy-kroki-od-siebie-2019-PL-SUB.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", The Room 2019 film 2019
+https://hlsvod3.internetowa.tv/The-Room-Pokoj-2019-Pl-SUB.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Czarne święta 2019 film 2019
+https://hlsvod3.internetowa.tv/Black-Christmas-Czarne-Swieta-2019-PL-SUB.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Małe kobietki 2019 film 2019
+https://hlsvod3.internetowa.tv/Little-Women-Male-kobietki-2019-PL-SUB.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Dogonić marzenia 2019 film 2019
+https://hlsvod3.internetowa.tv/Ride-Like-A-Girl-Dogonic-marzenia-2019-Lektor-PL.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Oficer i szpieg 2019 film 2019
+http://patrz.pl/static/uploaded/video/185/1856/185638/813944c59cc02fdc087cdd186fc4e4ee_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Fighter 2019 film 2019
+http://patrz.pl/static/uploaded/video/185/1856/185621/6783265ea15d25fc6d2d3a7c04481a50_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Serce do walki 2019 film 2019
+http://patrz.pl/static/uploaded/video/185/1855/185544/cc103bca12c6e9f1f3768e98e1b7a3f9_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Jak zostałem gangsterem. Historia prawdziwa 2019 film 2019
+http://patrz.pl/static/uploaded/video/185/1854/185482/b478a8d6a4bf0f4d5d9d1e7ef6fd10d5_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Dżentelmeni 2019 film 2019
+http://patrz.pl/static/uploaded/video/185/1854/185401/6c387c8b8d7dc78dc4cda83175d9767c_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Lucy in the Sky 2019 film 2019
+http://patrz.pl/static/uploaded/video/185/1852/185237/372d2486857fcb6d08c4dd54ab07a816_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Nadzwyczajni 2019 film 2019
+http://patrz.pl/static/uploaded/video/185/1851/185136/bb3a11bbda29bcb9a836fc1be4d9697d_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Supernova 2019 film 2019
+http://patrz.pl/static/uploaded/video/185/1850/185083/65be1298d097c4e19809cebba0ee2c29_480.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Żelazny most 2019 film 2019
+http://patrz.pl/static/uploaded/video/185/1851/185108/6df6ddc4cfc2bfda22ad506133ffb4b5_240.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Yip Man 4 2019 film 2019
+http://patrz.pl/static/uploaded/video/186/1869/186938/c83fdde409512e1ab84b939c496027af_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Był sobie pies 2 2019 film 2019
+http://patrz.pl/static/uploaded/video/185/1850/185043/f68ceb70fd2ed47beef6de2b4ab920a1_240.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Angry Birds 2 Film 2019 film 2019
+http://patrz.pl/static/uploaded/video/184/1848/184854/ebd59b1c01851aed7d378da333bb2e3a_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", 1800 gramów 2019 film 2019
+http://patrz.pl/static/uploaded/video/184/1847/184725/f99a47a19cb9de33cb1fd97750e3da2d_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Geroy 2019 film 2019
+http://patrz.pl/static/uploaded/video/184/1847/184720/2aba98a796d2b8dceb1e835e872e406c_480.mp4
+#EXTINF:0 type="video" channelId="-1", Proceder 2019 film 2019
+http://patrz.pl/static/uploaded/video/184/1846/184647/58d84e572e470e1bfaa46bcc1b6b9179_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Don't Let Go 2019 film 2019
+http://patrz.pl/static/uploaded/video/184/1845/184586/0761491a48f92b673d8b3b50fcfe684e_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Kłamstwo doskonałe 2019 film 2019
+http://patrz.pl/static/uploaded/video/184/1845/184584/01bad86a056b7efd0d58d20cfe254ebb_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Osierocony Brooklyn 2019 film 2019
+http://patrz.pl/static/uploaded/video/184/1845/184572/bd118637c1c39938c5235378aed17387_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", The Aeronauts 2019 film 2019
+http://patrz.pl/static/uploaded/video/183/1835/183553/fab5de27031b6bb060cf7926a056c9bc_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Parasite 2019 film 2019
+http://patrz.pl/static/uploaded/video/183/1836/183668/6b7bd2a0cb0b71333bbf395923a93fd4_240.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", VFW 2019 film 2019
+http://patrz.pl/static/uploaded/video/183/1835/183555/fc16b6156d924d2edc8f1e83dae07d70_240.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Foxter & Max 2019 film 2019
+https://hlsvod3.internetowa.tv/Foxter-And-Max-2019-Lektor-PL-720p.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Biały wąż 2019 film 2019
+https://patrz.pl/static/uploaded/video/189/1898/189836/7347944052c0ba339d3ade81c00708c6_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Mój przyjaciel Ufik 2019 film 2019
+https://patrz.pl/static/uploaded/video/190/1906/190631/f910079f48e5797b71b5242f91076ac4_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", O Yeti-Abominable 2019 film 2019
+https://patrz.pl/static/uploaded/video/190/1906/190633/85c268a4e5e14fde2c7bf5bb595a511d_720.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Król Lew 2019 film 2019
+http://patrz.pl/static/uploaded/video/185/1855/185541/c0823503a14534a3477d6c3827b71d85_240.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Scooby-Doo! Powrót na wyspę zombie 2019 film 2019
+http://patrz.pl/static/uploaded/video/185/1855/185539/ecd16d7d8ae9d41ec9ebfb38da5312ae_240.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Kraina cudów 2019 film 2019
+http://patrz.pl/static/uploaded/video/185/1855/185535/66b5982f2d58af41907ca695b15fe7a5_240.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Angry Birds 2 Film 2019 film 2019
+http://patrz.pl/static/uploaded/video/185/1855/185532/10d9636f7f2a2fbecff7a9e04bb95514_240.mp4
+#EXTINF:0 type="video" channelId="-1" group="2019", Misiek i chiński skarb 2019 film 2019
+https://hlsvod3.internetowa.tv/Norm-of-the-North-King-Sized-Adventure-Misiek-i-chinski-skarb-2019-PL-DUB.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Urwis 2019 film 2019
+https://hlsvod3.internetowa.tv/Trouble-Urwis-2019-PL-DUB.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Lady and the Tramp 2019 film 2019
+https://hlsvod3.internetowa.tv/Lady-and-the-Tramp-Zakochany-kundel-2019-PL-DUB.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Czarownica 2 2019 film 2019
+https://hlsvod3.internetowa.tv/Maleficent-Mistress-of-Evil-Czrownica-2-2019-Lektor-PL-DUB.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="2019", Pokémon: Detektyw Pikachu 2019 film 2019
+https://hlsvod3.internetowa.tv/Pokemon-Detektyw-Pikachu-2019-PL-DUB.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Erotyk", Lody na patyku
+https://hlsvod3.internetowa.tv/oldmovies/d9480351457f2f0de71fa08dad8c991424a45755.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Erotyk", Lody na patyku 2
+https://hlsvod3.internetowa.tv/oldmovies/f673fc9130b4b32d471776bbdfde11ae1f92e85b.mp4/index.m3u8 
+#EXTINF:0 type="video" channelId="-1" group="Erotyk", Lody na patyku 3
+https://hlsvod3.internetowa.tv/oldmovies/07f6c971a05251e42957d7053e15ddf3b03722ed.mp4/index.m3u8 
+#EXTINF:0 type="video" channelId="-1" group="Erotyk", Lody na patyku 4
+https://hlsvod3.internetowa.tv/oldmovies/ca8ec5de8662670b4e974bf59f42f2b40e8fb5bc.mp4/index.m3u8 
+#EXTINF:0 type="video" channelId="-1" group="Erotyk", Lody na patyku 5
+https://hlsvod3.internetowa.tv/oldmovies/77abedbdea6b6b830db8f4cd148f43949adfc067.mp4/index.m3u8 
+#EXTINF:0 type="video" channelId="-1" group="Erotyk", Lody na patyku 6
+https://hlsvod3.internetowa.tv/oldmovies/5985ae911d8f5038189c19312436f5b39ad220a8.mp4/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Erotyk", Lody na patyku 7
+https://hlsvod3.internetowa.tv/oldmovies/a827c1076c8d3c4e3a12aae04047a6ee2f0d16fd.mp4/index.m3u8 
+#EXTINF:0 type="video" channelId="-1" group="Erotyk", Lody na patyku 8
+https://hlsvod3.internetowa.tv/oldmovies/0078603499e337fafaf2007a613d7bb04061796c.mp4/index.m3u8 
+#EXTINF:0 type="video" channelId="-1" group="Erotyk", Kochanek
+https://hlsvod3.internetowa.tv/oldmovies/80c16a83ab2ea60a979f9791c9f05a405d14c360.mp4/index.m3u8 
+#EXTINF:0 type="video" channelId="-1" group="Erotyk", Dziwka
+https://hlsvod3.internetowa.tv/oldmovies/3e66fc4c4c57584852f8779bb9820f8368878bbb.mp4/index.m3u8 
+#EXTINF:0 type="video" channelId="-1" group="Erotyk", 8 milimetrów II
+https://hlsvod3.internetowa.tv/oldmovies/bcb99e7f4b1d98ca867947fcfd752994f728954f.mp4/index.m3u8 
+
+#EXTINF:-1,® The Voices (2020)
+https://hhostss.com/stream/v1/playlist/YToxOntzOjQ6ImZyZWUiO2k6MDt9/0/play/a7e1cf96ecf38ecd9e71fc1248ca4abf/index-f1-v1-a1.m3u8
+#EXTINF:-1,® Szkoła czarownic 2020
+https://hhostss.com/stream/v1/playlist/YToxOntzOjQ6ImZyZWUiO2k6MDt9/0/play/96896cdf745871a88e00e7e1eae4976f/index-f1-v1-a1.m3u8
+#EXTINF:-1,® Holidate (2020)
+https://hhostss.com/stream/v1/playlist/YToxOntzOjQ6ImZyZWUiO2k6MDt9/0/play/aea97beebaa937fb874afcade745e896/index-f1-v1-a1.m3u8
+#EXTINF:-1,® Scare Package
+https://hhostss.com/stream/v1/playlist/YToxOntzOjQ6ImZyZWUiO2k6MDt9/0/play/a1a9cd0e606c339175382d2b3e551f33/index-f1-v1-a1.m3u8
+#EXTINF:-1,® Open 24 Hours
+https://hhostss.com/stream/v1/playlist/YToxOntzOjQ6ImZyZWUiO2k6MDt9/0/play/64641282020c642efed2c4c323340edc/index-f1-v1-a1.m3u8
+#EXTINF:-1,® The Rising Hawk
+https://hhostss.com/stream/v1/playlist/YToxOntzOjQ6ImZyZWUiO2k6MDt9/0/play/73772fe46a7b8d02c380735fa7db9f5c/index-f1-v1-a1.m3u8
+#EXTINF:-1,® Trump vs the Illuminati (2020)
+https://hhostss.com/stream/v1/playlist/YToxOntzOjQ6ImZyZWUiO2k6MDt9/0/play/676d7a6c684f188ca969b873d4a86b11/index-f1-v1-a1.m3u8
+#EXTINF:-1,® Once Upon A Snowman (2020)
+https://hhostss.com/stream/v1/playlist/YToxOntzOjQ6ImZyZWUiO2k6MDt9/0/play/deaed4d51f7d12b73f568b27b15e8213/index-f1-v1-a1.m3u8
+#EXTINF:-1,® Piękna i Bestia
+https://hhostss.com/stream/v1/playlist/YToxOntzOjQ6ImZyZWUiO2k6MDt9/0/play/2d79f833bace4bc853eeb6c5d86035c2/index-f1-v1-a1.m3u8
+#EXTINF:-1,® Mermaid Down (2019)
+https://hhostss.com/stream/v1/playlist/YToxOntzOjQ6ImZyZWUiO2k6MDt9/0/play/c65bc4e58c3131cad25e5e3860be0a78/index-f1-v1-a1.m3u8
+#EXTINF:-1,® Skyfire (2019)
+https://hhostss.com/stream/v1/playlist/YToxOntzOjQ6ImZyZWUiO2k6MDt9/0/play/ab409878b1a9b218f3f2304f6b06e54e/index-f1-v1-a1.m3u8
+#EXTINF:-1,® Asteroid-a-Geddon (2020)
+https://hhostss.com/stream/v1/playlist/YToxOntzOjQ6ImZyZWUiO2k6MDt9/0/play/7ab433c72353605b75e8af5e94f7b26a/index-f1-v1-a1.m3u8
+
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/terminator-mroczne-przeznaczenie-terminator-dark-fate-2019-film-online-plakat.jpg" group-title="vod-filmy", Terminator: Mroczne przeznaczenie / Terminator: Dark Fate (2019) (2019)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/b/6/6/5eb668308ccca-terminator-mroczne-przeznaczenie-terminator-dark-fate-2019.mp4?md5=VL4DVMcA4-91h-2RYjkYkA&expires=1593468607
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/the-mustang-2019-film-online-plakat.jpg" group-title="vod-filmy", The Mustang (2019) (2019)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/9/a/5ef9a1ed3a4c9-mustang.mp4?md5=HM8Na2_1kJYF-BncOhn5Dw&expires=1593468608
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/you-should-have-left-2020-film-online-plakat.jpg" group-title="vod-filmy", You Should Have Left (2020) (2020)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/9/a/5ef9a1ed5089d-you-should-have-left-2019.mp4?md5=H5ZuOcJYG0A1Ey8GLHosAQ&expires=1593468609
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/jack-strong-2014-film-online-plakat.jpg" group-title="vod-filmy", Jack Strong (2014) (2014)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/5/2/5ef528eff30ef-jack-strong-2014-pl-480p-brrip-xvid-ac3-mins.mp4?md5=H5ZuOcJYG0A1Ey8GLHosAQ&expires=1593468609
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/ziemia-poza-prawem-no-man-s-land-1978-film-online-plakat.jpg" group-title="vod-filmy", Ziemia poza prawem / No Man's Land (1978) (1987)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/9/a/5ef9a1ed4ce9b-ziemia-poza-prawem-mans-land-2019.mp4?md5=H5ZuOcJYG0A1Ey8GLHosAQ&expires=1593468609
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/zlowroga-glebia-hostile-waters-1997-film-online-plakat.jpg" group-title="vod-filmy", Złowroga głębia / Hostile Waters (1997) (1997)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/5/2/5ef528eff218b-hostile-waters-1997-pl-dvdrip-xvid-ltn.mp4?md5=LiW0uE1LlYzfDkq2YCB2cw&expires=1593468610
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/pani-lowry-i-syn-mrs-lowry-son-2019-film-online-plakat.jpg" group-title="vod-filmy", Pani Lowry i syn / Mrs Lowry & Son (2019) (2019)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/9/a/5ef9a1ed4db2c-mrs-lowry-and-son.mp4?md5=LiW0uE1LlYzfDkq2YCB2cw&expires=1593468610
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/gniew-ciszy-bao-lie-wu-sheng-2017-film-online-plakat.jpg" group-title="vod-filmy", Gniew ciszy / Bao lie wu sheng (2017) (2017)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/5/2/5ef528efeffce-gniew-ciszy-wrath-of-silence-bao-lie-wu-sheng-2017-web-dl-xvid-ac3-h1-lektor-pl.mp4?md5=9KVVVPx9pNNaoOb2loveRw&expires=1593468611
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/ondyna-2019-film-online-plakat.jpg" group-title="vod-filmy", Ondyna (2019) (2019)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/9/a/5ef9a1ed4e234-ondyna.mp4?md5=9KVVVPx9pNNaoOb2loveRw&expires=1593468611
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/pod-ostrzalem-der-schut-1964-film-online-plakat.jpg" group-title="vod-filmy", Pod Ostrzalem / Der Schut (1964) (1964)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/1/9/5ef19d0536029-pod-ostrzalem-der-schut-1964-720p-brrip-xvid-nonano-lektor-pl.mp4?md5=XeP4TinMdWUBlE8Zz1_Z7A&expires=1593468612
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/darkside-blues-1994-film-online-plakat.jpg" group-title="vod-filmy", Darkside Blues (1994) (1994)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/5/2/5ef528efe89a1-darkside-blues-1994-v2-lektor-pl-dvdrip-xvid-mp3.mp4?md5=XeP4TinMdWUBlE8Zz1_Z7A&expires=1593468612
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/zakladnik-z-wall-street-money-monster-2016-film-online-plakat.jpg" group-title="vod-filmy", Zakładnik Z Wall Street / Money Monster (2016) (2016)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/5/2/5ef528f03af0b-zakladnik-z-wall-street-2016-480p-hdtv-xvid-ac3-h1-lektor-pl.mp4?md5=XeP4TinMdWUBlE8Zz1_Z7A&expires=1593468612
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/candyman-2-pozegnanie-z-cialem-candyman-2-farewell-to-the-flesh-1995-film-online-plakat.jpg" group-title="vod-filmy", Candyman 2: Pożegnanie z ciałem / Candyman 2: Farewell to the Flesh (1995) (1995)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/3/1/5ef3133565daa-candyman-2-poz-egnanie-z-cialem-candyman-2-farewell-to-the-fl.mp4?md5=XeP4TinMdWUBlE8Zz1_Z7A&expires=1593468612
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/ukryta-tozsamosc-blind-horizon-2003-film-online-plakat.jpg" group-title="vod-filmy", Ukryta tożsamość / Blind Horizon (2003) (2003)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/5/2/5ef528efd0c8f-blind-horizon-2003-pl-brrip-480p-xvid-ac3-ltn.mp4?md5=I3_DFJrHwEeDuUxqTB5hyw&expires=1593468613
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/zagraj-to-jeszcze-raz-sam-play-it-again-sam-1972-film-online-plakat.jpg" group-title="vod-filmy", Zagraj to jeszcze raz Sam / Play It Again Sam (1972) (1972)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/5/2/5ef528f039b2e-zagraj-to-jeszcze-raz-sam-play-it-again-sam-1972-480p-hdtv-xvid-ac3-h1-lektor-pl.mp4?md5=I3_DFJrHwEeDuUxqTB5hyw&expires=1593468613
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/moj-biegun-2013-film-online-plakat.jpg" group-title="vod-filmy", Mój biegun (2013) (2013)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/8/d/5ef8d5462b3fb-moj-biegun-2013-pl-dvdrip-xvid-bida.mp4?md5=ijCSN1JqV6YUUvgv1hD30Q&expires=1593468614
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/candyman-clive-barker-s-candyman-1992-film-online-plakat.jpg" group-title="vod-filmy", Candyman / Clive Barker's Candyman (1992) (1992)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/3/1/5ef3133566c73-candyman-clive-barker-s-candyman-1992-3filmy-com.mp4?md5=ijCSN1JqV6YUUvgv1hD30Q&expires=1593468614
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/zagadka-zbrodni-sal-in-sui-choo-eok-2003-film-online-plakat.jpg" group-title="vod-filmy", Zagadka zbrodni / Sal-in-sui Choo-eok (2003) (2003)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/5/2/5ef528f038d9a-zagadka-zbrodni-memories-of-murder-salinui-chueok-2003-brrip-xvid-ac3-h1-lektor-pl.mp4?md5=ijCSN1JqV6YUUvgv1hD30Q&expires=1593468614
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/pod-nadzorem-the-flood-2019-film-online-plakat.jpg" group-title="vod-filmy", Pod nadzorem / The Flood (2019) (2019)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/8/d/5ef8d54646e56-the-flood-2019-pl-web-dl-xvid-kit.mp4?md5=ijCSN1JqV6YUUvgv1hD30Q&expires=1593468614
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/do-wszystkich-chlopcow-p-s-wciaz-cie-kocham-to-all-the-boys-p-s-i-still-love-you-2020-film-online-plakat.jpg" group-title="vod-filmy", Do wszystkich chłopców: P.S. Wciąż cię kocham / To All the Boys: P.S. I Still Love You (2020) (2020)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/3/1/5ef3133573c61-do-wszystkich-chlopco-w-p-s-wcia-z-cie-kocham-to-all-the-boys.mp4?md5=ijCSN1JqV6YUUvgv1hD30Q&expires=1593468614
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/wszystko-z-milosci-st-ives-1998-film-online-plakat.jpg" group-title="vod-filmy", Wszystko z miłości / St. Ives (1998) (1998)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/5/2/5ef528f0376d2-wszystko-z-milosci-st-ives-1998-480p-hdtv-xvid-ac3-h1-lektor-pl.mp4?md5=9sN7CEeQ8TK2BWEBmBPj-Q&expires=1593468615
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/un-peuple-et-son-roi-2018-film-online-plakat.jpg" group-title="vod-filmy", Un Peuple Et Son Roi (2018) (2018)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/8/d/5ef8d54647b24-un-peuple-et-son-roi-2018-pl-bdrip-xvid-yag.mp4?md5=9sN7CEeQ8TK2BWEBmBPj-Q&expires=1593468615
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/synekdocha-nowy-jork-synecdoche-new-york-2008-film-online-plakat.jpg" group-title="vod-filmy", Synekdocha Nowy Jork / Synecdoche New York (2008) (2008)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/3/1/5ef3133591d51-synekdocha-nowy-jork-synecdoche-new-york-2008-3filmy-com.mp4?md5=wM3Yl7WM6cg98be5QJkQeA&expires=1593468616
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/wyprawa-disappearances-2006-film-online-plakat.jpg" group-title="vod-filmy", Wyprawa / Disappearances (2006) (2006)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/5/2/5ef528f0383a0-wyprawa-disappearances-2006-480p-hdtv-xvid-ac3-h1-lektor-pl.mp4?md5=wM3Yl7WM6cg98be5QJkQeA&expires=1593468616
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/eurovision-song-contest-historia-zespolu-fire-saga-eurovision-song-contest-the-story-of-fire-saga-2020-film-online-plakat.jpg" group-title="vod-filmy", Eurovision Song Contest: Historia zespołu Fire Saga / Eurovision Song Contest: The Story of Fire Saga (2020) (2020)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/8/a/5ef8a2e6d6548-eurovision-song-contest-the-story-of-fire-saga-2020-pldub-nf-web-dl-xvid-kit.mp4?md5=wM3Yl7WM6cg98be5QJkQeA&expires=1593468616
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/tanki-2018-film-online-plakat.jpg" group-title="vod-filmy", Tanki (2018) (2018)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/3/1/5ef3133592af3-tanki2018.mp4?md5=wM3Yl7WM6cg98be5QJkQeA&expires=1593468616
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/sky-blue-wonderful-days-2003-film-online-plakat.jpg" group-title="vod-filmy", Sky Blue / Wonderful Days (2003) (2003)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/5/2/5ef528f036de3-wonderful-days-2003.mp4?md5=gxaEVOgtdsaojQUH6KexLQ&expires=1593468617
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/oczy-szeroko-zamkniete-eyes-wide-shut-1999-film-online-plakat.jpg" group-title="vod-filmy", Oczy szeroko zamknięte / Eyes Wide Shut (1999) (1999)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/8/a/5ef8a2e6d925a-oczy-szeroko-zamknie-te-eyes-wide-shut-1999-3filmy-com.mp4?md5=gxaEVOgtdsaojQUH6KexLQ&expires=1593468617
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/will-penny-1968-film-online-plakat.jpg" group-title="vod-filmy", Will Penny (1968) (1968)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/5/2/5ef528f0364ac-will-penny-1968-480p-hdtv-xvid-ac3-h1-lektor-pl.mp4?md5=gxaEVOgtdsaojQUH6KexLQ&expires=1593468617
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/wrota-zaswiatow-pay-the-ghost-2015-film-online-plakat.jpg" group-title="vod-filmy", Wrota zaświatów / Pay the Ghost (2015) (2015)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/3/1/5ef3133598c4f-wrota-zas-wiato-w-pay-the-ghost-2015-3filmy-com.mp4?md5=oPJWotqRVt-Wu-RUPYnBYg&expires=1593468618
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/hobbit-the-hobbit-1997-film-online-plakat.jpg" group-title="vod-filmy", Hobbit / The Hobbit (1997) (1977)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/5/2/5ef528f03519e-the-hobbit-1977.mp4?md5=oPJWotqRVt-Wu-RUPYnBYg&expires=1593468618
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/lost-bullet-2020-film-online-plakat.jpg" group-title="vod-filmy", Lost Bullet (2020) (2020)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/1/9/5ef19d050d3f8-lost-bullet-2020-pl-nf-web-dl-xvid-kit.mp4?md5=oPJWotqRVt-Wu-RUPYnBYg&expires=1593468618
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/the-tracker-2019-film-online-plakat.jpg" group-title="vod-filmy", The Tracker (2019) (2019)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/7/1/5ef71049a1588-the-tracker.mp4?md5=oPJWotqRVt-Wu-RUPYnBYg&expires=1593468618
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/synalek-the-good-son-1993-film-online-plakat.jpg" group-title="vod-filmy", Synalek / The Good Son (1993) (1993)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/5/2/5ef528f031d2b-synalek-1993-480p-xvid-kuras-ac3-lektorpl.mp4?md5=Gn2Eo8124dLPJlvSsxMpuQ&expires=1593468619
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/gra-wstepna-odishon-1999-film-online-plakat.jpg" group-title="vod-filmy", Gra wstępna / Ôdishon (1999) (1999)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/1/9/5ef19d050affa-gra-wstepna-odishon-1999-480p-brrip-xvid-ac3-h1-lektor-pl.mp4?md5=Gn2Eo8124dLPJlvSsxMpuQ&expires=1593468619
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/10x10-2018-film-online-plakat.jpg" group-title="vod-filmy", 10x10 (2018) (2018)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/9/a/5ef9a1ed30525-10x10-2018-1080p.mp4?md5=Gn2Eo8124dLPJlvSsxMpuQ&expires=1593468619
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/zjadacz-wezy-3-snake-eater-iii-his-law-1992-film-online-plakat.jpg" group-title="vod-filmy", Zjadacz węży 3 / Snake Eater III: His Law (1992) (1992)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/5/2/5ef528f031028-snake-eater-iii-his-law-pl-1992-480p-dvdrip-xvid-ac3-m3q-xvid.mp4?md5=kebE1sfVq_Aruu8t9KPD8A&expires=1593468620
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/e-znajomi-people-you-may-know-2017-film-online-plakat.jpg" group-title="vod-filmy", E-znajomi / People You May Know (2017) (2017)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/5/b/5ef5b285d3c29-e-znajomi.mp4?md5=kebE1sfVq_Aruu8t9KPD8A&expires=1593468620
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/get-the-girl-2017-film-online-plakat.jpg" group-title="vod-filmy", Get the Girl (2017) (2017)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/1/9/5ef19d050a734-get-the-girl-2017-pl-480p-brrip-xvid-ac3-r22.mp4?md5=kebE1sfVq_Aruu8t9KPD8A&expires=1593468620
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/dorwac-wattsa-jue-di-tao-wang-2016-film-online-plakat.jpg" group-title="vod-filmy", Dorwać Wattsa / Jue Di Tao Wang (2016) (2016)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/5/2/5ef528f03059f-skiptrace-2016-pl-bdrip-xvid-kit.mp4?md5=kebE1sfVq_Aruu8t9KPD8A&expires=1593468620
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/gundala-2019-film-online-plakat.jpg" group-title="vod-filmy", Gundala (2019) (2019)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/5/b/5ef5b285d4639-gundala-2019.mp4?md5=3bGZS4T8VAiOPpWBzUZgWQ&expires=1593468621
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/flashdance-1983-film-online-plakat.jpg" group-title="vod-filmy", Flashdance (1983) (1983)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/1/9/5ef19d05099a3-flashdance-1983-720p-brrip-xvid-nonano-lektor-pl.mp4?md5=3bGZS4T8VAiOPpWBzUZgWQ&expires=1593468621
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/ksiadz-priest-2011-film-online-plakat.jpg" group-title="vod-filmy", Ksiądz / Priest (2011) (2011)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/5/2/5ef528f02eb35-priest-2011-480p-xvid-kuras-ac3-lektorpl.mp4?md5=3bGZS4T8VAiOPpWBzUZgWQ&expires=1593468621
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/cytryna-lemon-2017-film-online-plakat.jpg" group-title="vod-filmy", Cytryna / Lemon (2017) (2017)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/5/b/5ef5b285e8618-lemon-2017.mp4?md5=fKXs2AbpCB2voUV7wIadiQ&expires=1593468622
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/downrange-2017-film-online-plakat.jpg" group-title="vod-filmy", Downrange (2017) (2017)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/1/9/5ef19d0508179-downrange-2017-pl-brrip-xvid-k83.mp4?md5=fKXs2AbpCB2voUV7wIadiQ&expires=1593468622
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/ktos-calkiem-obcy-perfect-stranger-2007-film-online-plakat.jpg" group-title="vod-filmy", Ktoś całkiem obcy / Perfect Stranger (2007) (2007)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/5/2/5ef528f02d428-perfect-stranger-2007-pl-480p-bdrip-xvid-ac3-lts.mp4?md5=fKXs2AbpCB2voUV7wIadiQ&expires=1593468622
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/nobody-knows-i-m-here-2020-film-online-plakat.jpg" group-title="vod-filmy", Nobody Knows I'm Here (2020)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/5/b/5ef5b285eb98b-nobody-know-i-m-here.mp4?md5=fKXs2AbpCB2voUV7wIadiQ&expires=1593468622
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/chimera-chimera-strain-2018-film-online-plakat.jpg" group-title="vod-filmy", Chimera / Chimera Strain (2018) (2018)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/1/9/5ef19d04f1e2c-chimera-strain-2018-web-dl-x264-dd2-0-fox.mp4?md5=BwEpxeQM0TQScHFMrFr9yg&expires=1593468623
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/nesokrushimyy-tankers-2018-film-online-plakat.jpg" group-title="vod-filmy", Nesokrushimyy / Tankers (2018) (2018)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/5/2/5ef528f018d6d-nesokrushimyy-2018-pl-brrip-xvid-k83.mp4?md5=BwEpxeQM0TQScHFMrFr9yg&expires=1593468623
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/big-kill-2018-film-online-plakat.jpg" group-title="vod-filmy", Big Kill (2018) (2018)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/4/3/5ef439fb75d74-big-kill-2018.mp4?md5=BwEpxeQM0TQScHFMrFr9yg&expires=1593468623
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/bodom-2016-film-online-plakat.jpg" group-title="vod-filmy", Bodom (2016) (2016)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/1/9/5ef19d048c417-bodom-2016-pl-480p-brrip-xvid-ac3-mors.mp4?md5=AnX4b25fPpN5oqy5B60huw&expires=1593468624
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/bulbul-2019-film-online-plakat.jpg" group-title="vod-filmy", Bulbul (2019) (2019)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/4/3/5ef439fb9139a-bulbbul-2020.mp4?md5=AnX4b25fPpN5oqy5B60huw&expires=1593468624
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/on-cie-znajdzie-recovery-2016-film-online-plakat.jpg" group-title="vod-filmy", On cię znajdzie / Recovery (2016) (2016)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/5/2/5ef528f0196d9-on-cie-znajdzie-recovery-2016-480p-brrip-xvid-ac3-h1-lektor-pl.mp4?md5=AnX4b25fPpN5oqy5B60huw&expires=1593468624
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/maximum-ride-2016-film-online-plakat.jpg" group-title="vod-filmy", Maximum Ride (2016) (2016)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/5/2/5ef528f01717a-maximum-ride-2016-pl-480p-web-dl-xvid-ac3-k12.mp4?md5=jBHftX2brvY8hXJ5QytwgQ&expires=1593468625
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/451-st-fahrenheita-fahrenheit-451-1966-film-online-plakat.jpg" group-title="vod-filmy", 451 stopni Fahrenheita /  Fahrenheit 451 (1966) (1966)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/2/1/5ef218af97d40-fahrenheit-451-1966-3filmy-com.mp4?md5=jBHftX2brvY8hXJ5QytwgQ&expires=1593468625
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/the-beach-house-2018-film-online-plakat.jpg" group-title="vod-filmy", The Beach House (2018) (2018)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/4/3/5ef439fbb894f-the-beach-house-2018.mp4?md5=jBHftX2brvY8hXJ5QytwgQ&expires=1593468625
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/eminence-hill-2019-film-online-plakat.jpg" group-title="vod-filmy", Eminence Hill (2019) (2019)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/2/1/5ef218af97141-eminence-hill.mp4?md5=jBHftX2brvY8hXJ5QytwgQ&expires=1593468625
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/lek-dread-2009-film-online-plakat.jpg" group-title="vod-filmy", Lęk / Dread (2009) (2009)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/5/2/5ef528f011949-lek-dread-2009-lektor-ivona.mp4?md5=jBHftX2brvY8hXJ5QytwgQ&expires=1593468625
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/sprawy-wewnetrzne-internal-affairs-1990-film-online-plakat.jpg" group-title="vod-filmy", Sprawy wewnętrzne / Internal Affairs (1990) (1990)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/1/f/5ef1f445e3afc-internal-affairs-1990-pl-brrip-xvid-azjatycki.mp4?md5=KX8kb_Neswzd4lGfdwPv6Q&expires=1593468626
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/crimson-peak-wzgorze-krwi-crimson-peak-2015-film-online-plakat.jpg" group-title="vod-filmy", Crimson Peak. Wzgórze krwi / Crimson Peak (2015) (2015)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/1/f/5ef1f445cc6c0-crimson-peak-2015-pl-subbed-web-dl-xvid-kit.mp4?md5=KX8kb_Neswzd4lGfdwPv6Q&expires=1593468626
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/wojna-krigen-2015-film-online-plakat.jpg" group-title="vod-filmy", Wojna / Krigen (2015) (2015)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/5/2/5ef528f000872-krigen-2015-pl-brrip-xvid-lts.mp4?md5=KX8kb_Neswzd4lGfdwPv6Q&expires=1593468626
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/gusla-2020-film-online-plakat.jpg" group-title="vod-filmy", Gusła (2020) (2020)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/2/1/5ef218af99ba5-gusla-2020.mp4?md5=KX8kb_Neswzd4lGfdwPv6Q&expires=1593468626
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/zaginiona-gone-2012-film-online-plakat.jpg" group-title="vod-filmy", Zaginiona / Gone (2012) (2012)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/1/f/5ef1f445e3159-gone-2012-pl-480p-xvid-kuras-ac3-lektorpl.mp4?md5=N2rJZcvqmHRp9RQyvpjbZw&expires=1593468627
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/amityville-exorcism-2017-film-online-plakat.jpg" group-title="vod-filmy", Amityville Exorcism (2017) (2017)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/0/5/5ef05d089d5cd-amityville-exorcism-2017-3filmy-com.mp4?md5=N2rJZcvqmHRp9RQyvpjbZw&expires=1593468627
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/zabojczy-zywiol-force-of-nature-2020-film-online-plakat.jpg" group-title="vod-filmy", Zabójczy żywioł / Force of Nature (2020) (2020)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/2/1/5ef218af992c7-force-of-nature.mp4?md5=N2rJZcvqmHRp9RQyvpjbZw&expires=1593468627
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/cios-ponizej-pasa-waist-deep-2006-film-online-plakat.jpg" group-title="vod-filmy", Cios poniżej pasa / Waist Deep (2006) (2006)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/1/9/5ef19d05513d0-waist-deep-2006-pl-ac3-dvdrip-xvid-gr4pe.mp4?md5=dDaaE_1g9M1XLLbiD8kddA&expires=1593468628
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/amityville-przebudzenie-amityville-the-awakening-2017-film-online-plakat.jpg" group-title="vod-filmy", Amityville: Przebudzenie / Amityville: The Awakening (2017) (2017)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/0/5/5ef05d08a00c1-amityville-przebudzenie-amityville-the-awakening-2017-3fil.mp4?md5=dDaaE_1g9M1XLLbiD8kddA&expires=1593468628
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/przyjecie-urodzinowe-fete-de-famille-2019-film-online-plakat.jpg" group-title="vod-filmy", Przyjęcie urodzinowe / Fête de famille (2019) (2019)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/2/1/5ef218af98630-fete-famille-2019.mp4?md5=dDaaE_1g9M1XLLbiD8kddA&expires=1593468628
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/sprawa-sary-i-salima-the-reports-on-sarah-and-saleem-2018-film-online-plakat.jpg" group-title="vod-filmy", Sprawa Sary i Salima / The Reports on Sarah and Saleem (2018) (2018)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/1/9/5ef19d054e102-the-reports-on-sarah-and-saleem-2018-pl-web-dl-xvid-kit.mp4?md5=dDaaE_1g9M1XLLbiD8kddA&expires=1593468628
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/letnie-popoludnie-2019-film-online-plakat.jpg" group-title="vod-filmy", Letnie popołudnie (2019) (2019)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/2/1/5ef218afa7f14-letnie-popoludnie-2019.mp4?md5=JwEORe7XzBBawbtDyAff6w&expires=1593468629
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/zdrada-stanu-affairs-of-state-2018-film-online-plakat.jpg" group-title="vod-filmy", Zdrada stanu / Affairs of State (2018) (2018)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/0/5/5ef05d08aaab0-fileone-tv-host-and-watch-videos-online.mp4?md5=JwEORe7XzBBawbtDyAff6w&expires=1593468629
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/inicjacja-come-as-you-are-2019-film-online-plakat.jpg" group-title="vod-filmy", Inicjacja / Come As You Are (2019) (2019)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/e/4/5eee4e840b4e9-watch-come-asyou-are2019-plsubbed-720p-web-ac3-krt.mp4?md5=JwEORe7XzBBawbtDyAff6w&expires=1593468629
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/komorka-cellular-2004-film-online-plakat.jpg" group-title="vod-filmy", Komórka / Cellular (2004) (2004)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/0/5/5ef05d08ac796-komo-rka-cellular-2004-3filmy-com.mp4?md5=6l-J1UYntLqnuxgJWp4tCg&expires=1593468630
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/sklodowska-radioactive-2019-film-online-plakat.jpg" group-title="vod-filmy", Skłodowska / Radioactive (2019) (2019)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/2/1/5ef218afa9512-radioactive.mp4?md5=6l-J1UYntLqnuxgJWp4tCg&expires=1593468630
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/czarny-glina-black-cop-2017-film-online-plakat.jpg" group-title="vod-filmy", Czarny glina / Black Cop (2017) (2017)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/e/4/5eee4e8412bc6-black-cop.mp4?md5=6l-J1UYntLqnuxgJWp4tCg&expires=1593468630
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/to-nie-jest-kolejna-komedia-dla-kretynow-not-another-teen-movie-2001-film-online-plakat.jpg" group-title="vod-filmy", To nie jest kolejna komedia dla kretynów / Not Another Teen Movie (2001) (2001)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/0/5/5ef05d08cebe7-to-nie-jest-kolejna-komedia-dla-kretyno-w-not-another-teen-mo.mp4?md5=6l-J1UYntLqnuxgJWp4tCg&expires=1593468630
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/mo-2019-film-online-plakat.jpg" group-title="vod-filmy", Mo (2019) (2019)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/2/1/5ef218afa8c39-mo.mp4?md5=sM9cy4UhNLZjWSAF_xhTJg&expires=1593468631
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/zaczarowane-pioro-zakliate-pierko-2020-film-online-plakat.jpg" group-title="vod-filmy", Zaczarowane pióro / Zakliate pierko (2020) (2020)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/a/1/5eea1bc97a533-zaczarowane-pioro-zakliate-pierko-2020-web-dl-xvid-ac3-h1-lektor-pl.mp4?md5=sM9cy4UhNLZjWSAF_xhTJg&expires=1593468631
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/zaginiony-diament-the-loss-of-a-teardrop-diamond-2008-film-online-plakat.jpg" group-title="vod-filmy", Zaginiony diament / The Loss of a Teardrop Diamond (2008) (2008)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/0/5/5ef05d08e585f-zaginiony-diament-the-loss-of-a-teardrop-diamond-2008-3fil.mp4?md5=sM9cy4UhNLZjWSAF_xhTJg&expires=1593468631
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/ratujmy-flore-saving-flora-2018-film-online-plakat.jpg" group-title="vod-filmy", Ratujmy Florę / Saving Flora (2018) (2018)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/2/1/5ef218afb65bd-saving-flora-2018.mp4?md5=nbZezzsGpD-uPypN_SaK3Q&expires=1593468632
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/swiety-mikolaj-joulutarina-2007-film-online-plakat.jpg" group-title="vod-filmy", Święty Mikołaj / Joulutarina (2007) (2007)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/a/1/5eea1bc97bdf8-swiety-mikolaj-joulutarina-2007-480p-web-dl-xvid-nonano-lektor-pl.mp4?md5=nbZezzsGpD-uPypN_SaK3Q&expires=1593468632
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/poczujcie-rytm-feel-the-beat-2020-film-online-plakat.jpg" group-title="vod-filmy", Poczujcie rytm / Feel the Beat (2020) (2020)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/0/5/5ef05d08e352e-watch-feel-the-beat-2020-pldub-web-ddp5-fox.mp4?md5=nbZezzsGpD-uPypN_SaK3Q&expires=1593468632
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/swieta-thomasa-kinkadea-christmas-cottage-2008-film-online-plakat.jpg" group-title="vod-filmy", Święta Thomasa Kinkadea / Christmas Cottage (2008) (2008)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/a/1/5eea1bc97b15e-swieta-thomasa-kinkadea-christmas-cottage-2008-480p-web-dl-xvid-nonano-lektor-pl.mp4?md5=JOG5LSS7cBVrjZafI9CnEw&expires=1593468633
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/telefon-phone-booth-2002-film-online-plakat.jpg" group-title="vod-filmy", Telefon / Phone Booth (2002) (2002)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/2/1/5ef218afbbc41-telefon-phone-booth-2002-3filmy-com.mp4?md5=JOG5LSS7cBVrjZafI9CnEw&expires=1593468633
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/przeklenstwo-krwi-legacy-2020-film-online-plakat.jpg" group-title="vod-filmy", Przekleństwo krwi / Legacy (2020) (2020)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/0/5/5ef05d08e41f5-watch-legacy-2020-1080p-web-dd2-fox.mp4?md5=JOG5LSS7cBVrjZafI9CnEw&expires=1593468633
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/wojny-drapiezcow-in-old-oklahoma-1943-film-online-plakat.jpg" group-title="vod-filmy", Wojny drapieżców / In Old Oklahoma (1943) (1943)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/a/1/5eea1bc97985e-wojny-drapiezcow-in-old-oklahoma-1943-720p-web-dl-xvid-nonano-lektor-pl.mp4?md5=JOG5LSS7cBVrjZafI9CnEw&expires=1593468633
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/angelo-2018-film-online-plakat.jpg" group-title="vod-filmy", Angelo (2018) (2018)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/0/5/5ef05d08e2e66-watch-angelo-2018-1080p-web-dd2-fox.mp4?md5=SDY9NS0GOcmgUMim7-JzsA&expires=1593468634
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/aksamitny-krolik-the-velveteen-rabbit-2009-film-online-plakat.jpg" group-title="vod-filmy", Aksamitny królik / The Velveteen Rabbit (2009) (2009)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/a/1/5eea1bc921ae3-aksamitny-krolik-the-velveteen-rabbit-2009-480p-web-dl-xvid-nonano-dubbing-pl.mp4?md5=SDY9NS0GOcmgUMim7-JzsA&expires=1593468634
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/wij-viy-2014-film-online-plakat.jpg" group-title="vod-filmy", Wij / Viy (2014) (2014)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/a/1/5eea1bc97900f-wij-viy-2014-480p-hdtv-xvid-ac3-h1-lektor-pl.mp4?md5=SDY9NS0GOcmgUMim7-JzsA&expires=1593468634
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/carrie-1976-film-online-plakat.jpg" group-title="vod-filmy", Carrie (1976) (1976)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/e/4/5eee4e83ae91e-carrie-1976-3filmy-com.mp4?md5=SDY9NS0GOcmgUMim7-JzsA&expires=1593468634
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/wieczor-kawalerski-2-ostatnie-kuszenie-bachelor-party-2-the-last-temptation-film-online-plakat.jpg" group-title="vod-filmy", Wieczór kawalerski 2: Ostatnie kuszenie / Bachelor Party 2: The Last Temptation (2008)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/a/1/5eea1bc977fa9-wieczor-kawalerski-2-ostatnie-kuszenie-bachelor-party-2-the-last-temptation-2008-480p-brrip-xvid-nonano-lektor-pl.mp4?md5=hW2C_53YG2FbHDTWJbAO7g&expires=1593468635
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/jak-nie-wiadomo-o-co-chodzi-2017-film-online-plakat.jpg" group-title="vod-filmy", Jak nie wiadomo o co chodzi (2017) (2017)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/7/9/5ee797b439251-jak-nie-wiadomo-o-co-chodzi-2017-3filmy-com.mp4?md5=hW2C_53YG2FbHDTWJbAO7g&expires=1593468635
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/czarny-labedz-black-swan-2010-film-online-plakat.jpg" group-title="vod-filmy", Czarny łabędź / Black Swan (2010) (2010)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/e/4/5eee4e83b05a3-czarny-labe-dz-black-swan-2010-3filmy-com.mp4?md5=hW2C_53YG2FbHDTWJbAO7g&expires=1593468635
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/morderczy-roj-panique-film-online-plakat.jpg" group-title="vod-filmy", Morderczy rój / Panique! (2009)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/7/9/5ee797b43bc07-morderczy-ro-j-panique-2009-3filmy-com.mp4?md5=hXy4VgnuHJDs8o6nfaf9Hw&expires=1593468636
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/skazani-na-siebie-stuck-on-you-2003-film-online-plakat.jpg" group-title="vod-filmy", Skazani na siebie / Stuck on You (2003) (2003)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/a/1/5eea1bc96eafa-skazani-na-siebie-stuck-on-you-2003-480p-hdtv-xvid-ac3-h1-lektor-pl.mp4?md5=hXy4VgnuHJDs8o6nfaf9Hw&expires=1593468636
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/split-2016-film-online-plakat.jpg" group-title="vod-filmy", Split (2016) (2016)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/e/4/5eee4e83b564e-fileone-tv-host-and-watch-videos-online.mp4?md5=hXy4VgnuHJDs8o6nfaf9Hw&expires=1593468636
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/zwierzeta-tiere-2017-film-online-plakat.jpg" group-title="vod-filmy", Zwierzęta / Tiere (2017) (2017)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/7/9/5ee797b438612-fileone-tv-host-and-watch-videos-online.mp4?md5=EvoXH985hWUJnoleq8f--w&expires=1593468637
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/swieta-frances-saint-frances-2019-film-online-plakat.jpg" group-title="vod-filmy", Święta Frances / Saint Frances (2019) (2019)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/a/1/5eea1bc96dfcd-saint-frances-2019-720p-webrip-x264-aac-yts-mx.mp4?md5=EvoXH985hWUJnoleq8f--w&expires=1593468637
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/stadnina-w-opalach-immenhof-das-abenteuer-eines-sommers-2019-film-online-plakat.jpg" group-title="vod-filmy", Stadnina w opałach / Immenhof - Das Abenteuer eines Sommers (2019) (2019)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/e/4/5eee4e83b7c10-immenhof-das-abenteuer-eines-2019-pl-720p-bl.mp4?md5=EvoXH985hWUJnoleq8f--w&expires=1593468637
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/morderstwo-w-dunkierce-meurtres-a-dunkerque-2016-film-online-plakat.jpg" group-title="vod-filmy", Morderstwo w Dunkierce / Meurtres a Dunkerque (2016)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/7/9/5ee797b43aebc-mixdrop-watch-meurtres-a-dunkerque-2016-pl-720p-hdtv-x264.mp4?md5=hNfSdMBkAC1bL3_lZcU6dg&expires=1593468638
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/jutro-bedzie-futro-hot-tub-time-machine-2010-film-online-plakat.jpg" group-title="vod-filmy", Jutro będzie futro / Hot Tub Time Machine (2010) (2010)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/e/4/5eee4e83b8efb-jutro-be-dzie-futro-hot-tub-time-machine-2010-3filmy-com.mp4?md5=hNfSdMBkAC1bL3_lZcU6dg&expires=1593468638
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/przywroceni-retornados-2013-film-online-plakat.jpg" group-title="vod-filmy", Przywróceni / Retornados (2013) (2013)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/a/1/5eea1bc96d6d7-przywroceni-retornados-the-returned-2013-480p-brrip-xvid-ac3-h1-napisy-pl.mp4?md5=hNfSdMBkAC1bL3_lZcU6dg&expires=1593468638
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/studio-z-zupelnie-innej-beczki-an-accidental-studio-2019-film-online-plakat.jpg" group-title="vod-filmy", Studio z zupełnie innej beczki / An Accidental Studio (2019) (2019)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/7/9/5ee797b439c43-mixdrop-watch-an-accidental-studio-2019-pl-720p-hdtv-x264.mp4?md5=hNfSdMBkAC1bL3_lZcU6dg&expires=1593468638
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/na-topie-the-high-note-2020-film-online-plakat.jpg" group-title="vod-filmy", Na topie / The High Note (2020) (2020)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/e/4/5eee4e83b684f-high-note-2020-pl-subbed-1080p-web-dl-xvid.mp4?md5=Z3biMcqv82GoY91JasZuVw&expires=1593468639
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/powstanie-w-alleghenach-allegheny-uprising-1939-film-online-plakat.jpg" group-title="vod-filmy", Powstanie w Alleghenach / Allegheny Uprising (1939) (1939)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/a/1/5eea1bc96c90c-powstanie-w-alleghenach-allegheny-uprising-1939-web-dl-xvid-nonano-napisy-pl.mp4?md5=Z3biMcqv82GoY91JasZuVw&expires=1593468639
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/wolnosc-we-krwi-2018-film-online-plakat.jpg" group-title="vod-filmy", Wolność we krwi (2018)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/7/9/5ee797b4418e5-wolnos-c-we-krwi-2018-3filmy-com.mp4?md5=Z3biMcqv82GoY91JasZuVw&expires=1593468639
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/poszukiwany-zywy-lub-martwy-wanted-dead-or-alive-1987-film-online-plakat.jpg" group-title="vod-filmy", Poszukiwany żywy lub martwy / Wanted: Dead or Alive (1987) (1987)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/a/1/5eea1bc96b9a5-poszukiwany-zywy-lub-martwy-1987-480p-xvid-kuras-ac3-lektorpl.mp4?md5=Z3biMcqv82GoY91JasZuVw&expires=1593468639
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/diary-of-the-dead-kroniki-zywych-trupow-diary-of-the-dead-2007-film-online-plakat.jpg" group-title="vod-filmy", Diary of the Dead: Kroniki żywych trupów / Diary of the Dead (2007) (2007)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/e/4/5eee4e83b232c-diary-of-the-dead-kroniki-z-ywych-trupo-w-diary-of-the-dead-2.mp4?md5=Z3biMcqv82GoY91JasZuVw&expires=1593468639
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/wuj-onkel-2019-film-online-plakat.jpg" group-title="vod-filmy", Wuj / Onkel (2019) (2019)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/7/1/5ee71d7bd8b3e-onkel-2019-pl-720p-web-dl-xvid-ac3-mors-mp4-upzone-cc-fi.mp4?md5=nHehasYdTODi5_AIeRu4CA&expires=1593468640
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/oculus-2013-film-online-plakat.jpg" group-title="vod-filmy", Oculus (2013) (2013)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/a/1/5eea1bc96ab8b-oculus-2013-1080p-brrip-xvid-ac3-norman-lektor-pl.mp4?md5=nHehasYdTODi5_AIeRu4CA&expires=1593468640
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/bez-snu-sleepless-2017-film-online-plakat.jpg" group-title="vod-filmy", Bez snu / Sleepless (2017) (2017)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/e/4/5eee4e83e2b74-sleepless-2017-3filmy-com.mp4?md5=nHehasYdTODi5_AIeRu4CA&expires=1593468640
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/hopeless-romantic-2016-film-online-plakat.jpg" group-title="vod-filmy", Hopeless Romantic (2016) (2016)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/7/1/5ee71d7bd5c6a-hopeless-romantic-2016-pl-720p-hdtv-x264-b89-mp4-upzone-cc.mp4?md5=nHehasYdTODi5_AIeRu4CA&expires=1593468640
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/nieznajoma-la-sconosciuta-2006-film-online-plakat.jpg" group-title="vod-filmy", Nieznajoma / La sconosciuta (2006) (2006)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/a/1/5eea1bc969f7c-nieznajoma-2006-pl-brrip-480p-xvid-ac3-ltn.mp4?md5=uINYkTMQ2UfLOeOjKhr-kA&expires=1593468641
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/nigdy-nie-jest-za-pozno-ricki-and-the-flash-2015-film-online-plakat.jpg" group-title="vod-filmy", Nigdy nie jest za późno / Ricki and the Flash (2015) (2015)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/e/4/5eee4e83db516-nigdy-nie-jest-za-po-z-no-ricki-and-the-flash-2015-3filmy-co.mp4?md5=uINYkTMQ2UfLOeOjKhr-kA&expires=1593468641
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/jaskolki-z-kabulu-les-hirondelles-de-kaboul-2019-film-online-plakat.jpg" group-title="vod-filmy", Jaskółki z Kabulu / Les hirondelles de Kaboul (2019) (2019)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/7/1/5ee71d7bd8067-les-hirondelles-de-kaboul-2019-pl-web-dl-xvid-kit-mp4-upzo.mp4?md5=uINYkTMQ2UfLOeOjKhr-kA&expires=1593468641
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/mikolajek-le-petit-nicolas-2009-film-online-plakat.jpg" group-title="vod-filmy", Mikołajek / Le Petit Nicolas (2009) (2009)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/a/1/5eea1bc962cbd-mikolajek-2009-pldub-brrip-480p-xvid-ac3-ltn.mp4?md5=cbn4mnxp0H7XJEh7nAZJ-Q&expires=1593468642
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/moja-polska-dziewczyna-my-friend-the-polish-girl-2018-film-online-plakat.jpg" group-title="vod-filmy", Moja polska dziewczyna / My Friend the Polish Girl (2018) (2018)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/e/4/5eee4e83d9b62-my-friend-the-polish-girl-2018-plsubbed-web.mp4?md5=cbn4mnxp0H7XJEh7nAZJ-Q&expires=1593468642
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/krew-ostatni-wampir-blood-the-last-vampire-2009-film-online-plakat.jpg" group-title="vod-filmy", Krew: Ostatni wampir / Blood: The Last Vampire (2009) (2009)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/5/b/5ee5bab855870-krew-ostatni-wampir-2009-1080p-brrip-xvid-ac3-norman-lektor-pl.mp4?md5=cbn4mnxp0H7XJEh7nAZJ-Q&expires=1593468642
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/moneyball-2011-film-online-plakat.jpg" group-title="vod-filmy", Moneyball (2011) (2011)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/a/1/5eea1bc96474d-moneyball-2011-480p-xvid-kuras-ac3-lektorpl.mp4?md5=cbn4mnxp0H7XJEh7nAZJ-Q&expires=1593468642
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/ondine-2009-film-online-plakat.jpg" group-title="vod-filmy", Ondine (2009) (2009)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/e/4/5eee4e83dcac8-ondine-2009-3filmy-com.mp4?md5=cbn4mnxp0H7XJEh7nAZJ-Q&expires=1593468642
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/snajper-sharpshooter-2007-film-online-plakat.jpg" group-title="vod-filmy", Snajper / Sharpshooter (2007) (2007)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/5/b/5ee5bab86723b-sharpshooter-2007-pl-dvdrip-xvid.mp4?md5=KKUyXukq9_r8zQZ-XmrLog&expires=1593468643
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/mikolaj-w-kazdym-z-nas-snekker-andersen-og-julenissen-2016-film-online-plakat.jpg" group-title="vod-filmy", Mikołaj w każdym z nas / Snekker Andersen og Julenissen (2016) (2016)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/a/1/5eea1bc963997-mikolaj-w-kazdym-z-nas-snekker-andersen-og-julenissen-2016-480p-web-dl-xvid-nonano-dubbing-pl.mp4?md5=KKUyXukq9_r8zQZ-XmrLog&expires=1593468643
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/romeo-musi-umrzec-romeo-must-die-2000-film-online-plakat.jpg" group-title="vod-filmy", Romeo musi umrzeć / Romeo Must Die (2000) (2000)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/e/4/5eee4e83ddcbc-romeo-musi-umrzec-romeo-must-die-2000-3filmy-com.mp4?md5=KKUyXukq9_r8zQZ-XmrLog&expires=1593468643
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/snajper-sniper-1993-film-online-plakat.jpg" group-title="vod-filmy", Snajper / Sniper (1993) (1993)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/5/b/5ee5bab868bab-snajper-1-1993-pl-dvdrip-xvid.mp4?md5=oKkbWUqdW4dZXPhUOwUxTA&expires=1593468644
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/kosmiczny-terror-fallout-1999-film-online-plakat.jpg" group-title="vod-filmy", Kosmiczny terror / Fallout (1999) (1999)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/a/1/5eea1bc9510d6-kosmiczny-terror-fallout-1999-720p-hdtv-xvid-ac3-h1-lektor-pl.mp4?md5=oKkbWUqdW4dZXPhUOwUxTA&expires=1593468644
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/wielka-wyprawa-molly-molly-monster-2016-film-online-plakat.jpg" group-title="vod-filmy", Wielka wyprawa Molly / Molly Monster (2016) (2016)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/e/4/5eee4e83d8cf8-molly-monster-2016-pldub-1080p-web-dl-x264.mp4?md5=oKkbWUqdW4dZXPhUOwUxTA&expires=1593468644
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/snajper-zabojcza-misja-sniper-inside-the-crosshairs-2012-film-online-plakat.jpg" group-title="vod-filmy", Snajper: Zabójcza misja / Sniper: Inside the Crosshairs (2012) (2012)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/5/b/5ee5bab867e4c-snajper-zabojcza-misja.mp4?md5=oKkbWUqdW4dZXPhUOwUxTA&expires=1593468644
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/niepokorna-miss-misbehaviour-2020-film-online-plakat.jpg" group-title="vod-filmy", Niepokorna miss / Misbehaviour (2020) (2020)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/e/4/5eee4e83d6f84-misbehavior-2020-plsubbed-web-dl-xvid-krt.mp4?md5=RUSb31kR96BO6MNKLRnqxA&expires=1593468645
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/inner-demons-2014-film-online-plakat.jpg" group-title="vod-filmy", Inner Demons (2014) (2014)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/a/1/5eea1bc949eca-inner-demons-2014-480p-web-dl-xvid-nonano-lektor-pl.mp4?md5=RUSb31kR96BO6MNKLRnqxA&expires=1593468645
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/anna-karenina-2012-film-online-plakat.jpg" group-title="vod-filmy", Anna Karenina (2012) (2012)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/5/b/5ee5bab813007-anna-karenina-2012-pl-brrip-480p-xvid-ac3-ltn.mp4?md5=RUSb31kR96BO6MNKLRnqxA&expires=1593468645
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/otryv-2019-film-online-plakat.jpg" group-title="vod-filmy", Otryv (2019) (2019)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/e/4/5eee4e83dd46b-otryv-2019-pl-720p-bluray-x264-kit.mp4?md5=m-gKsmv_B2h_6rSKcOAtFA&expires=1593468646
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/epidemia-outbreak-1995-film-online-plakat.jpg" group-title="vod-filmy", Epidemia / Outbreak (1995) (1995)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/a/1/5eea1bc94770a-epidemia-1995-480p-xvid-kuras-ac3-lektorpl.mp4?md5=m-gKsmv_B2h_6rSKcOAtFA&expires=1593468646
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/atrapa-toy-gun-2018-film-online-plakat.jpg" group-title="vod-filmy", Atrapa / Toy Gun (2018) (2018)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/5/b/5ee5bab82b7b1-atrapa-toy-gun-2018-720p-xvid-ac3-h1-lektor-pl.mp4?md5=m-gKsmv_B2h_6rSKcOAtFA&expires=1593468646
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/bizancjum-byzantium-2012-film-online-plakat.jpg" group-title="vod-filmy", Bizancjum / Byzantium (2012) (2012)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/a/1/5eea1bc9412c7-bizancjum-byzantium-2012-480p-web-dl-xvid-nonano-lektor-pl.mp4?md5=ZjcfU1cgCB4ZCS8nyIZczA&expires=1593468647
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/fantastyczna-podroz-fantastic-voyage-1966-film-online-plakat.jpg" group-title="vod-filmy", Fantastyczna podróż / Fantastic Voyage (1966) (1966)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/5/b/5ee5bab84e2b5-fantastyczna-podroz-fantastic-voyage-1966-lektor-pl.mp4?md5=ZjcfU1cgCB4ZCS8nyIZczA&expires=1593468647
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/marie-proba-ognia-druga-szansa-marie-fangt-feuer-zweite-chance-2018-film-online-plakat.jpg" group-title="vod-filmy", Marie - próba ognia: Druga szansa / Marie fängt Feuer - Zweite Chance (2018) (2016)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/4/f/5ee4ff2dde5f9-marie-fangt-feuer-zweite-chance-2018-pl-hdtv-x264-b89-mp4.mp4?md5=ZjcfU1cgCB4ZCS8nyIZczA&expires=1593468647
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/biegnij-amelio-amelie-rennt-2017-film-online-plakat.jpg" group-title="vod-filmy", Biegnij Amelio! / Amelie rennt (2017) (2017)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/a/1/5eea1bc93f778-biegnij-amelio-amelie-rennt-2017-480p-web-dl-xvid-nonano-dubbing-pl.mp4?md5=ZjcfU1cgCB4ZCS8nyIZczA&expires=1593468647
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/brzemie-burden-2018-film-online-plakat.jpg" group-title="vod-filmy", Brzemię / Burden (2018) (2018)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/4/f/5ee4ff2dc4929-burden-2020-plsubbed-web-dl-xvid-krt-mp4-upzone-cc-file-ho.mp4?md5=2yinl72rkjsJmkdhb9-wNg&expires=1593468648
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/trzy-sekundy-the-informer-2019-film-online-plakat.jpg" group-title="vod-filmy", Trzy sekundy / The Informer (2019) (2019)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/4/f/5ee4ff2df30d6-the-informer-2019-pl-480p-brrip-xvid-ac3-ozw-mp4-upzone-cc.mp4?md5=2yinl72rkjsJmkdhb9-wNg&expires=1593468648
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/amityville-terror-2016-film-online-plakat.jpg" group-title="vod-filmy", Amityville Terror (2016) (2016)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/a/1/5eea1bc93ea1a-amityville-terror-2016-480p-web-dl-xvid-nonano-lektor-pl.mp4?md5=2yinl72rkjsJmkdhb9-wNg&expires=1593468648
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/artemis-fowl-2020-film-online-plakat.jpg" group-title="vod-filmy", Artemis Fowl (2020) (2020)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/4/f/5ee4ff2da5e12-artemis-fowl-2020-plsubbe-480p-dsnp-web-dl-xvid-dd5-1-mp.mp4?md5=DKIGSmD4xxG7ez0lAixC3Q&expires=1593468649
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/zaklete-pirko-2020-film-online-plakat.jpg" group-title="vod-filmy", Zakleté pírko (2020) (2020)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/4/f/5ee4ff2df3b82-zaklete-pirko-2020-pl-web-dl-xvid-ozw-mp4-upzone-cc-file.mp4?md5=DKIGSmD4xxG7ez0lAixC3Q&expires=1593468649
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/crossbreed-2019-film-online-plakat.jpg" group-title="vod-filmy", Crossbreed (2019) (2019)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/3/8/5ee3875d228bf-crossbreed-2019-pl-web-dl-xvid-kit.mp4?md5=DKIGSmD4xxG7ez0lAixC3Q&expires=1593468649
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/dziewczyna-z-trzeciego-pietra-girl-on-the-third-floor-2019-film-online-plakat.jpg" group-title="vod-filmy", Dziewczyna z trzeciego piętra / Girl on the Third Floor (2019) (2019)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/4/f/5ee4ff2dd948b-girl-on-the-third-floor-2019-pl-720p-bluray-x264-kit-mp4-u.mp4?md5=DKIGSmD4xxG7ez0lAixC3Q&expires=1593468649
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/zagubiony-czas-die-verlorene-zeit-2011-film-online-plakat.jpg" group-title="vod-filmy", Zagubiony czas / Die Verlorene Zeit (2011) (2011)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/3/8/5ee3875d3223f-zagubiony-czas-remembrance-die-verlorene-zeit-2011-480p-hdtv-xvid-ac3-h1-lektor-pl.mp4?md5=vhGl4pnLOKUfCAStS8Cfjg&expires=1593468650
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/bokeh-2017-film-online-plakat.jpg" group-title="vod-filmy", Bokeh (2017) (2017)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/3/8/5ee3875d21d0d-bokeh-2017-pl-web-dl-xvid-gr4pe.mp4?md5=vhGl4pnLOKUfCAStS8Cfjg&expires=1593468650
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/pieciu-braci-da-5-bloods-2020-film-online-plakat.jpg" group-title="vod-filmy", Pięciu braci / Da 5 Bloods (2020) (2020)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/4/f/5ee4ff2dd5c72-da-5-bloods-2020-pl-nf-web-dl-x264-ddp5-1-fox-mp4-upzone-c.mp4?md5=vhGl4pnLOKUfCAStS8Cfjg&expires=1593468650
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/terrordaktyl-terrordactyl-2016-film-online-plakat.jpg" group-title="vod-filmy", Terrordaktyl / Terrordactyl (2016) (2016)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/3/8/5ee3875d3165a-terrordaktyl-terrordactyl-2016-web-dl-xvid-ac3-h1-lektor-pl.mp4?md5=vhGl4pnLOKUfCAStS8Cfjg&expires=1593468650
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/zabojca-rosemary-the-prowler-rosemary-1981-film-online-plakat.jpg" group-title="vod-filmy", Zabójca Rosemary / The Prowler - Rosemary (1981) (1981)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/2/a/5ee2a51dcfa34-zabojca-rosemary-the-prowler-1981-480p-brrip-xvid-ac3-h1-lektor-pl.mp4?md5=uR-xV8TMsgTlf1jllSH7ew&expires=1593468651
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/katie-fforde-zimmer-mit-meerblick-2018-film-online-plakat.jpg" group-title="vod-filmy", Katie Fforde: Pokój z widokiem na morze / Katie Fforde: Zimmer mit Meerblick (2018) (2018)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/4/f/5ee4ff2ddc819-katie-fforde-zimmer-mit-meerblick-2018-pl-720p-hdtv-x26-mp.mp4?md5=uR-xV8TMsgTlf1jllSH7ew&expires=1593468651
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/zjadacz-wezy-ii-odwet-zolnierza-snake-eater-ii-the-drug-buster-1990-film-online-plakat.jpg" group-title="vod-filmy", Zjadacz węży II: Odwet żołnierza / Snake Eater II: The Drug Buster (1990) (1989)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/3/8/5ee3875d30839-snake-eater-ii-the-drug-buster-1990-pl-480p-dvdrip-xvid-ac3-m3q-xvid.mp4?md5=uR-xV8TMsgTlf1jllSH7ew&expires=1593468651
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/topaz-1969-film-online-plakat.jpg" group-title="vod-filmy", Topaz (1969) (1969)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/2/a/5ee2a51dceffc-topaz-1969-480p-dvdrip-xvid-ac3-h1-lektor-pl.mp4?md5=k-rl1sL1YPcD3Mx0nBCABw&expires=1593468652
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/kobieta-inna-niz-wszystkie-outlier-the-story-of-katherine-johnson-2019-film-online-plakat.jpg" group-title="vod-filmy", Kobieta inna niż wszystkie / Outlier: the story of Katherine Johnson (2019)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/4/f/5ee4ff2ddf2dc-outlier-the-story-of-katherine-johnson-2019-pl-hdtv-x26-mp.mp4?md5=k-rl1sL1YPcD3Mx0nBCABw&expires=1593468652
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/sledztwo-we-dwoje-associes-contre-le-crime-2012-film-online-plakat.jpg" group-title="vod-filmy", Śledztwo we dwoje / Associes contre le crime (2012) (2012)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/3/8/5ee3875d2f4db-sledztwo-we-dwoje-associes-contre-le-crime-2012-brrip-xvid-mpeg-lektor-pl-h1.mp4?md5=k-rl1sL1YPcD3Mx0nBCABw&expires=1593468652
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/tanna-2015-film-online-plakat.jpg" group-title="vod-filmy", Tanna (2015) (2015)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/2/a/5ee2a51dce2a9-tanna-2015-pl-brrip-xvid-gr4pe.mp4?md5=NfO3M16Uum40LWiHlYdd6w&expires=1593468653
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/lew-le-lion-2020-film-online-plakat.jpg" group-title="vod-filmy", Lew / Le Lion (2020) (2020)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/4/f/5ee4ff2ddd7eb-le-lion-2020-pl-720p-web-dl-xvid-ac3-klio-mp4-upzone-cc-fi.mp4?md5=NfO3M16Uum40LWiHlYdd6w&expires=1593468653
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/pierwsza-strona-shattered-glass-2003-film-online-plakat.jpg" group-title="vod-filmy", Pierwsza strona / Shattered Glass (2003) (2003)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/3/8/5ee3875d2e8e8-shattered-glass-2003-pl-ac3-dvdrip-xvid-nn.mp4?md5=NfO3M16Uum40LWiHlYdd6w&expires=1593468653
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/poslaniec-smierci-messenger-of-death-1988-film-online-plakat.jpg" group-title="vod-filmy", Posłaniec Śmierci / Messenger of Death (1988) (1988)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/2/a/5ee2a51dcc429-poslaniec-smierci-messenger-of-death-1988-480p-brrip-xvid-ac3-h1-lektor-pl.mp4?md5=wcej_ALcjFb3rhn-8A1BKw&expires=1593468654
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/puls-3-pulse-3-2008-film-online-plakat.jpg" group-title="vod-filmy", Puls 3 / Pulse 3 (2008) (2008)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/3/8/5ee3875d2c21e-puls-3-pulse-3-2008-480p-web-dl-xvid-ac3-h1-lektor-pl.mp4?md5=wcej_ALcjFb3rhn-8A1BKw&expires=1593468654
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/maskarada-maskerade-2010-film-online-plakat.jpg" group-title="vod-filmy", Maskarada / Maskerade (2010) (2011)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/2/a/5ee2a51dcb9e2-maskarada-2010.mp4?md5=1512474xrkBCyoTiEZN6Zw&expires=1593468655
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/100-coco-new-york-2019-film-online-plakat.jpg" group-title="vod-filmy", 100% Coco New York (2019) (2019)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/1/1/5ee11af3d4ecb-100-coco-nowy-jork-2019-pl-web-dl-xvid-ozw-mp4-upzone-cc-f.mp4?md5=1512474xrkBCyoTiEZN6Zw&expires=1593468655
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/polowanie-na-wiedzme-bellow-the-bell-witch-haunting-2013-film-online-plakat.jpg" group-title="vod-filmy", Polowanie na wiedźmę Bellów / The Bell Witch Haunting (2013) (2013)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/3/8/5ee3875d2a8a8-polowanie-na-wiedzme-bellow-the-bell-witch-haunting-2013-480p-hdtv-xvid-ac3-h1-lektor-pl.mp4?md5=1512474xrkBCyoTiEZN6Zw&expires=1593468655
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/maratonczyk-marathon-man-1976-film-online-plakat.jpg" group-title="vod-filmy", Maratończyk / Marathon Man (1976) (1976)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/2/a/5ee2a51dcab18-maratonczyk-marathon-man-1976-480p-hdtv-xvid-ac3-h1-lektor-pl.mp4?md5=1512474xrkBCyoTiEZN6Zw&expires=1593468655
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/wyznaj-to-szeptem-tell-it-to-the-bees-2018-film-online-plakat.jpg" group-title="vod-filmy", Wyznaj to szeptem / Tell It to the Bees (2018) (2018)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/1/1/5ee11af445b17-fileone-tv-host-and-watch-videos-online.mp4?md5=WfQz5R74GAfVOV5gLfebew&expires=1593468656
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/pojedynek-w-abilene-gunfight-in-abilene-1967-film-online-plakat.jpg" group-title="vod-filmy", Pojedynek w Abilene / Gunfight in Abilene (1967) (1967)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/3/8/5ee3875d29ca9-pojedynek-w-abilene-gunfight-in-abilene-1967-480p-hdtv-xvid-ac3-h1-lektor-pl.mp4?md5=WfQz5R74GAfVOV5gLfebew&expires=1593468656
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/inspektor-gadzet-2-inspector-gadget-2-2003-film-online-plakat.jpg" group-title="vod-filmy", Inspektor Gadżet 2 / Inspector Gadget 2 (2003) (2003)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/2/a/5ee2a51dca026-inspektor-gadzet-2-inspector-gadget-2-2003-480p-dvdrip-xvid-ac3-h1-lektor-pl.mp4?md5=WfQz5R74GAfVOV5gLfebew&expires=1593468656
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/nieposluszne-disobedience-2017-film-online-plakat.jpg" group-title="vod-filmy", Nieposłuszne / Disobedience (2017) (2017)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/1/1/5ee11af45588a-nieposluszne-disobedience-2017-3filmy-com.mp4?md5=WfQz5R74GAfVOV5gLfebew&expires=1593468656
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/plague-2015-film-online-plakat.jpg" group-title="vod-filmy", Plague (2015) (2015)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/3/8/5ee3875d2939f-plague-2015-pl-web-dl-xvid-gr4pe.mp4?md5=BoAs8V76mCSWLeMhrYKv2w&expires=1593468657
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/inspektor-gadzet-inspector-gadget-1999-film-online-plakat.jpg" group-title="vod-filmy", Inspektor Gadżet / Inspector Gadget (1999) (1999)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/2/a/5ee2a51dc90fe-inspektor-gadzet-inspector-gadget-1999-480p-dvdrip-xvid-ac3-h1-lektor-pl.mp4?md5=BoAs8V76mCSWLeMhrYKv2w&expires=1593468657
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/the-last-full-measure-2019-film-online-plakat.jpg" group-title="vod-filmy", The Last Full Measure (2019) (2020)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/1/1/5ee11af4617d4-the-last-full-measure-2019-3filmy-com.mp4?md5=BoAs8V76mCSWLeMhrYKv2w&expires=1593468657
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/pietno-the-human-stain-2003-film-online-plakat.jpg" group-title="vod-filmy", Piętno / The Human Stain (2003) (2003)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/3/8/5ee3875d2851f-pietno-the-human-stain-2003-dvdrip-xvid-ac3-gr4pe-lektor-pl-h-1.mp4?md5=BoAs8V76mCSWLeMhrYKv2w&expires=1593468657
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/da-hong-zha-2018-film-online-plakat.jpg" group-title="vod-filmy", Da Hong Zha (2018) (2018)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/2/a/5ee2a51dc8559-da-hong-zha-2018-pl-hdtv-xvid-gr4pe.mp4?md5=ENyK42tSwnt6icdWzWGBrA&expires=1593468658
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/zakrzywienie-curvature-2017-film-online-plakat.jpg" group-title="vod-filmy", Zakrzywienie / Curvature (2017)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/1/1/5ee11af4633f3-zakrzywienie-2017-pl-1080p-web-dl-x264-ac3-ozw-mp4-upzone.mp4?md5=ENyK42tSwnt6icdWzWGBrA&expires=1593468658
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/behen-hogi-teri-2017-film-online-plakat.jpg" group-title="vod-filmy", Behen Hogi Teri (2017) (2017)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/2/a/5ee2a51dc6c46-behen-hogi-teri-2017-pl-web-dl-xvid-gr4pe.mp4?md5=ENyK42tSwnt6icdWzWGBrA&expires=1593468658
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/pan-ameryka-somebody-s-hero-2011-film-online-plakat.jpg" group-title="vod-filmy", Pan Ameryka / Somebody's Hero (2011) (2011)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/3/8/5ee3875d277e4-pan-ameryka-nasz-bohater-somebody-s-hero-2011-480p-web-dl-xvid-nonano-lektor-pl.mp4?md5=bLLvlynq58DMRUfO79h3zA&expires=1593468659
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/bylismy-cool-we-used-to-be-cool-was-hat-uns-blos-so-ruiniert-2016-film-online-plakat.jpg" group-title="vod-filmy", Byliśmy cool / We Used to Be Cool / Was hat uns bloß so ruiniert (2016) (2016)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/e/5/5ede585dc77d0-bylis-my-cool-we-used-to-be-cool-was-hat-uns-blos-so-ruiniert.mp4?md5=bLLvlynq58DMRUfO79h3zA&expires=1593468659
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/koma-2019-film-online-plakat.jpg" group-title="vod-filmy", Koma (2019) (2019)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/2/a/5ee2a51dc7a31-coma-2019-pl-subbed-brrip-xvid-r22.mp4?md5=bLLvlynq58DMRUfO79h3zA&expires=1593468659
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/klatwa-z-salem-a-haunting-in-salem-2011-film-online-plakat.jpg" group-title="vod-filmy", Klątwa z Salem / A Haunting in Salem (2011) (2011)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/7/1/5ee71d7bd6cec-kla-twa-z-salem-a-haunting-in-salem-2011-3filmy-com.mp4?md5=wl1hBKa477jT2ZTB84ZfSg&expires=1593468660
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/chybiony-cel-hollow-point-1995-film-online-plakat.jpg" group-title="vod-filmy", Chybiony Cel / Hollow Point (1995) (1995)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/e/5/5ede585dc83ad-chybiony-cel-hollow-point-1995-3filmy-com.mp4?md5=wl1hBKa477jT2ZTB84ZfSg&expires=1593468660
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/1br-2019-film-online-plakat.jpg" group-title="vod-filmy", 1BR (2019) (2019)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/2/a/5ee2a51dc1d8c-1br-2019-bdrip-xvid-ac3-h1-napisy-pl.mp4?md5=wl1hBKa477jT2ZTB84ZfSg&expires=1593468660
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/droga-smierci-dead-end-2003-film-online-plakat.jpg" group-title="vod-filmy", Droga śmierci / Dead End (2003) (2003)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/f/0/5/5ef05d08a9158-droga-s-mierci-dead-end-2003-3filmy-com.mp4?md5=wl1hBKa477jT2ZTB84ZfSg&expires=1593468660
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/dwie-korony-2017-film-online-plakat.jpg" group-title="vod-filmy", Dwie korony (2017) (2017)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/e/5/5ede585dd2cb9-dwie-korony-2017-3filmy-com.mp4?md5=kd9cr9UptOBd9PS2j29Oyw&expires=1593468661
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/frisco-kid-the-frisco-kid-1979-film-online-plakat.jpg" group-title="vod-filmy", Frisco Kid / The Frisco Kid (1979) (1979)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/8/c/5ed8c29a42c5e-frisko-kid-the-frisco-kid-1979.mp4?md5=kd9cr9UptOBd9PS2j29Oyw&expires=1593468661
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/dotyk-przeznaczenia-the-gift-2000-film-online-plakat.jpg" group-title="vod-filmy", Dotyk przeznaczenia / The Gift (2000) (2000)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/3/8/5ee3875d249d1-dotyk-przeznaczenia-2000r.mp4?md5=kd9cr9UptOBd9PS2j29Oyw&expires=1593468661
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/firewall-2006-film-online-plakat.jpg" group-title="vod-filmy", Firewall (2006) (2006)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/8/c/5ed8c29a42192-firewall-2006.mp4?md5=_q5sXrDGFey-yM_95n9Wjw&expires=1593468662
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/dosie-gnac-kosmosu-october-sky-1999-film-online-plakat.jpg" group-title="vod-filmy", Dosięgnąć kosmosu / October Sky (1999) (1999)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/e/5/5ede585dd1b1b-dosie-gna-c-kosmosu-october-sky-1999-3filmy-com.mp4?md5=_q5sXrDGFey-yM_95n9Wjw&expires=1593468662
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/czlowiek-na-krawedzi-man-on-a-ledge-2012-film-online-plakat.jpg" group-title="vod-filmy", Człowiek na krawędzi / Man on a Ledge (2012) (2012)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/3/8/5ee3875d2329a-czlowiek-na-krawedzi-2012r.mp4?md5=_q5sXrDGFey-yM_95n9Wjw&expires=1593468662
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/korona-arkusa-die-krone-von-arkus-2015-film-online-plakat.jpg" group-title="vod-filmy", Korona Arkusa / Die Krone von Arkus (2015) (2015)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/e/5/5ede585dd9f16-korona-arkusa-die-krone-von-arkus-2015-3filmy-com.mp4?md5=_q5sXrDGFey-yM_95n9Wjw&expires=1593468662
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/amerykanskie-graffiti-american-graffiti-1973-film-online-plakat.jpg" group-title="vod-filmy", Amerykańskie graffiti / American Graffiti (1973) (1973)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/8/c/5ed8c29a4147b-amerykan-skie-graffiti-american-graffiti-1973.mp4?md5=Vnt6kCOXv2plFcF342f2rQ&expires=1593468663
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/zgnile-jaja-bad-eggs-2003-film-online-plakat.jpg" group-title="vod-filmy", Zgniłe jaja / Bad Eggs (2003) (2003)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/3/8/5ee3875d1ed55-bad-eggs-2003-pl-xvid-becia.mp4?md5=Vnt6kCOXv2plFcF342f2rQ&expires=1593468663
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/ghost-dog-droga-samuraja-ghost-dog-the-way-of-the-samurai-1999-film-online-plakat.jpg" group-title="vod-filmy", Ghost Dog: Droga samuraja / Ghost Dog: The Way of the Samurai (1999) (1999)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/e/5/5ede585dd393f-ghost-dog-droga-samuraja-ghost-dog-the-way-of-the-samurai-1.mp4?md5=Vnt6kCOXv2plFcF342f2rQ&expires=1593468663
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/air-force-one-1997-film-online-plakat.jpg" group-title="vod-filmy", Air Force One (1997) (1997)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/8/c/5ed8c29a39d2d-air-force-one-1997.mp4?md5=cDEiZlSK33i8uSRfPDhBxg&expires=1593468664
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/zombie-ss-2-dod-sno-2-2014-film-online-plakat.jpg" group-title="vod-filmy", Zombie SS 2 / Død Snø 2 (2014) (2014)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/3/8/5ee3875d1863e-02-zombie-ss-2-2014r.mp4?md5=cDEiZlSK33i8uSRfPDhBxg&expires=1593468664
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/kilka-wolnych-dni-r-t-t-2009-film-online-plakat.jpg" group-title="vod-filmy", Kilka wolnych dni / R.T.T. (2009) (2009)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/e/5/5ede585dd924f-kilka-wolnych-dni-r-t-t-2009-3filmy-com.mp4?md5=cDEiZlSK33i8uSRfPDhBxg&expires=1593468664
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/odnalezc-ojca-irene-in-time-2009-film-online-plakat.jpg" group-title="vod-filmy", Odnaleźć ojca / Irene in Time (2009) (2009)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/8/c/5ed8c29a4b8c1-odnalez-c-ojca-irene-in-time-2009.mp4?md5=DAHpmejQX0y6Onka2gnEnQ&expires=1593468665
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/porwanie-altitude-2017-film-online-plakat.jpg" group-title="vod-filmy", Porwanie / Altitude (2017) (2017)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/3/8/5ee3875d2b76d-porwanie-altitude-2017-720p-720p-hdtv-xvid-ac3-h1-lektor-pl.mp4?md5=DAHpmejQX0y6Onka2gnEnQ&expires=1593468665
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/oni-the-faculty-1998-film-online-plakat.jpg" group-title="vod-filmy", Oni / The Faculty (1998) (1998)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/e/5/5ede585ddc8b4-oni-the-faculty-1998-3filmy-com.mp4?md5=DAHpmejQX0y6Onka2gnEnQ&expires=1593468665
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/odnalezc-dom-the-long-road-home-1999-film-online-plakat.jpg" group-title="vod-filmy", Odnaleźć dom / The Long Road Home (1999) (1999)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/8/c/5ed8c29a4abfd-odnalez-c-dom-the-long-road-home-1999.mp4?md5=DAHpmejQX0y6Onka2gnEnQ&expires=1593468665
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/miasto-mafii-mob-town-2019-film-online-plakat.jpg" group-title="vod-filmy", Miasto mafii / Mob Town (2019) (2019)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/3/8/5ee3875d26f3d-mob-town-2019-pl-web-dl-xvid-kit.mp4?md5=pZVnmRZ0w8-hHlOTB4XRpw&expires=1593468666
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/marzenia-es-esmu-seit-2016-film-online-plakat.jpg" group-title="vod-filmy", Marzenia / Es esmu šeit (2016) (2016)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/e/5/5ede585ddbcd2-marzenia-es-esmu-s-eit-2016-3filmy-com.mp4?md5=pZVnmRZ0w8-hHlOTB4XRpw&expires=1593468666
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/odnalezc-emme-stolen-from-the-suburbs-2015-film-online-plakat.jpg" group-title="vod-filmy", Odnaleźć Emmę / Stolen from the Suburbs (2015) (2015)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/8/c/5ed8c29a4a01b-odnalez-c-emme-stolen-from-the-suburbs-2015.mp4?md5=pZVnmRZ0w8-hHlOTB4XRpw&expires=1593468666
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/arkansas-2020-film-online-plakat.jpg" group-title="vod-filmy", Arkansas (2020) (2020)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/3/8/5ee3875d1b705-arkansas-2020-web-dl-xvid-mpeg-didi-lektor-pl-h-1.mp4?md5=L0L_uzxdku2qMf0QxfWkIw&expires=1593468667
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/nocne-lowy-hunter-s-moo-film-online-plakat.jpg" group-title="vod-filmy", Nocne łowy / Hunter's Moo (2020) (2020)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/e/5/5ede585dd800b-hunters-moon-2020-plsubbed-480p-web-dl-xvid-ac3-krt-mp4-up.mp4?md5=L0L_uzxdku2qMf0QxfWkIw&expires=1593468667
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/naoczny-swiadek-eyewitness-1981-film-online-plakat.jpg" group-title="vod-filmy", Naoczny świadek / Eyewitness (1981) (1981)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/8/c/5ed8c29a495c8-naoczny-s-wiadek-eyewitness-1981.mp4?md5=L0L_uzxdku2qMf0QxfWkIw&expires=1593468667
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/zombie-ss-dod-sno-2009-film-online-plakat.jpg" group-title="vod-filmy", Zombie SS / Død snø (2009) (2009)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/e/3/8/5ee3875d07452-01-zombie-ss-2009r.mp4?md5=L0L_uzxdku2qMf0QxfWkIw&expires=1593468667
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/naoczny-swiadek-eyewitness-2015-film-online-plakat.jpg" group-title="vod-filmy", Naoczny świadek / Eyewitness (2015) (2015)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/8/c/5ed8c29a48a01-naoczny-s-wiadek-eyewitness-2015.mp4?md5=95lZbXTqdV-azSEK_74KSQ&expires=1593468668
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/guilty-2020-film-online-plakat.jpg" group-title="vod-filmy", Guilty (2020) (2020)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/e/5/5ede585dd437a-guilty-2020.mp4?md5=95lZbXTqdV-azSEK_74KSQ&expires=1593468668
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/nagi-swiadek-bare-witness-2002-film-online-plakat.jpg" group-title="vod-filmy", Nagi Świadek / Bare Witness (2002) (2002)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/8/c/5ed8c29a47d50-nagi-s-wiadek-bare-witness-2002.mp4?md5=dmy6af0UsyKVJmWBfV3VdQ&expires=1593468669
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/lato-w-poludniowej-francji-ein-sommer-in-sudfrankreich-2016-film-online-plakat.jpg" group-title="vod-filmy", Lato w południowej Francji / Ein Sommer in Südfrankreich (2016) (2016)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/e/5/5ede585ddab28-lato-w-poludniowej-francji-ein-sommer-in-su-dfrankreich-2016.mp4?md5=dmy6af0UsyKVJmWBfV3VdQ&expires=1593468669
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/milczacy-swiadek-silent-witness-2011-film-online-plakat.jpg" group-title="vod-filmy", Milczący świadek / Silent Witness (2011) (2011)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/8/c/5ed8c29a47048-milcza-cy-s-wiadek-silent-witness-2011.mp4?md5=dmy6af0UsyKVJmWBfV3VdQ&expires=1593468669
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/rytmy-nocy-the-last-days-of-disco-1998-film-online-plakat.jpg" group-title="vod-filmy", Rytmy nocy / The Last Days of Disco (1998) (1998)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/e/5/5ede585dddd6d-rytmy-nocy-the-last-days-of-disco-1998-3filmy-com.mp4?md5=DwLqfhFqxvge98KQBxzVJw&expires=1593468670
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/klient-forushande-2016-film-online-plakat.jpg" group-title="vod-filmy", Klient / Forushande (2016) (2016)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/8/c/5ed8c29a450f4-klient-forushande-2016.mp4?md5=DwLqfhFqxvge98KQBxzVJw&expires=1593468670
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/szata-the-robe-1953-film-online-plakat.jpg" group-title="vod-filmy", Szata / The Robe (1953) (1953)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/e/5/5ede585de626b-szata-the-robe-1953-3filmy-com.mp4?md5=oKvrDykLlg0DX3_tZbTRNQ&expires=1593468671
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/uznany-za-niewinnego-presumed-innocent-1990-film-online-plakat.jpg" group-title="vod-filmy", Uznany za niewinnego / Presumed Innocent (1990) (1990)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/8/c/5ed8c29a52268-uznany-za-niewinnego-presumed-innocent-1990.mp4?md5=oKvrDykLlg0DX3_tZbTRNQ&expires=1593468671
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/snowden-demaskator-czy-szpieg-edward-snowden-whistleblower-or-spy-2019-film-online-plakat.jpg" group-title="vod-filmy", Snowden: demaskator czy szpieg? / Edward Snowden: Whistleblower or Spy? (2019)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/e/5/5ede585de9a14-watch-edward-snowden-whistleblower-spy-2019-720p-hdtv-x264-b.mp4?md5=-0cn-eXJcse8NsEdP-8e-w&expires=1593468672
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/the-star-wars-holiday-special-1978-film-online-plakat.jpg" group-title="vod-filmy", The Star Wars Holiday Special (1978) (1978)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/8/c/5ed8c29a5179c-the-star-wars-holiday-special-1978.mp4?md5=-0cn-eXJcse8NsEdP-8e-w&expires=1593468672
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/po-deszczu-ame-agaru-1999-film-online-plakat.jpg" group-title="vod-filmy", Po deszczu / Ame agaru (1999) (1999)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/e/5/5ede585ded8c4-po-deszczu-ame-agaru-1999.mp4?md5=-0cn-eXJcse8NsEdP-8e-w&expires=1593468672
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/swiadek-mimo-woli-body-double-1984-film-online-plakat.jpg" group-title="vod-filmy", Świadek mimo woli / Body Double (1984) (1984)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/8/c/5ed8c29a50c0c-s-wiadek-mimo-woli-body-double-1984.mp4?md5=p6hzMLZjClfUXwXwhbDeZw&expires=1593468673
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/tropiciele-mogil-grave-encounters-2011-film-online-plakat.jpg" group-title="vod-filmy", Tropiciele mogił / Grave Encounters (2011) (2011)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/e/5/5ede585de8a1d-tropiciele-mogil-grave-encounters-2011-3filmy-com.mp4?md5=p6hzMLZjClfUXwXwhbDeZw&expires=1593468673
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/scooby-doo-2020-film-online-plakat.jpg" group-title="vod-filmy", Scooby-Doo! (2020) (2020)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/e/5/5ede585dee05e-scooby-doo.mp4?md5=82sGNicypREQFmizH1HLQw&expires=1593468674
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/swiadek-bezbronny-witless-protection-2008-film-online-plakat.jpg" group-title="vod-filmy", Świadek bezbronny / Witless Protection (2008) (2008)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/8/c/5ed8c29a500ad-s-wiadek-bezbronny-witless-protection-2008.mp4?md5=82sGNicypREQFmizH1HLQw&expires=1593468674
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/swiadek-mea-culpa-2014-film-online-plakat.jpg" group-title="vod-filmy", Świadek / Mea Culpa (2014) (2014)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/8/c/5ed8c29a4f75e-s-wiadek-mea-culpa-2014.mp4?md5=7qMXaKkJbpKawe-VpVybSg&expires=1593468675
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/klient-the-client-1994-film-online-plakat.jpg" group-title="vod-filmy", Klient / The Client (1994) (1994)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/8/c/5ed8c29a4610d-klient-the-client-1994.mp4?md5=7qMXaKkJbpKawe-VpVybSg&expires=1593468675
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/pracujaca-dziewczyna-working-girl-1988-film-online-plakat.jpg" group-title="vod-filmy", Pracująca dziewczyna / Working Girl (1988) (1988)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/8/c/5ed8c29a4dcdd-pracuja-ca-dziewczyna-working-girl-1988.mp4?md5=DCo1gDGb3owuFYzvi7QFEA&expires=1593468676
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/srodki-nadzwyczajne-extraordinary-measures-2010-film-online-plakat.jpg" group-title="vod-filmy", Środki nadzwyczajne / Extraordinary Measures (2010) (2010)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/8/c/5ed8c29a4ead9-s-rodki-nadzwyczajne-extraordinary-measures-2010-online-e.mp4?md5=9xVcPPwLbsy6LG-W9ZE5dg&expires=1593468677
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/odnalezlismy-siodma-kompanie-on-a-retrouve-la-7eme-compagnie-1975-film-online-plakat.jpg" group-title="vod-filmy", Odnaleźliśmy siódmą kompanię / On a retrouvé la 7eme compagnie! (1975) (1975)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/8/c/5ed8c29a4cf66-odnalez-lis-my-sio-dma-kompanie-on-a-retrouve-la-7eme-compagnie-1975.mp4?md5=VZ8_3bDK96nR3c-LyWUAIQ&expires=1593468678
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/odnalezc-siebie-regarding-henry-1991-film-online-plakat.jpg" group-title="vod-filmy", Odnaleźć siebie / Regarding Henry (1991) (1991)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/8/c/5ed8c29a4c4d6-odnalez-c-siebie-regarding-henry-1991.mp4?md5=tY3D2-t_zNKd-ZFJDUk4RA&expires=1593468679
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/zbaw-nas-ode-zlego-deliver-us-from-evil-2014-film-online-plakat.jpg" group-title="vod-filmy", Zbaw nas ode złego / Deliver Us from Evil (2014) (2014)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/e/5/5ede585dec925-zbaw-nas-ode-zlego-deliver-us-from-evil-2014-3filmy-com.mp4?md5=tY3D2-t_zNKd-ZFJDUk4RA&expires=1593468679
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/bialy-waz-bai-she-yuan-qi-2019-film-online-plakat.jpg" group-title="vod-filmy", Biały wąż / Bai She: Yuan Qi (2019) (2019)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/e/5/5ede585deb92a-white-snake-2019-pl-subbed-brrip-xvid-mors-mp4-upzone-cc.mp4?md5=vPONzxvGFCJvFR7ICidaQA&expires=1593468680
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/wcielenia-zla-benito-mussolini-evolution-of-evil-benito-mussolini-2015-film-online-plakat.jpg" group-title="vod-filmy", Wcielenia zła: Benito Mussolini / Evolution of Evil: Benito Mussolini (2015)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/e/5/5ede585deaa52-wcielenia-zla-benito-mussolini-evolution-of-evil-benito-muss.mp4?md5=AaBydxU-1MxsK6iHzy4SGg&expires=1593468681
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/kongo-mordene-i-kongo-2018-film-online-plakat.jpg" group-title="vod-filmy", Kongo / Mordene i Kongo (2018) (2018)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/c/f/5edcf4dfbcb09-mordene-i-kongo-2018-pl-brrip-xvid-kit-mp4-upzone-cc-file.mp4?md5=AaBydxU-1MxsK6iHzy4SGg&expires=1593468681
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/kak-ya-stal-russkim-2019-film-online-plakat.jpg" group-title="vod-filmy", Kak ya stal russkim (2019) (2018)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/c/f/5edcf4dfa7be1-kak-ya-stal-russkim-2019-pl-1080p-web-dl-x264-dd2-0-fox-mp4.mp4?md5=qfcMRHbEZOXVtVqvSGeS_g&expires=1593468682
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/niemoralna-propozycja-indecent-proposal-1993-film-online-plakat.jpg" group-title="vod-filmy", Niemoralna propozycja / Indecent Proposal (1993) (1993)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/c/4/5edc4e69ddbd6-niemoralna-propozycja-indecent-proposal-1993.mp4?md5=W-NjDX-r2IO09aw2KXxBqQ&expires=1593468683
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/striptiz-striptease-1996-film-online-plakat.jpg" group-title="vod-filmy", Striptiz / Striptease (1996) (1996)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/c/4/5edc4e6a0c5fe-striptiz-striptease-1996.mp4?md5=euxXgwUnziUoqySCjKpI_A&expires=1593468684
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/wydzial-zabojstw-hollywood-hollywood-homicide-2003-film-online-plakat.jpg" group-title="vod-filmy", Wydział zabójstw Hollywood / Hollywood Homicide (2003) (2003)
+https://dhsve838290xnh98-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/a/2/5eda2d2d90d0f-wydzial-zabo-jstw-hollywood-hollywood-homicide-2003.mp4?md5=o5TvIs2f121ZicaghX4ZIA&expires=1593468685
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/eskorta-porucznika-the-ottoman-lieutenant-2017-film-online-plakat.jpg" group-title="vod-filmy", Eskorta porucznika / The Ottoman Lieutenant (2017) (2017)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/a/2/5eda2d2d91739-escorta-porucznika.mp4?md5=klatdtbkcAIllgr_iEXonw&expires=1593468686
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/wydzial-zabojstw-homicide-1991-film-online-plakat.jpg" group-title="vod-filmy", Wydział zabójstw / Homicide (1991) (1991)
+https://kdgsbubdjgdjhsdgc-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/a/2/5eda2d2d902fa-wydzial-zabo-jstw-homicide-1991.mp4?md5=FeSr6potk9Ux4TV9NZDbgg&expires=1593468687
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/wydzial-zabojstw-berlin-1-berlin-eins-2015-film-online-plakat.jpg" group-title="vod-filmy", Wydział Zabójstw Berlin 1 / Berlin Eins (2015) (2015)
+https://hdkf989d98066cvv9-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/a/2/5eda2d2d8f494-wydzial-zabo-jstw-berlin-1-berlin-eins-2015.mp4?md5=kTXZLCJOdrN_tSmSQDvcuQ&expires=1593468688
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/wskrzeszenie-mistrza-resurrecting-the-champ-2007-film-online-plakat.jpg" group-title="vod-filmy", Wskrzeszenie Mistrza / Resurrecting the Champ (2007) (2007)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/a/2/5eda2d2d8e749-wskrzeszenie-mistrza-resurrecting-the-champ-2007.mp4?md5=WuZXiUp7lyS4BV175ZiK_w&expires=1593468689
+#EXTINF:0 tvg-logo="https://www.ogladaj.to®/media/plakaty/sila-przetrwania-6-below-miracle-on-the-mountain-2017-film-online-plakat.jpg" group-title="vod-filmy", Siła przetrwania / 6 Below: Miracle on the Mountain Kasi(2017) (2017)
+https://873nkjbdjdsjhfjsdu3-cdn.fckshei984u83ni8nic7b7ibfui74.com/videos/5/e/d/a/2/5eda2d2d8bdeb-sila-przetrwania-hd-6-below-miracle-on-the-mountain-2017-o.mp4?md5=c9qjJXxbI0S-PoF4QL3K_A&expires=1593468690
