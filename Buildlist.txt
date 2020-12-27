@@ -112,8 +112,8 @@ description="Cherry TV pod Kodi 18.Opcja Fresh lub Standard.LINK "
 
 name="UPDATE_Awidget"
 version="0.0.1"
-url="http://tom12.com.pl/jan/UPDATE_Awidget.zip"
-gui="http://"   -
+url="http://tom12.com.pl/jan/UPDATE_.zip"
+gui="http://"   
 kodi="18.9"
 theme=""
 icon="https://raw.githubusercontent.com/krecik71/tom/master/icon.png"
