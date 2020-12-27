@@ -123,8 +123,8 @@ adult="no"
 description="DANE autowidget  DLA TOM WIZARD   KODI 18"
 
 name="UPDATE_tomiptv"
-version="0.0.1
-url="http://tom12.com.pl/jan/.zip
+version="0.0.2
+url="http://tom12.com.pl/jan/.zip"
 gui="http://"   -
 kodi="18.9"
 theme=""
@@ -132,7 +132,19 @@ icon="https://raw.githubusercontent.com/krecik71/tom/master/icon.png"
 fanart="https://betanews.com/wp-content/uploads/2018/09/Kodi.jpg"
 preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
 adult="no"
-description="DLA TOM WIZARD   KODI 18"
+description="  KODI 18"
+
+name="AKTUALIZACJA  bufor 150 "
+version="1.0.9"
+url="https://kodihub.net/k5kyr"
+gui="http://"
+kodi="18.5"
+theme="http://"
+icon="https://raw.githubusercontent.com/krecik71/tom/master/icon.png"
+fanart="https://betanews.com/wp-content/uploads/2018/09/Kodi.jpg"
+preview="http://"
+adult="no"
+description="Opcja STANDARD"
 
 name="bufor 150 UPDATE"
 version="0.0.1"
