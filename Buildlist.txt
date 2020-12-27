@@ -122,7 +122,7 @@ preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
 adult="no"
 description="DANE autowidget  DLA TOM WIZARD   KODI 18"
 
-name="TOM IPTV UPDATE"
+name="UPDATE_TOMIPTV"
 version="0.0.1"
 url="http://tom12.com.pl/jan/UPDATE_TOMIPTV.zip"
 gui="http://"   -
