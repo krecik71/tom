@@ -122,11 +122,11 @@ preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
 adult="no"
 description="DANE autowidget  DLA TOM WIZARD   KODI 18"
 
-name="UPDATE_tomiptv"
+name="update_tomiptv"
 version="0.0.2
 url="http://tom12.com.pl/jan/.zip"
 gui="http://"   -
-kodi="18.9"
+kodi="18.8"
 theme=""
 icon="https://raw.githubusercontent.com/krecik71/tom/master/icon.png"
 fanart="https://betanews.com/wp-content/uploads/2018/09/Kodi.jpg"
