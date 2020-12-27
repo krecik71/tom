@@ -110,17 +110,17 @@ preview="https://youtu.be/PhLHR6LVjS8"
 adult="no"
 description="Cherry TV pod Kodi 18.Opcja Fresh lub Standard.LINK "
 
-name="WP PILOT UPDATE"
-version="0.0.1"
-url="https://polishteam.ru/FTP/tom/koditom/RSS/UPDATE_WP%20PILOT.zip"
+name="UPDATE_AwidgetE"
+version="0.0.1
+url="http://tom12.com.pl/jan/UPDATE_Awidget.zip"
 gui="http://"   -
-kodi="18.0"
+kodi="18.9"
 theme=""
 icon="https://raw.githubusercontent.com/krecik71/tom/master/icon.png"
 fanart="https://betanews.com/wp-content/uploads/2018/09/Kodi.jpg"
 preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
 adult="no"
-description="DANE WP PILOT  DLA TOM WIZARD   KODI 18"
+description="DANE autowidget  DLA TOM WIZARD   KODI 18"
 
 name="TOMIPTV UPDATE"
 version="0.0.1"
