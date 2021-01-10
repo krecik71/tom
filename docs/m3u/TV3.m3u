@@ -1,207 +1,402 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/tvp-1.png" ,TVP 1
-http://internetowa.tv/?c=hlsPlay&channel=tvp1&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/tvp-2.png" ,TVP 2
-http://internetowa.tv/?c=hlsPlay&channel=tvp2&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/tvn-logo.png" ,TVN
-http://internetowa.tv/?c=hlsPlay&channel=tvn&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/tvn-7.png" ,TVN 7
-http://internetowa.tv/?c=hlsPlay&channel=tvn7&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/polsat.png" ,Polsat
-http://internetowa.tv/?c=hlsPlay&channel=polsat&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/tv-4.png" ,TV 4
-http://internetowa.tv/?c=hlsPlay&channel=tv4&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/polsat-2.png" ,Polsat 2
-http://internetowa.tv/?c=hlsPlay&channel=polsat2&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/tv-plus.png" ,TV Puls
-http://internetowa.tv/?c=hlsPlay&channel=tvpuls&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/tvp-polonia.png" ,TVP Polonia
-http://internetowa.tv/?c=hlsPlay&channel=tvppolonia&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/tv-6.png" ,TV 6
-http://internetowa.tv/?c=hlsPlay&channel=tv6&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/ttv.png" ,TTV
-http://internetowa.tv/?c=hlsPlay&channel=ttv&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/puls-2.png" ,Puls 2
-http://internetowa.tv/?c=hlsPlay&channel=tvpuls2&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/tvp-info.png" ,TVP Info
-http://internetowa.tv/?c=hlsPlay&channel=tvpinfo&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/tvn-24.png" ,TVN 24
-http://internetowa.tv/?c=hlsPlay&channel=tvn24&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/tvn-24-bis.png" ,TVN 24 BiS
-http://internetowa.tv/?c=hlsPlay&channel=tvn24bis&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/polsat-news.png" ,Polsat News
-http://internetowa.tv/?c=hlsPlay&channel=polsatnews&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/republika-tv.png" ,Republika TV
-http://internetowa.tv/?c=hlsPlay&channel=tvrepublika&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/canal-plus.png" ,Canal+
-http://internetowa.tv/?c=hlsPlay&channel=canalplus&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/canal-plus-film.png" ,Canal+ Film
-http://internetowa.tv/?c=hlsPlay&channel=canalplusfilm&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/canal-plus-family.png" ,Canal+ Family
-http://internetowa.tv/?c=hlsPlay&channel=canalplusfamily&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/hbo.png" ,HBO
-http://internetowa.tv/?c=hlsPlay&channel=hbo&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/hbo-2.png" ,HBO 2
-http://internetowa.tv/?c=hlsPlay&channel=hbo2&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/hbo-3.png" ,HBO 3
-http://internetowa.tv/?c=hlsPlay&channel=hbo3&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/tvn-fabula.png" ,TVN Fabuła
-http://internetowa.tv/?c=hlsPlay&channel=tvnfabula&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/axn.png" ,AXN
-http://internetowa.tv/?c=hlsPlay&channel=axn&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/13-ulica.png" ,13 Ulica
-http://internetowa.tv/?c=hlsPlay&channel=13ulica&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/polsat-film.png" ,Polsat Film
-http://internetowa.tv/?c=hlsPlay&channel=polsatfilm&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/kino-polska.png" ,Kino Polska
-http://internetowa.tv/?c=hlsPlay&channel=kinopolska&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/polsat-cafe.png" ,Polsat Cafe
-http://internetowa.tv/?c=hlsPlay&channel=polsatcafe&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/polsat-play.png" ,Polsat Play
-http://internetowa.tv/?c=hlsPlay&channel=polsatplay&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/tvp-seriale.png" ,TVP Seriale
-http://internetowa.tv/?c=hlsPlay&channel=tvpseriale&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/cinemax.png" ,Cinemax
-http://internetowa.tv/?c=hlsPlay&channel=cinemax&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/cinemax-2.png" ,Cinemax 2
-http://internetowa.tv/?c=hlsPlay&channel=cinemax2&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/fox.png" ,FOX
-http://internetowa.tv/?c=hlsPlay&channel=fox&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/canal-plus-seriale.png" ,Canal+ Seriale
-http://internetowa.tv/?c=hlsPlay&channel=canalplusseriale&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/comedy-central.png" ,Comedy Central
-http://internetowa.tv/?c=hlsPlay&channel=comedycentral&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/ci-polsat.png" ,Crime+Investigation Polsat
-http://internetowa.tv/?c=hlsPlay&channel=cipolsat&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/tvp-rozrywka.png" ,TVP Rozrywka
-http://internetowa.tv/?c=hlsPlay&channel=tvprozrywka&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/fox-comedy.png" ,FOX Comedy
-http://internetowa.tv/?c=hlsPlay&channel=foxcomedy&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/kino-tv.png" ,Kino TV
-http://internetowa.tv/?c=hlsPlay&channel=kinotv&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/filmbox-action.png" ,Filmbox Action
-http://internetowa.tv/?c=hlsPlay&channel=filmboxaction&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/filmbox-family.png" ,Filmbox Family
-http://internetowa.tv/?c=hlsPlay&channel=filmboxfamily&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/kuchnia-plus.png" ,Kuchnia+
-http://internetowa.tv/?c=hlsPlay&channel=kuchniaplus&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/stopklatka-tv.png" ,Stopklatka TV
-http://internetowa.tv/?c=hlsPlay&channel=stopklatkatv&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/alekino-plus.png" ,Ale Kino+
-http://internetowa.tv/?c=hlsPlay&channel=alekinoplus&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/scifi.png" ,SCI FI
-http://internetowa.tv/?c=hlsPlay&channel=scifi&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/tnt.png" ,TNT
-http://internetowa.tv/?c=hlsPlay&channel=tnt&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/canal-plus-sport.png" ,Canal+ Sport
-http://internetowa.tv/?c=hlsPlay&channel=canalplussport&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/canal-plus-sport-2.png" ,Canal+ Sport 2
-http://internetowa.tv/?c=hlsPlay&channel=canalplussport2&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/eurosport.png" ,Eurosport 1
-http://internetowa.tv/?c=hlsPlay&channel=eurosport&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/eurosport-2.png" ,Eurosport 2
-http://internetowa.tv/?c=hlsPlay&channel=eurosport2&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/polsat-sport.png" ,Polsat Sport
-http://internetowa.tv/?c=hlsPlay&channel=polsatsport&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/tvp-sport.png" ,TVP Sport
-http://internetowa.tv/?c=hlsPlay&channel=tvpsport&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/n-sport-plus.png" ,nSport+
-http://internetowa.tv/?c=hlsPlay&channel=nsportplus&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/elevensport-1.png" ,Eleven Sports 1
-http://internetowa.tv/?c=hlsPlay&channel=eleven&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/elevensport2.png" ,Eleven Sports 2
-http://internetowa.tv/?c=hlsPlay&channel=eleven2&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/elevensport-3.png" ,Eleven Sports 3
-http://internetowa.tv/?c=hlsPlay&channel=eleven3&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/eleven-sports-4.png" ,Eleven Sports 4
-http://internetowa.tv/?c=hlsPlay&channel=eleven4&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/polsat-sport-extra.png" ,Polsat Sport Extra
-http://internetowa.tv/?c=hlsPlay&channel=polsatsportextra&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/polsat-sport-premium.png" ,Polsat Sport Premium 1
-http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/polsat-sport-premium-2.png" ,Polsat Sport Premium 2
-http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium2&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/polsat-sport-premium-3.png" ,Polsat Sport Premium 3
-http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium3&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/polsat-sport-premium-4.png" ,Polsat Sport Premium 4
-http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium4&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/polsat-sport-fight.png" ,Polsat Sport Fight
-http://internetowa.tv/?c=hlsPlay&channel=polsatsportfight&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/polsat-sport-news.png" ,Polsat Sport News
-http://internetowa.tv/?c=hlsPlay&channel=polsatsportnews&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/extreme-sports-channel.png" ,Extreme Sports Channel
-http://internetowa.tv/?c=hlsPlay&channel=extremesports&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/polsat-sport-premium-5.png" ,Polsat Sport Premium 5
-http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium5&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/polsat-sport-premium-6.png" ,Polsat Sport Premium 6
-http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium6&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/ksw-57.png" ,KSW 57
-http://internetowa.tv/?c=hlsPlay&channel=ppv&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/tlc.png" ,TLC
-http://internetowa.tv/?c=hlsPlay&channel=tlc&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/discovery-channel.png" ,Discovery Channel
-http://internetowa.tv/?c=hlsPlay&channel=discovery&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/discovery-science.png" ,Discovery Science
-http://internetowa.tv/?c=hlsPlay&channel=discoveryscience&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/national-geographic-channel.png" ,National Geographic
-http://internetowa.tv/?c=hlsPlay&channel=natgeo&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/natgeowild.png" ,National Geographic Wild
-http://internetowa.tv/?c=hlsPlay&channel=natgeowild&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/tvn-style.png" ,TVN Style
-http://internetowa.tv/?c=hlsPlay&channel=tvnstyle&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/tvn-turbo.png" ,TVN Turbo
-http://internetowa.tv/?c=hlsPlay&channel=tvnturbo&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/tvp-historia.png" ,TVP Historia
-http://internetowa.tv/?c=hlsPlay&channel=tvphistoria&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/fokus-tv.png" ,Fokus TV
-http://internetowa.tv/?c=hlsPlay&channel=fokustv&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/history.png" ,History
-http://internetowa.tv/?c=hlsPlay&channel=history&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/canal-plus-discovery.png" ,Canal+ Discovery
-http://internetowa.tv/?c=hlsPlay&channel=canalplusdiscovery&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/polsat-doku.png" ,Polsat Doku
-http://internetowa.tv/?c=hlsPlay&channel=polsatdoku&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/polsat-viasat-explore.png" ,Polsat Viasat Explore
-http://internetowa.tv/?c=hlsPlay&channel=polsatviasatexplore&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/polsat-viasat-history.png" ,Polsat Viasat History
-http://internetowa.tv/?c=hlsPlay&channel=polsatviasathistory&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/polsat-viasat-nature.png" ,Polsat Viasat Nature
-http://internetowa.tv/?c=hlsPlay&channel=polsatviasatnature&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/nat-geo-people.png" ,Nat Geo People
-http://internetowa.tv/?c=hlsPlay&channel=natgeopeople&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/planete-plus.png" ,Planete+
-http://internetowa.tv/?c=hlsPlay&channel=planeteplus&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/animal-planet.png" ,Animal Planet
-http://internetowa.tv/?c=hlsPlay&channel=animalplanet&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/minimini.png" ,Minimini+
-http://internetowa.tv/?c=hlsPlay&channel=miniminiplus&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/cartoon-network.png" ,Cartoon Network
-http://internetowa.tv/?c=hlsPlay&channel=cartoonnetwork&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/tvp-abc.png" ,TVP ABC
-http://internetowa.tv/?c=hlsPlay&channel=tvpabc&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/disney-junior.png" ,Disney Junior
-http://internetowa.tv/?c=hlsPlay&channel=disneyjunior&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/mtv.png" ,MTV
-http://internetowa.tv/?c=hlsPlay&channel=mtvpolska&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/antyradio.png" ,Antyradio
-http://internetowa.tv/?c=hlsPlay&channel=antyradio&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/polskie-radio-jedynka.png" ,Polskie Radio Program 1
-http://internetowa.tv/?c=hlsPlay&channel=jedynkapolskieradio&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/polskie-radio-dwojka.png" ,Polskie Radio Program 2
-http://internetowa.tv/?c=hlsPlay&channel=dwojkapolskieradio&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/polskie-radio-trojka.png" ,Polskie Radio Program 3
-http://internetowa.tv/?c=hlsPlay&channel=trojkapolskieradio&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/radio-zet.png" ,Radio Zet
-http://internetowa.tv/?c=hlsPlay&channel=radiozet&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/rmf-fm.png" ,RMF FM
-http://internetowa.tv/?c=hlsPlay&channel=rmffm&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/rmf-maxxx.png" ,RMF Maxxx
-http://internetowa.tv/?c=hlsPlay&channel=rmfmaxxx&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/rmf-classic.png" ,RMF Classic
-http://internetowa.tv/?c=hlsPlay&channel=rmfclassic&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/eska-tv.png" ,ESKA TV
-http://internetowa.tv/?c=hlsPlay&channel=eskatv&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/polo-tv.png" ,Polo TV
-http://internetowa.tv/?c=hlsPlay&channel=polotv&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/disco-polo-music.png" ,Disco Polo Music
-http://internetowa.tv/?c=hlsPlay&channel=discopolomusic&token=74516b88ba8790be201c03065f5e8da11fa538e51cc39ca0ca9864373229578ad48ebf1088da851ee286f9802f4e6188716c9085809b912e22bb9273b527b506
+
+#EXTINF:-1,##### |PL| REQUIRED GOOD INTERNET #####
+http://185.71.64.167:80/7268586859/6981536837/80937
+#EXTINF:-1,|PL| CORONA VIRUS INFO
+http://185.71.64.167:80/7268586859/6981536837/80936
+#EXTINF:-1,|PL| TVP HD
+http://185.71.64.167:80/7268586859/6981536837/80935
+#EXTINF:-1,|PL| TVP 1 HD
+http://185.71.64.167:80/7268586859/6981536837/80934
+#EXTINF:-1,|PL| TVP 2 HD
+http://185.71.64.167:80/7268586859/6981536837/80933
+#EXTINF:-1,|PL| TVP 3
+http://185.71.64.167:80/7268586859/6981536837/80932
+#EXTINF:-1,|PL| TVP POLONIA
+http://185.71.64.167:80/7268586859/6981536837/80931
+#EXTINF:-1,|PL| TV4 HD
+http://185.71.64.167:80/7268586859/6981536837/80930
+#EXTINF:-1,|PL| TELE 5
+http://185.71.64.167:80/7268586859/6981536837/80929
+#EXTINF:-1,|PL| TV6
+http://185.71.64.167:80/7268586859/6981536837/80928
+#EXTINF:-1,|PL| POLONIA 1
+http://185.71.64.167:80/7268586859/6981536837/80927
+#EXTINF:-1,|PL| POLSAT HD
+http://185.71.64.167:80/7268586859/6981536837/80926
+#EXTINF:-1,|PL| POLSAT 2 HD
+http://185.71.64.167:80/7268586859/6981536837/80925
+#EXTINF:-1,|PL| SUPER POLSAT
+http://185.71.64.167:80/7268586859/6981536837/80924
+#EXTINF:-1,|PL| TVN HD
+http://185.71.64.167:80/7268586859/6981536837/80923
+#EXTINF:-1,|PL| TVN 7 HD
+http://185.71.64.167:80/7268586859/6981536837/80922
+#EXTINF:-1,|PL| TVS
+http://185.71.64.167:80/7268586859/6981536837/80921
+#EXTINF:-1,|PL| TTV HD
+http://185.71.64.167:80/7268586859/6981536837/80920
+#EXTINF:-1,|PL| TV PULS HD
+http://185.71.64.167:80/7268586859/6981536837/80919
+#EXTINF:-1,|PL| ATM ROZRYWKA TV
+http://185.71.64.167:80/7268586859/6981536837/80918
+#EXTINF:-1,|PL| POLSAT RODZINA
+http://185.71.64.167:80/7268586859/6981536837/80917
+#EXTINF:-1,##### |PL| KINO #####
+http://185.71.64.167:80/7268586859/6981536837/80916
+#EXTINF:-1,|PL| CANAL+ HD
+http://185.71.64.167:80/7268586859/6981536837/80915
+#EXTINF:-1,|PL| CANAL+ 1 HD
+http://185.71.64.167:80/7268586859/6981536837/80914
+#EXTINF:-1,|PL| CANAL+ FAMILY HD
+http://185.71.64.167:80/7268586859/6981536837/80913
+#EXTINF:-1,|PL| CANAL+ FILM HD
+http://185.71.64.167:80/7268586859/6981536837/80912
+#EXTINF:-1,|PL| CANAL+ SERIALE HD
+http://185.71.64.167:80/7268586859/6981536837/80911
+#EXTINF:-1,|PL| CANAL+ NOW
+http://185.71.64.167:80/7268586859/6981536837/80910
+#EXTINF:-1,|PL| CANAL+ DISCOVERY HD
+http://185.71.64.167:80/7268586859/6981536837/80909
+#EXTINF:-1,|PL| FILMBOX EXTRA
+http://185.71.64.167:80/7268586859/6981536837/80908
+#EXTINF:-1,|PL| FILMBOX PREMIUM HD
+http://185.71.64.167:80/7268586859/6981536837/80907
+#EXTINF:-1,|PL| FILMBOX ACTION
+http://185.71.64.167:80/7268586859/6981536837/80906
+#EXTINF:-1,|PL| FILMBOX FAMILY
+http://185.71.64.167:80/7268586859/6981536837/80905
+#EXTINF:-1,|PL| FILMBOX ARTHOUSE
+http://185.71.64.167:80/7268586859/6981536837/80904
+#EXTINF:-1,|PL| CINEMAX HD
+http://185.71.64.167:80/7268586859/6981536837/80903
+#EXTINF:-1,|PL| CINEMAX 2 HD
+http://185.71.64.167:80/7268586859/6981536837/80902
+#EXTINF:-1,|PL| HBO HD
+http://185.71.64.167:80/7268586859/6981536837/80901
+#EXTINF:-1,|PL| HBO 2 HD
+http://185.71.64.167:80/7268586859/6981536837/80900
+#EXTINF:-1,|PL| HBO 3 HD
+http://185.71.64.167:80/7268586859/6981536837/80899
+#EXTINF:-1,|PL| VOD 205
+http://185.71.64.167:80/7268586859/6981536837/80898
+#EXTINF:-1,|PL| VOD 206
+http://185.71.64.167:80/7268586859/6981536837/80897
+#EXTINF:-1,|PL| VOD 207
+http://185.71.64.167:80/7268586859/6981536837/80896
+#EXTINF:-1,|PL| VOD 208
+http://185.71.64.167:80/7268586859/6981536837/80895
+#EXTINF:-1,##### |PL| SERIALE #####
+http://185.71.64.167:80/7268586859/6981536837/80894
+#EXTINF:-1,|PL| FOX HD
+http://185.71.64.167:80/7268586859/6981536837/80893
+#EXTINF:-1,|PL| FOX COMEDY HD
+http://185.71.64.167:80/7268586859/6981536837/80892
+#EXTINF:-1,|PL| AXN HD
+http://185.71.64.167:80/7268586859/6981536837/80891
+#EXTINF:-1,|PL| AXN
+http://185.71.64.167:80/7268586859/6981536837/80890
+#EXTINF:-1,|PL| AXN WHITE
+http://185.71.64.167:80/7268586859/6981536837/80889
+#EXTINF:-1,|PL| AXN BLACK
+http://185.71.64.167:80/7268586859/6981536837/80888
+#EXTINF:-1,|PL| AXN SPIN HD
+http://185.71.64.167:80/7268586859/6981536837/80887
+#EXTINF:-1,|PL| SCIFI HD
+http://185.71.64.167:80/7268586859/6981536837/80886
+#EXTINF:-1,|PL| 13 ULICA HD
+http://185.71.64.167:80/7268586859/6981536837/80885
+#EXTINF:-1,|PL| E! ENTERTAINMENT
+http://185.71.64.167:80/7268586859/6981536837/80884
+#EXTINF:-1,|PL| TVP SERIALE
+http://185.71.64.167:80/7268586859/6981536837/80883
+#EXTINF:-1,|PL| CBS EUROPA HD
+http://185.71.64.167:80/7268586859/6981536837/80882
+#EXTINF:-1,|PL| POLSAT ROMANS
+http://185.71.64.167:80/7268586859/6981536837/80881
+#EXTINF:-1,|PL| COMEDY CENTRAL HD
+http://185.71.64.167:80/7268586859/6981536837/80880
+#EXTINF:-1,|PL| TLC HD
+http://185.71.64.167:80/7268586859/6981536837/80879
+#EXTINF:-1,|PL| PARAMOUNT CHANNEL HD.
+http://185.71.64.167:80/7268586859/6981536837/80878
+#EXTINF:-1,|PL| AMC
+http://185.71.64.167:80/7268586859/6981536837/80877
+#EXTINF:-1,|PL| TVP KULTURA
+http://185.71.64.167:80/7268586859/6981536837/80876
+#EXTINF:-1,|PL| TRAVEL CHANNEL HD
+http://185.71.64.167:80/7268586859/6981536837/80875
+#EXTINF:-1,|PL| TVN FABULA
+http://185.71.64.167:80/7268586859/6981536837/80874
+#EXTINF:-1,|PL| TVN TURBO HD
+http://185.71.64.167:80/7268586859/6981536837/80873
+#EXTINF:-1,|PL| ADVENTURE HD
+http://185.71.64.167:80/7268586859/6981536837/80872
+#EXTINF:-1,|PL| DA VINCI
+http://185.71.64.167:80/7268586859/6981536837/80871
+#EXTINF:-1,|PL| FOOD NETWORK HD
+http://185.71.64.167:80/7268586859/6981536837/80870
+#EXTINF:-1,|PL| DOMO+  HD
+http://185.71.64.167:80/7268586859/6981536837/80869
+#EXTINF:-1,|PL| DTX
+http://185.71.64.167:80/7268586859/6981536837/80868
+#EXTINF:-1,##### |PL| GENERAL #####
+http://185.71.64.167:80/7268586859/6981536837/80867
+#EXTINF:-1,|PL| FOKUS TV
+http://185.71.64.167:80/7268586859/6981536837/80866
+#EXTINF:-1,|PL| KUCHNIA HD
+http://185.71.64.167:80/7268586859/6981536837/80865
+#EXTINF:-1,|PL| MOTOWIZJA TV HD
+http://185.71.64.167:80/7268586859/6981536837/80864
+#EXTINF:-1,|PL| NUTA TV
+http://185.71.64.167:80/7268586859/6981536837/80863
+#EXTINF:-1,|PL| POWER TV
+http://185.71.64.167:80/7268586859/6981536837/80862
+#EXTINF:-1,|PL| PULS 2
+http://185.71.64.167:80/7268586859/6981536837/80861
+#EXTINF:-1,|PL| ROMANCE TV
+http://185.71.64.167:80/7268586859/6981536837/80860
+#EXTINF:-1,|PL| WP
+http://185.71.64.167:80/7268586859/6981536837/80859
+#EXTINF:-1,|PL| ACTIVE FAMILY
+http://185.71.64.167:80/7268586859/6981536837/80858
+#EXTINF:-1,|PL| BBC BRIT
+http://185.71.64.167:80/7268586859/6981536837/80857
+#EXTINF:-1,|PL| BBC LIFESTYLE HD
+http://185.71.64.167:80/7268586859/6981536837/80856
+#EXTINF:-1,|PL| BBC FIRST HD
+http://185.71.64.167:80/7268586859/6981536837/80855
+#EXTINF:-1,|PL| COMEDY CENTRAL FAMILY
+http://185.71.64.167:80/7268586859/6981536837/80854
+#EXTINF:-1,##### |PL| DZIECI #####
+http://185.71.64.167:80/7268586859/6981536837/80853
+#EXTINF:-1,|PL| BABY TV
+http://185.71.64.167:80/7268586859/6981536837/80852
+#EXTINF:-1,|PL| POLSAT JIM JAM
+http://185.71.64.167:80/7268586859/6981536837/80851
+#EXTINF:-1,|PL| BOOMERANG HD
+http://185.71.64.167:80/7268586859/6981536837/80850
+#EXTINF:-1,|PL| CARTOON NETWORK HD
+http://185.71.64.167:80/7268586859/6981536837/80849
+#EXTINF:-1,|PL| DISNEY XD
+http://185.71.64.167:80/7268586859/6981536837/80848
+#EXTINF:-1,|PL| DISNEY JUNIOR
+http://185.71.64.167:80/7268586859/6981536837/80847
+#EXTINF:-1,|PL| DISNEY CHANNEL HD
+http://185.71.64.167:80/7268586859/6981536837/80846
+#EXTINF:-1,|PL| NICK JR
+http://185.71.64.167:80/7268586859/6981536837/80845
+#EXTINF:-1,|PL| NICKELODEON
+http://185.71.64.167:80/7268586859/6981536837/80844
+#EXTINF:-1,|PL| NICKTOONS HD
+http://185.71.64.167:80/7268586859/6981536837/80843
+#EXTINF:-1,|PL| TELETOON  HD
+http://185.71.64.167:80/7268586859/6981536837/80842
+#EXTINF:-1,|PL| MINIMINI  HD
+http://185.71.64.167:80/7268586859/6981536837/80841
+#EXTINF:-1,|PL| BBC CBEEBIES
+http://185.71.64.167:80/7268586859/6981536837/80840
+#EXTINF:-1,|PL| POLSAT GAMES
+http://185.71.64.167:80/7268586859/6981536837/80839
+#EXTINF:-1,|PL| TBN POLAND
+http://185.71.64.167:80/7268586859/6981536837/80838
+#EXTINF:-1,##### |PL| MUZYKA #####
+http://185.71.64.167:80/7268586859/6981536837/80837
+#EXTINF:-1,|PL| MTV LIVE HD
+http://185.71.64.167:80/7268586859/6981536837/80836
+#EXTINF:-1,|PL| VH1
+http://185.71.64.167:80/7268586859/6981536837/80835
+#EXTINF:-1,|PL| TVP ROZRYWKA
+http://185.71.64.167:80/7268586859/6981536837/80834
+#EXTINF:-1,|PL| MTV ROCKS
+http://185.71.64.167:80/7268586859/6981536837/80833
+#EXTINF:-1,|PL| KINO POLSKA MUZYKA
+http://185.71.64.167:80/7268586859/6981536837/80832
+#EXTINF:-1,|PL| MTV POLSKA HD
+http://185.71.64.167:80/7268586859/6981536837/80831
+#EXTINF:-1,|PL| MTV MUSIC
+http://185.71.64.167:80/7268586859/6981536837/80830
+#EXTINF:-1,|PL| ALE KINO  HD
+http://185.71.64.167:80/7268586859/6981536837/80829
+#EXTINF:-1,|PL| TO!TV
+http://185.71.64.167:80/7268586859/6981536837/80828
+#EXTINF:-1,|PL| TVP ABC
+http://185.71.64.167:80/7268586859/6981536837/80827
+#EXTINF:-1,|PL| POLSAT CAFE HD
+http://185.71.64.167:80/7268586859/6981536837/80826
+#EXTINF:-1,|PL| POLSAT PLAY HD
+http://185.71.64.167:80/7268586859/6981536837/80825
+#EXTINF:-1,|PL| POLO TV
+http://185.71.64.167:80/7268586859/6981536837/80824
+#EXTINF:-1,|PL| METRO
+http://185.71.64.167:80/7268586859/6981536837/80823
+#EXTINF:-1,|PL| ZOOM TV
+http://185.71.64.167:80/7268586859/6981536837/80822
+#EXTINF:-1,|PL| NOVELA TV
+http://185.71.64.167:80/7268586859/6981536837/80821
+#EXTINF:-1,|PL| SUNDANCE HD
+http://185.71.64.167:80/7268586859/6981536837/80820
+#EXTINF:-1,|PL| TVN STYLE HD
+http://185.71.64.167:80/7268586859/6981536837/80819
+#EXTINF:-1,|PL| LIFETIME HD
+http://185.71.64.167:80/7268586859/6981536837/80818
+#EXTINF:-1,|PL| HGTV HD
+http://185.71.64.167:80/7268586859/6981536837/80817
+#EXTINF:-1,|PL| NOWA TV
+http://185.71.64.167:80/7268586859/6981536837/80816
+#EXTINF:-1,|PL| TV OKAZJE
+http://185.71.64.167:80/7268586859/6981536837/80815
+#EXTINF:-1,|PL| CBS REALITY
+http://185.71.64.167:80/7268586859/6981536837/80814
+#EXTINF:-1,|PL| EPIC DRAMA HD
+http://185.71.64.167:80/7268586859/6981536837/80813
+#EXTINF:-1,|PL| TNT HD
+http://185.71.64.167:80/7268586859/6981536837/80812
+#EXTINF:-1,|PL| POLSAT FILM HD
+http://185.71.64.167:80/7268586859/6981536837/80811
+#EXTINF:-1,|PL| KINO TV HD
+http://185.71.64.167:80/7268586859/6981536837/80810
+#EXTINF:-1,|PL| STOPKLATKA TV
+http://185.71.64.167:80/7268586859/6981536837/80809
+#EXTINF:-1,|PL| STARS.TV
+http://185.71.64.167:80/7268586859/6981536837/80808
+#EXTINF:-1,|PL| 4FUN.TV
+http://185.71.64.167:80/7268586859/6981536837/80807
+#EXTINF:-1,|PL| POLSAT MUSIC HD
+http://185.71.64.167:80/7268586859/6981536837/80806
+#EXTINF:-1,|PL| VOX MUSIC TV
+http://185.71.64.167:80/7268586859/6981536837/80805
+#EXTINF:-1,|PL| ESKA ROCK TV
+http://185.71.64.167:80/7268586859/6981536837/80804
+#EXTINF:-1,|PL| ESKA TV
+http://185.71.64.167:80/7268586859/6981536837/80803
+#EXTINF:-1,|PL| ESKA TV EXTRA
+http://185.71.64.167:80/7268586859/6981536837/80802
+#EXTINF:-1,##### |PL| KULTURA #####
+http://185.71.64.167:80/7268586859/6981536837/80801
+#EXTINF:-1,|PL| NAT GEO PEOPLE HD
+http://185.71.64.167:80/7268586859/6981536837/80800
+#EXTINF:-1,|PL| ANIMAL PLANET HD
+http://185.71.64.167:80/7268586859/6981536837/80799
+#EXTINF:-1,|PL| PLANETE   HD
+http://185.71.64.167:80/7268586859/6981536837/80798
+#EXTINF:-1,|PL| CI POLSAT HD
+http://185.71.64.167:80/7268586859/6981536837/80797
+#EXTINF:-1,|PL| HISTORY HD
+http://185.71.64.167:80/7268586859/6981536837/80796
+#EXTINF:-1,|PL| ID HD
+http://185.71.64.167:80/7268586859/6981536837/80795
+#EXTINF:-1,|PL| TVP HISTORIA
+http://185.71.64.167:80/7268586859/6981536837/80794
+#EXTINF:-1,|PL| BBC EARTH HD
+http://185.71.64.167:80/7268586859/6981536837/80793
+#EXTINF:-1,|PL| H2 HD
+http://185.71.64.167:80/7268586859/6981536837/80792
+#EXTINF:-1,|PL| POLSAT DOKU HD
+http://185.71.64.167:80/7268586859/6981536837/80791
+#EXTINF:-1,|PL| DISCOVERY SCIENCE HD
+http://185.71.64.167:80/7268586859/6981536837/80790
+#EXTINF:-1,|PL| DISCOVERY HD
+http://185.71.64.167:80/7268586859/6981536837/80789
+#EXTINF:-1,|PL| DISCOVERY LIFE HD
+http://185.71.64.167:80/7268586859/6981536837/80788
+#EXTINF:-1,|PL| DISCOVERY HISTORIA
+http://185.71.64.167:80/7268586859/6981536837/80787
+#EXTINF:-1,|PL| DISCO POLO MUSIC
+http://185.71.64.167:80/7268586859/6981536837/80786
+#EXTINF:-1,|PL| 4FUN GOLD HITS
+http://185.71.64.167:80/7268586859/6981536837/80785
+#EXTINF:-1,|PL| 4FUN DANCE
+http://185.71.64.167:80/7268586859/6981536837/80784
+#EXTINF:-1,|PL| POLSAT VIASAT EXPLORE HD
+http://185.71.64.167:80/7268586859/6981536837/80783
+#EXTINF:-1,|PL| NAT GEO WILD HD
+http://185.71.64.167:80/7268586859/6981536837/80782
+#EXTINF:-1,|PL| WATER PLANET
+http://185.71.64.167:80/7268586859/6981536837/80781
+#EXTINF:-1,|PL| POLSAT VIASAT HISTORY HD
+http://185.71.64.167:80/7268586859/6981536837/80780
+#EXTINF:-1,|PL| POLSAT VIASAT NATURE HD
+http://185.71.64.167:80/7268586859/6981536837/80779
+#EXTINF:-1,|PL| NATIONAL GEO
+http://185.71.64.167:80/7268586859/6981536837/80778
+#EXTINF:-1,|PL| CRIME AND INVESTIGATION HD
+http://185.71.64.167:80/7268586859/6981536837/80777
+#EXTINF:-1,##### |PL| SPORT #####
+http://185.71.64.167:80/7268586859/6981536837/80776
+#EXTINF:-1,|PL| POLSAT SPORT EXTRA HD
+http://185.71.64.167:80/7268586859/6981536837/80775
+#EXTINF:-1,|PL| POLSAT SPORT FIGHT HD
+http://185.71.64.167:80/7268586859/6981536837/80774
+#EXTINF:-1,|PL| CANAL+ SPORT HD
+http://185.71.64.167:80/7268586859/6981536837/80773
+#EXTINF:-1,|PL| CANAL+ SPORT 2 HD
+http://185.71.64.167:80/7268586859/6981536837/80772
+#EXTINF:-1,|PL| CANAL+ SPORT 3 HD
+http://185.71.64.167:80/7268586859/6981536837/80771
+#EXTINF:-1,|PL| CANAL+ SPORT 4 HD
+http://185.71.64.167:80/7268586859/6981536837/80770
+#EXTINF:-1,|PL| NSPORT+
+http://185.71.64.167:80/7268586859/6981536837/80769
+#EXTINF:-1,|PL| SPORT KLUB HD
+http://185.71.64.167:80/7268586859/6981536837/80768
+#EXTINF:-1,|PL| EUROSPORT 1 HD
+http://185.71.64.167:80/7268586859/6981536837/80767
+#EXTINF:-1,|PL| EUROSPORT 2 HD
+http://185.71.64.167:80/7268586859/6981536837/80766
+#EXTINF:-1,|PL| POLSAT SPORT HD
+http://185.71.64.167:80/7268586859/6981536837/80765
+#EXTINF:-1,|PL| EXTREME SPORTS HD
+http://185.71.64.167:80/7268586859/6981536837/80764
+#EXTINF:-1,|PL| POLSAT SPORT PREM. 1 HD
+http://185.71.64.167:80/7268586859/6981536837/80763
+#EXTINF:-1,|PL| POLSAT SPORT PREM. 2 HD
+http://185.71.64.167:80/7268586859/6981536837/80762
+#EXTINF:-1,|PL| POLSAT SPORT PREM. 3 HD
+http://185.71.64.167:80/7268586859/6981536837/80761
+#EXTINF:-1,|PL| POLSAT SPORT PREM. 4 HD
+http://185.71.64.167:80/7268586859/6981536837/80760
+#EXTINF:-1,|PL| POLSAT SPORT PREM. 5 HD
+http://185.71.64.167:80/7268586859/6981536837/80759
+#EXTINF:-1,|PL| POLSAT SPORT PREM. 6 HD
+http://185.71.64.167:80/7268586859/6981536837/80758
+#EXTINF:-1,|PL| ELEVENSPORT 1 HD
+http://185.71.64.167:80/7268586859/6981536837/80757
+#EXTINF:-1,|PL| ELEVENSPORT 2 HD
+http://185.71.64.167:80/7268586859/6981536837/80756
+#EXTINF:-1,|PL| ELEVENSPORT 3 HD
+http://185.71.64.167:80/7268586859/6981536837/80755
+#EXTINF:-1,|PL| ELEVENSPORT 4 HD
+http://185.71.64.167:80/7268586859/6981536837/80754
+#EXTINF:-1,|PL| GOLF CHANNEL
+http://185.71.64.167:80/7268586859/6981536837/80753
+#EXTINF:-1,|PL| FIGHTBOX HD
+http://185.71.64.167:80/7268586859/6981536837/80752
+#EXTINF:-1,|PL| FIGHTKLUB HD
+http://185.71.64.167:80/7268586859/6981536837/80751
+#EXTINF:-1,|PL| PPV KSW FIGHTS (LIVE ON MATCHES)
+http://185.71.64.167:80/7268586859/6981536837/80750
+#EXTINF:-1,|PL| TVP SPORT HD
+http://185.71.64.167:80/7268586859/6981536837/80749
+#EXTINF:-1,|PL| POLSAT SPORT NEWS HD
+http://185.71.64.167:80/7268586859/6981536837/80748
+#EXTINF:-1,##### |PL| INFORMACJA #####
+http://185.71.64.167:80/7268586859/6981536837/80747
+#EXTINF:-1,|PL| TVN 24 HD
+http://185.71.64.167:80/7268586859/6981536837/80746
+#EXTINF:-1,|PL| TVN24 BIS HD
+http://185.71.64.167:80/7268586859/6981536837/80745
+#EXTINF:-1,|PL| POLSAT NEWS HD
+http://185.71.64.167:80/7268586859/6981536837/80744
+#EXTINF:-1,|PL| POLSAT NEWS 2
+http://185.71.64.167:80/7268586859/6981536837/80743
+#EXTINF:-1,|PL| SUPERSTACJA
+http://185.71.64.167:80/7268586859/6981536837/80742
+#EXTINF:-1,|PL| TV REPUBLIKA
+http://185.71.64.167:80/7268586859/6981536837/80741
+#EXTINF:-1,|PL| WPOLSCE.PL
+http://185.71.64.167:80/7268586859/6981536837/80740
+#EXTINF:-1,|PL| TVP INFO HD
+http://185.71.64.167:80/7268586859/6981536837/80739
+#EXTINF:-1,|PL| STUDIOMED TV HD
+http://185.71.64.167:80/7268586859/6981536837/80738
