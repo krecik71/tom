@@ -1,50 +1,397 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="http://epg.ovh/logo/TVP+1+HD.png", TVP 1 
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Poland/88896f5adb041d3.ts|User-Agent=1m3u8
-#EXTINF:-1 tvg-logo="http://epg.ovh/logo/TVP+2+HD.png", TVP 2
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Poland/3ad680889513e62.ts|User-Agent=1m3u8
-#EXTINF:-1 tvg-logo="http://epg.ovh/logo/Polsat+News.png", POLSAT NEWS
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Poland/3a315c0b7cfd2dc.ts|User-Agent=1m3u8
-#EXTINF:-1 tvg-logo="http://epg.ovh/logo/Polsat+Film+HD.png", POLSAT FILM
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Poland/c38f1c4e12f1e18.ts|User-Agent=1m3u8
-#EXTINF:-1 tvg-logo="http://epg.ovh/logo/Polsat+Cafe.png", POLSAT CAFE
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Poland/0c5c9864c18b5f3.ts|User-Agent=1m3u8
-#EXTINF:-1 tvg-logo="http://epg.ovh/logo/Polsat+Playa.png", POLSAT PLAY
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Poland/80e84c5879c64e7.ts|User-Agent=1m3u8
-#EXTINF:-1 tvg-logo="http://epg.ovh/logo/Polsat+1.png", POLSAT 1
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Poland/82704fecdf9c7a0.ts|User-Agent=1m3u8
-#EXTINF:-1 tvg-logo="http://epg.ovh/logo/Polsat+2.png", POLSAT 2
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Poland/a34357c05a5a8b6.ts|User-Agent=1m3u8
-#EXTINF:-1 tvg-logo="http://epg.ovh/logo/FilmBox+Action.png", FILMBOX ACTION
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Poland/6410891af923daa.ts|User-Agent=1m3u8
-#EXTINF:-1 tvg-logo="http://epg.ovh/logo/Filmbox+Premium.png", FILMBOX PREMIUM
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Poland/4b1d563b3b3dbc2.ts|User-Agent=1m3u8
-#EXTINF:-1 tvg-logo="http://epg.ovh/logo/MTV+Polska.png", MTV PL
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Poland/0de4485d800e544.ts|User-Agent=1m3u8
-#EXTINF:-1 tvg-logo="http://epg.ovh/logo/POLSAT+ROMANS1.png", POLSAT ROMANS
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Poland/b9e51cf759b12d1.ts|User-Agent=1m3u8
-#EXTINF:-1 tvg-logo="http://epg.ovh/logo/AXN.png", AXN POLAND
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Poland/8102db0731dcef8.ts|User-Agent=1m3u8
-#EXTINF:-1 tvg-logo="http://epg.ovh/logo/BBC+Earth.png", BBC EARTH POLAND
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Poland/49e13c2d74dea83.ts|User-Agent=1m3u8
-#EXTINF:-1 tvg-logo="http://epg.ovh/logo/Discovery+Channel.png", DISCOVERY POLAND
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Poland/0511d82f5c0cb78.ts|User-Agent=1m3u8
-#EXTINF:-1 tvg-logo="http://epg.ovh/logo/Discovery+Science.png", DISCOVERY SCI POLAND
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Poland/0b092411d2ad0fa.ts|User-Agent=1m3u8
-#EXTINF:-1 tvg-logo="http://epg.ovh/logo/Eleven+Sports+1.png", ELEVEN SPORTS 1
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Poland/afd02106de7047c.ts|User-Agent=1m3u8
-#EXTINF:-1 tvg-logo="http://epg.ovh/logo/Eleven+Sports+2.png", ELEVEN SPORTS 2
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Poland/a1982b36d018580.ts|User-Agent=1m3u8
-#EXTINF:-1 tvg-logo="http://epg.ovh/logo/National+Geographic+Channel.png", NAT GEO POLAND
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Poland/0790db7c4b7d313.ts|User-Agent=1m3u8
-#EXTINF:-1 tvg-logo="http://epg.ovh/logo/Nat+Geo+Wild.png", NAT GEO WILD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Poland/02b051be560e224.ts|User-Agent=1m3u8
-#EXTINF:-1 tvg-logo="http://epg.ovh/logo/Nickelodeon.png", NICKLODEON
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Poland/d9414347d8863be.ts|User-Agent=1m3u8
-#EXTINF:-1 tvg-logo="http://epg.ovh/logo/History.png", HISTORY TV
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Poland/f145462ce637300.ts|User-Agent=1m3u8
-#EXTINF:-1 tvg-logo="http://epg.ovh/logo/BBC.png", BBC POLAND
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Poland/c727d9524123c6f.ts|User-Agent=1m3u8
-#EXTINF:-1 tvg-logo="http://epg.ovh/logo/4FUN.TV.png", 4 FUN
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Poland/904434aec14a6ee.ts|User-Agent=1m3u8
+#EXTINF:0 tvg-id="13 Ulica" tvg-name="13 Ulica" tvg-logo="http://logo.plusx.tv/logo/13%20Ulica%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/325/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Rozrywka" ,13 Ulica HD
+http://51.83.237.50/325/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="4 Fun Dance" tvg-name="4Fun Dance" tvg-logo="http://logo.plusx.tv/logo/4Fun%20Fit%20Dance.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/324/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Muzyka" ,4Fun Dance
+http://51.83.237.50/324/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="4Fun Gold" tvg-name="4Fun Gold Hits" tvg-logo="http://logo.plusx.tv/logo/4Fun%20Hits.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/323/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Muzyka" ,4Fun Gold Hits
+http://51.83.237.50/323/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="4fun TV" tvg-name="4FUN.TV" tvg-logo="http://logo.plusx.tv/logo/4Fun.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/322/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Muzyka" ,4Fun.TV
+http://51.83.237.50/322/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="http://logo.plusx.tv/logo/AMC%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/318/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Film" ,AMC HD
+http://51.83.237.50/318/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="AXN Black" tvg-name="AXN Black" tvg-logo="http://logo.plusx.tv/logo/AXN%20Black.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/314/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Rozrywka" ,AXN Black
+http://51.83.237.50/314/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://logo.plusx.tv/logo/AXN%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/313/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Rozrywka" ,AXN HD
+http://51.83.237.50/313/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="AXN Spin" tvg-name="AXNSpinHD" tvg-logo="http://logo.plusx.tv/logo/AXN%20Spin%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/312/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Rozrywka" ,AXN Spin HD
+http://51.83.237.50/312/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="AXN White" tvg-name="AXN White" tvg-logo="http://logo.plusx.tv/logo/AXN%20White.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/311/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Rozrywka" ,AXN White
+http://51.83.237.50/311/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Adventure" tvg-name="Adventure" tvg-logo="http://logo.plusx.tv/logo/Adventure%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/320/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Rozrywka" ,Adventure HD
+http://51.83.237.50/320/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Active Family" tvg-name="Active Family" tvg-logo="http://epg.ovh/logo/Active+Family.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/321/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Rozrywka" ,Active Family
+http://51.83.237.50/321/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Ale Kino+" tvg-name="Ale Kino!" tvg-logo="http://logo.plusx.tv/logo/Ale%20Kino+%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/319/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Film" ,Ale Kino+ HD
+http://51.83.237.50/319/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Animal Planet" tvg-name="Animal Planet HD" tvg-logo="http://logo.plusx.tv/logo/Animal%20Planet%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/317/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dokument" ,Animal Planet HD
+http://51.83.237.50/317/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="ATM Rozrywka" tvg-name="ATM Rozrywka" tvg-logo="http://epg.ovh/logo/ATM+Rozrywka.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/316/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Rozrywka" ,ATM Rozrywka
+http://51.83.237.50/316/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="BBC Brit" tvg-name="BBC-Brit" tvg-logo="http://logo.plusx.tv/logo/BBC%20Brit%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/309/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dokument" ,BBC Brit HD
+http://51.83.237.50/309/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="http://logo.plusx.tv/logo/BBC%20Earth%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/307/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dokument" ,BBC Earth HD
+http://51.83.237.50/307/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="BBC First" tvg-name="BBC Fisrt" tvg-logo="http://logo.plusx.tv/logo/BBC%20Frist.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/306/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Rozrywka" ,BBC First HD
+http://51.83.237.50/306/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="http://logo.plusx.tv/logo/BBC%20Lifestyle%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/305/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dokument" ,BBC Lifestyle HD
+http://51.83.237.50/305/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="BBC CBeebies" tvg-name="BBC CBeebies" tvg-logo="http://logo.plusx.tv/logo/BBC%20Cbeebies.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/308/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dla Dzieci" ,BBC CBeebies
+http://51.83.237.50/308/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Baby TV" tvg-name="BabyTV" tvg-logo="http://logo.plusx.tv/logo/Baby%20TV.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/310/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dla Dzieci" ,Baby TV
+http://51.83.237.50/310/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://logo.plusx.tv/logo/Boomerang%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/303/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dla Dzieci" ,Boomerang HD
+http://51.83.237.50/303/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Biznes24" tvg-name="Biznes24" tvg-logo="https://media2.pl/g/750/73501.jpg" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/2020/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Informacje" ,Biznes 24 HD
+http://51.83.237.50/2020/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Canal+ Dokument" tvg-name="Canal+ Discovery HD" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Discovery%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/301/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dokument" ,Canal+ Dokument HD
+http://51.83.237.50/301/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Canal+ Family" tvg-name="CANAL+ Family" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Family%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/300/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Film" ,Canal+ Family HD
+http://51.83.237.50/300/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Canal+ Film" tvg-name="CANAL+ Film" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Film%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/296/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Film" ,Canal+ Film HD
+http://51.83.237.50/296/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Museum 4K " tvg-name="Museum" tvg-logo="http://epg.ovh/logo/Canal++4K.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/44490/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="4k" ,Museum 4K
+http://51.83.237.50/44490/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Canal+" tvg-name="Canal +" tvg-logo="http://logo.plusx.tv/logo/Canal+%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/295/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Film" ,CANAL+ Premium HD
+http://51.83.237.50/295/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Canal+ Now" tvg-name="Canal+ Now" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Now.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/299/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Sport" ,Canal+ Now HD
+http://51.83.237.50/299/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="CanalPlusSeriale.pl" tvg-name="CANAL+ Seriale" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Seriale%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/294/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Film" ,Canal+ Seriale HD
+http://51.83.237.50/294/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Canal+ Sport" tvg-name="Canalplus Sport" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Sport%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/297/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Sport" ,Canal+ Sport HD
+http://51.83.237.50/297/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Canal+ Sport 2" tvg-name="Canal+ Sport 2 HD" tvg-logo="http://logo.plusx.tv/logo/Canal+%20Sport%202%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/298/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Sport" ,Canal+ Sport 2 HD
+http://51.83.237.50/298/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Canal+ Sport 3 PL" tvg-name="Canal+ Sport 3" tvg-logo="http://epg.ovh/logo/Canal++Sport+3+HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/340/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Sport" ,Canal+ Sport 3 HD
+http://51.83.237.50/340/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Canal+ Sport 4 PL" tvg-name="Canal+ Sport 4" tvg-logo="http://epg.ovh/logo/Canal++Sport+4+HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/341/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Sport" ,Canal+ Sport 4 HD
+http://51.83.237.50/341/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Canal+1" tvg-name="CANAL+ 1" tvg-logo="http://logo.plusx.tv/logo/Canal+%201%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/302/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Film" ,Canal+ 1 HD
+http://51.83.237.50/302/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="CBS Europa" tvg-name="CBS Europa HD" tvg-logo="http://logo.plusx.tv/logo/CBS%20Europa%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/291/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Film" ,CBS Europa HD
+http://51.83.237.50/291/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="CBS REALITY POLSKA" tvg-name="CBS Reality" tvg-logo="http://logo.plusx.tv/logo/CBS%20Reality.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/290/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dokument" ,CBS Reality
+http://51.83.237.50/290/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Comedy Central Family" tvg-name="Comedy-Central-Family" tvg-logo="http://logo.plusx.tv/logo/Comedy%20Central%20Family.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/289/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Rozrywka" ,Comedy Central Family HD
+http://51.83.237.50/289/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Cartoon Network" tvg-name="Cartoon-Network" tvg-logo="http://logo.plusx.tv/logo/Cartoon%20Network%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/293/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dla Dzieci" ,Cartoon Network HD
+http://51.83.237.50/293/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="http://logo.plusx.tv/logo/Cinemax%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/287/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Film" ,Cinemax HD
+http://51.83.237.50/287/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Cinemax 2" tvg-name="Cinemax 2" tvg-logo="http://logo.plusx.tv/logo/Cinemax%202%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/288/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Film" ,Cinemax 2 HD
+http://51.83.237.50/288/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Comedy Central" tvg-name="Comedy Central Polska" tvg-logo="http://logo.plusx.tv/logo/Comedy%20Central%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/286/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Rozrywka" ,Comedy Central HD
+http://51.83.237.50/286/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Polsat Crime" tvg-name="Crime and Investigation" tvg-logo="http://logo.plusx.tv/logo/CI%20Polsat.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/285/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dokument" ,CI Polsat HD
+http://51.83.237.50/285/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="DTX" tvg-name="Discovery Turbo Xtra" tvg-logo="http://logo.plusx.tv/logo/DTX%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/274/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dokument" ,DTX HD
+http://51.83.237.50/274/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Da Vinci Learning" tvg-name="Da Vinci Learning" tvg-logo="http://logo.plusx.tv/logo/Da%20Vinci%20Learning.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/284/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dokument" ,Da Vinci Learning
+http://51.83.237.50/284/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Disco Polo Music" tvg-name="disco-polo-music" tvg-logo="http://logo.plusx.tv/logo/Disco%20Polo%20Music.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/283/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Muzyka" ,Disco Polo Music
+http://51.83.237.50/283/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Discovery Channel" tvg-name="Discovery" tvg-logo="http://logo.plusx.tv/logo/Discovery%20Channel%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/282/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dokument" ,Discovery Channel HD
+http://51.83.237.50/282/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Discovery Historia" tvg-name="Discovery Historia" tvg-logo="http://logo.plusx.tv/logo/Discovery%20Historia.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/281/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dokument" ,Discovery Historia
+http://51.83.237.50/281/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Discovery Life" tvg-name="Discovery Life" tvg-logo="http://logo.plusx.tv/logo/Discovery%20Life.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/280/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dokument" ,Discovery Life HD
+http://51.83.237.50/280/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="http://logo.plusx.tv/logo/Discovery%20Science%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/279/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dokument" ,Discovery Science HD
+http://51.83.237.50/279/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://logo.plusx.tv/logo/Disney%20Channel%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/278/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dla Dzieci" ,Disney Channel HD
+http://51.83.237.50/278/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Disney Junior" tvg-name="Disney Jr" tvg-logo="http://logo.plusx.tv/logo/Disney+Junior.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/277/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dla Dzieci" ,Disney Junior
+http://51.83.237.50/277/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://logo.plusx.tv/logo/Disney+XD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/276/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dla Dzieci" ,Disney XD
+http://51.83.237.50/276/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="TopKidsJr.pl" tvg-name="Junior Music" tvg-logo="http://epg.ovh/logo/Junior+Music.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/325jun/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dla Dzieci" ,Junior Music
+http://51.83.237.50/325jun/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Domo+" tvg-name="Domo TV" tvg-logo="http://logo.plusx.tv/logo/Domo+.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/275/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Rozrywka" ,Domo+
+http://51.83.237.50/275/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="E! Entertainment" tvg-name="E! Entertainment" tvg-logo="http://logo.plusx.tv/logo/E!%20Entertainment.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/273/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Rozrywka" ,E! Entertainment HD
+http://51.83.237.50/273/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Eleven Sports 1" tvg-name="Eleven Sports 1 HD" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%201.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/271/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Sport" ,Eleven Sports 1 HD
+http://51.83.237.50/271/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Eleven Sports 2" tvg-name="Eleven Sports 2 HD" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%202.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/270/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Sport" ,Eleven Sports 2 HD
+http://51.83.237.50/270/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Eleven Sports 3" tvg-name="Eleven Sports 3 HD" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%203.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/269/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Sport" ,Eleven Sports 3 HD
+http://51.83.237.50/269/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Eleven Sports 4" tvg-name="Eleven Sports 4 HD" tvg-logo="http://logo.plusx.tv/logo/Eleven%20Sports%204.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/272/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Sport" ,Eleven Sports 4 HD
+http://51.83.237.50/272/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Epic Drama" tvg-name="Be1 Alt" tvg-logo="http://logo.plusx.tv/logo/Epic%20Drama.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/268/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Rozrywka" ,Epic Drama HD
+http://51.83.237.50/268/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Eska TV" tvg-name="EPIC Drama HD" tvg-logo="http://logo.plusx.tv/logo/Eska%20TV.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/267/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Muzyka" ,Eska TV
+http://51.83.237.50/267/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Eska TV Extra" tvg-name="Eska TV Extra" tvg-logo="http://logo.plusx.tv/logo/Eska+TV+Extra.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/265/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Muzyka" ,Eska TV Extra
+http://51.83.237.50/265/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Eska Rock TV" tvg-name="EskaROCK TV" tvg-logo="http://logo.plusx.tv/logo/Eska+Rock+TV.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/266/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Muzyka" ,Eska Rock TV
+http://51.83.237.50/266/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Eurosport" tvg-name="Eurosport" tvg-logo="http://logo.plusx.tv/logo/Eurosport%201%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/264/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Sport" ,Eurosport 1 HD
+http://51.83.237.50/264/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="http://logo.plusx.tv/logo/Eurosport%202%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/263/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Sport" ,Eurosport 2 HD
+http://51.83.237.50/263/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Extreme Sports Channel" tvg-name="Extreme Sports" tvg-logo="http://logo.plusx.tv/logo/Extreme%20Sports%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/262/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Sport" ,Extreme Sports HD
+http://51.83.237.50/262/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Sportklub" tvg-name="Sport Klub" tvg-logo="http://logo.plusx.tv/logo/Sportklub.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/175/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Sport" ,SportKlub HD
+http://51.83.237.50/175/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="FIGHTKLUB" tvg-name="FightKlub" tvg-logo="http://logo.plusx.tv/logo/FightKlub%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/260/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Sport" ,FightKlub HD
+http://51.83.237.50/260/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="FightBox" tvg-name="FightBox" tvg-logo="http://logo.plusx.tv/logo/FightBox%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/261/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Sport" ,FightBox HD
+http://51.83.237.50/261/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Filmbox Family" tvg-name="FilmBox Family" tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Family.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/256/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Film" ,Filmbox Family
+http://51.83.237.50/256/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="FilmBox Action" tvg-name="FilmBox Action" tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Action.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/259/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Film" ,Filmbox Action
+http://51.83.237.50/259/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Filmbox Arthouse" tvg-name="Filmbox Arthouse" tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Arthouse.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/258/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Film" ,Filmbox Arthouse
+http://51.83.237.50/258/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Filmbox Extra HD" tvg-name="FilmBox Extra" tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Extra.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/257/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Film" ,Filmbox Extra
+http://51.83.237.50/257/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Filmbox Premium" tvg-name="FilmBox Premium" tvg-logo="http://logo.plusx.tv/logo/Filmbox%20Premium.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/255/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Film" ,Filmbox Premium HD
+http://51.83.237.50/255/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Fokus TV" tvg-name="Fokus TV" tvg-logo="http://logo.plusx.tv/logo/Fokus%20TV.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/254/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dokument" ,Fokus TV
+http://51.83.237.50/254/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="http://logo.plusx.tv/logo/Food%20Network%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/253/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Rozrywka" ,Food Network HD
+http://51.83.237.50/253/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="FOX Comedy" tvg-name="Fox Comedy" tvg-logo="http://logo.plusx.tv/logo/FOX%20Comedy%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/250/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Rozrywka" ,FOX Comedy HD
+http://51.83.237.50/250/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="FOX" tvg-name="FOX (HD)" tvg-logo="http://logo.plusx.tv/logo/FOX%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/249/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Rozrywka" ,FOX HD
+http://51.83.237.50/249/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Golf Channel" tvg-name="Golf Channel" tvg-logo="http://logo.plusx.tv/logo/Golf%20Channel.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/248/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Sport" ,Golf Channel HD
+http://51.83.237.50/248/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="History 2" tvg-name="H2" tvg-logo="http://logo.plusx.tv/logo/H2%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/247/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dokument" ,H2 HD
+http://51.83.237.50/247/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://logo.plusx.tv/logo/HBO%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/243/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Film" ,HBO HD
+http://51.83.237.50/243/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="http://logo.plusx.tv/logo/HBO%202%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/246/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Film" ,HBO 2 HD
+http://51.83.237.50/246/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="HBO3" tvg-name="HBO 3" tvg-logo="http://logo.plusx.tv/logo/HBO%203%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/245/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Film" ,HBO 3 HD
+http://51.83.237.50/245/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="http://logo.plusx.tv/logo/HGTV%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/241/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Rozrywka" ,HGTV HD
+http://51.83.237.50/241/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="HISTORY" tvg-name="HISTORY" tvg-logo="http://logo.plusx.tv/logo/History%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/240/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dokument" ,History HD
+http://51.83.237.50/240/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="ID" tvg-name="Investigation Discovery" tvg-logo="http://logo.plusx.tv/logo/ID%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/239/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dokument" ,ID HD
+http://51.83.237.50/239/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Kino Polska Muzyka" tvg-name="Kino Polska Muzyka" tvg-logo="http://logo.plusx.tv/logo/Kino%20Polska%20Muzyka.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/237/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Muzyka" ,Kino Polska Muzyka
+http://51.83.237.50/237/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Kino Polska" tvg-name="Kino Polska" tvg-logo="http://logo.plusx.tv/logo/Kino%20Polska.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/238/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Film" ,Kino Polska HD
+http://51.83.237.50/238/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Kino TV" tvg-name="Kino TV" tvg-logo="http://logo.plusx.tv/logo/Kino%20TV.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/236/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Film" ,Kino TV
+http://51.83.237.50/236/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Kuchnia+" tvg-name="Kuchnia.TV" tvg-logo="http://logo.plusx.tv/logo/Kuchnia+%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/235/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Rozrywka" ,Kuchnia+ HD
+http://51.83.237.50/235/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="http://logo.plusx.tv/logo/Lifetime%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/234/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Rozrywka" ,Lifetime HD
+http://51.83.237.50/234/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Motowizja" tvg-name="Motowizja TV" tvg-logo="http://logo.plusx.tv/logo/Motowizja%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/230/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Sport" ,Motowizja HD
+http://51.83.237.50/230/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="MTV Live HD" tvg-name="MTV Live HD" tvg-logo="http://logo.plusx.tv/logo/MTV%20Live%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/229/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Muzyka" ,MTV Live HD
+http://51.83.237.50/229/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="MTV Music 24" tvg-name="MTV Music Polska" tvg-logo="http://logo.plusx.tv/logo/MTV%20Music.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/228/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Muzyka" ,MTV Music
+http://51.83.237.50/228/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="MTV Polska" tvg-name="MTV" tvg-logo="http://logo.plusx.tv/logo/MTV%20Polska%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/227/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Muzyka" ,MTV Polska HD
+http://51.83.237.50/227/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="MTV90s.pl" tvg-name="MTV 90s" tvg-logo="http://epg.ovh/logo/MTV+Rocks.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/325mtv/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Muzyka" ,MTV 90s
+http://51.83.237.50/325mtv/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="METRO" tvg-name="Metro" tvg-logo="http://logo.plusx.tv/logo/Metro%20TV.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/232/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Popularny" ,Metro
+http://51.83.237.50/232/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Minimini+" tvg-name="Mini Mini" tvg-logo="http://logo.plusx.tv/logo/MiniMini+%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/231/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dla Dzieci" ,MiniMini+ HD
+http://51.83.237.50/231/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="NTL Radomsko" tvg-name="NTL Radomsko" tvg-logo="http://logo.plusx.tv/logo/NTL%20Radomsko.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/214/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Popularny" ,NTL Radomsko
+http://51.83.237.50/214/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="nsport+" tvg-name="nSport" tvg-logo="http://logo.plusx.tv/logo/nSport+%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/215/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Sport" ,nSport+ HD
+http://51.83.237.50/215/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Nat Geo People" tvg-name="Nat Geo People" tvg-logo="http://logo.plusx.tv/logo/Nat%20Geo%20People%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/225/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dokument" ,Nat Geo People HD
+http://51.83.237.50/225/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="National Geographic Wild" tvg-name="Nat Geo Wild HD" tvg-logo="http://logo.plusx.tv/logo/Nat%20Geo%20Wild%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/223/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dokument" ,Nat Geo Wild HD
+http://51.83.237.50/223/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="National Geographic Channel" tvg-name="National Geographic" tvg-logo="http://logo.plusx.tv/logo/National%20Geographic%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/221/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dokument" ,National Geographic HD
+http://51.83.237.50/221/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Nick Jr." tvg-name="Nick Jr" tvg-logo="http://logo.plusx.tv/logo/Nick%20Jr.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/220/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dla Dzieci" ,Nick Jr
+http://51.83.237.50/220/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Nicktoons" tvg-name="Nickelodeon HD" tvg-logo="http://logo.plusx.tv/logo/Nicktoons%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/218/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dla Dzieci" ,Nicktoons HD
+http://51.83.237.50/218/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Nickelodeon" tvg-name="Nickelodeon Polska" tvg-logo="http://logo.plusx.tv/logo/Nickelodeon.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/219/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dla Dzieci" ,Nickelodeon
+http://51.83.237.50/219/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Nuta TV" tvg-name="Nuta TV" tvg-logo="http://logo.plusx.tv/logo/Nuta%20TV.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/213/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Muzyka" ,Nuta TV
+http://51.83.237.50/213/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="NOWA TV" tvg-name="Nowa TV" tvg-logo="http://logo.plusx.tv/logo/NOWA%20TV.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/216/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Popularny" ,Nowa TV
+http://51.83.237.50/216/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Novelas TV" tvg-name="Novelas TV" tvg-logo="http://logo.plusx.tv/logo/TVP%20Seriale.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/135/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Popularny" ,Novelas+
+http://51.83.237.50/2022/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Paramount Channel" tvg-name="Paramount Channel HD" tvg-logo="http://logo.plusx.tv/logo/Paramount%20Channel%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/212/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Film" ,Paramount Channel HD
+http://51.83.237.50/212/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="NOVELA TV" tvg-name="Novela TV" tvg-logo="http://93.159.131.123/netmar/insert/img/programy/novelatv.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/217/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Rozrywka" ,Novela TV
+http://51.83.237.50/217/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Planete+" tvg-name="Planete" tvg-logo="http://logo.plusx.tv/logo/Planete+%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/211/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dokument" ,Planete+ HD
+http://51.83.237.50/211/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Polo TV" tvg-name="PoloTV" tvg-logo="http://logo.plusx.tv/logo/Polo%20TV.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/210/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Muzyka" ,Polo TV
+http://51.83.237.50/210/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Polsat Rodzina" tvg-name="Polsat Rodzina" tvg-logo="http://logo.plusx.tv/logo/Polsat+Rodzina.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/197/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Rozrywka" ,Polsat Rodzina HD
+http://51.83.237.50/197/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Polsat Games" tvg-name="Polsat Games" tvg-logo="http://logo.plusx.tv/logo/Polsat+Games.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/204/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Rozrywka" ,Polsat Games HD
+http://51.83.237.50/204/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Polsat 2" tvg-name="Polsat 2" tvg-logo="http://logo.plusx.tv/logo/Polsat%202%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/208/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Popularny" ,Polsat 2 HD
+http://51.83.237.50/208/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Polsat Cafe" tvg-name="Polsat Cafe" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Cafe%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/207/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Rozrywka" ,Polsat Cafe HD
+http://51.83.237.50/207/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Polsat Doku" tvg-name="Polsat Doku" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Doku%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/206/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dokument" ,Polsat Doku HD
+http://51.83.237.50/206/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Polsat Film" tvg-name="Polsat Film" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Film%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/205/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Film" ,Polsat Film HD
+http://51.83.237.50/205/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Polsat" tvg-name="Polsat" tvg-logo="http://logo.plusx.tv/logo/Polsat%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/203/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Popularny" ,Polsat HD
+http://51.83.237.50/203/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="JimJam Polsat" tvg-name="JimJam" tvg-logo="http://logo.plusx.tv/logo/JimJam%20Polsat.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/202/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dla Dzieci" ,JimJam Polsa
+http://51.83.237.50/202/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Polsat Music" tvg-name="Polsat Music" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Music%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/201/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Muzyka" ,Polsat Music HD
+http://51.83.237.50/201/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="POLSAT NEWS 2" tvg-name="Polsat News 2" tvg-logo="http://logo.plusx.tv/logo/Polsat%20News%202.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/200/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Informacje" ,Polsat News 2
+http://51.83.237.50/200/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Polsat News" tvg-name="Polsat News" tvg-logo="http://logo.plusx.tv/logo/Polsat%20News%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/199/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Informacje" ,Polsat News HD
+http://51.83.237.50/199/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Polsat Play" tvg-name="Polsat Play" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Play%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/198/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Rozrywka" ,Polsat Play HD
+http://51.83.237.50/198/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="POLSAT ROMANS" tvg-name="Polsat Romans" tvg-logo="https://satkurier.pl/uploads/79469.jpg" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/196/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Rozrywka" ,Polsat Seriale HD
+http://51.83.237.50/196/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Polsat Sport Extra" tvg-name="Polsat Sport Extra" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20Extra%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/195/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Sport" ,Polsat Sport Extra HD
+http://51.83.237.50/195/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Polsat Sport Fight" tvg-name="Polsat Sport Fight" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20Fight%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/194/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Sport" ,Polsat Sport Fight HD
+http://51.83.237.50/194/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Polsat Sport" tvg-name="Polsat Sport" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/193/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Sport" ,Polsat Sport HD
+http://51.83.237.50/193/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Polsat Sport News" tvg-name="Polsat Sport News" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Sport%20News%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/192/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Sport" ,Polsat Sport News HD
+http://51.83.237.50/192/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Polsat Sport Premium 1" tvg-name="Polsat Sport Premium 1" tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+1a.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/191/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Sport" ,Polsat Sport Premium 1 HD
+http://51.83.237.50/191/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Polsat Sport Premium 2" tvg-name="Polsat Sport Premium 2" tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+2a.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/190/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Sport" ,Polsat Sport Premium 2 HD
+http://51.83.237.50/190/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Polsat Sport Premium 3" tvg-name="Polsat Sport Premium 3" tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+3.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/189/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Sport" ,Polsat Sport Premium 3 HD
+http://51.83.237.50/189/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Polsat Sport Premium 4" tvg-name="Polsat Sport Premium 4" tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+4.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/188/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Sport" ,Polsat Sport Premium 4 HD
+http://51.83.237.50/188/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Polsat Sport Premium 5" tvg-name="Polsat Sport Premium 5" tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+5.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/187/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Sport" ,Polsat Sport Premium 5 HD
+http://51.83.237.50/187/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Polsat Sport Premium 6" tvg-name="Polsat Sport Premium 6" tvg-logo="http://logo.plusx.tv/logo/Polsat+Sport+Premium+6.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/186/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Sport" ,Polsat Sport Premium 6 HD
+http://51.83.237.50/186/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Polsat Viasat History" tvg-name="Viasat History" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Viasat%20History%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/184/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dokument" ,Polsat Viasat History HD
+http://51.83.237.50/184/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="POLSAT Viasat Explore" tvg-name="Viasat Explorer" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Viasat%20Explore%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/185/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dokument" ,Polsat Viasat Explore HD
+http://51.83.237.50/185/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Polsat Viasat Nature" tvg-name="Viasat Nature" tvg-logo="http://logo.plusx.tv/logo/Polsat%20Viasat%20Nature%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/183/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dokument" ,Polsat Viasat Nature HD
+http://51.83.237.50/183/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="POWER TV" tvg-name="Power TV" tvg-logo="http://logo.plusx.tv/logo/Power%20TV.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/182/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Muzyka" ,Power TV
+http://51.83.237.50/182/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Polonia 1" tvg-name="Polonia 1" tvg-logo="http://epg.ovh/logo/Polonia+1.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/209/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Popularny" ,Polonia 1
+http://51.83.237.50/209/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Puls 2" tvg-name="TV Puls 2" tvg-logo="http://logo.plusx.tv/logo/Puls%202.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/180/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Popularny" ,Puls 2
+http://51.83.237.50/180/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Red Carpet TV" tvg-name="Red Carpet TV" tvg-logo="http://epg.ovh/logo/Red+Carpet+TV.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/179/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Rozrywka" ,Red Carpet TV
+http://51.83.237.50/179/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Superstacja" tvg-name="Superstacja" tvg-logo="http://logo.plusx.tv/logo/Superstacja.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/170/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Informacje" ,Superstacja
+http://51.83.237.50/170/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="ROMANCE TV" tvg-name="Romance TV" tvg-logo="http://logo.plusx.tv/logo/Romance%20TV%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/178/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Rozrywka" ,Romance TV HD
+http://51.83.237.50/178/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Scifi Universal" tvg-name="SciFi" tvg-logo="http://logo.plusx.tv/logo/Scifi%20Universal.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/177/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Film" ,SciFi HD
+http://51.83.237.50/177/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Stars TV" tvg-name="Stars TV" tvg-logo="http://logo.plusx.tv/logo/Stars%20TV.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/174/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Muzyka" ,Stars TV
+http://51.83.237.50/174/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Stopklatka TV" tvg-name="Stopklatka TV" tvg-logo="http://logo.plusx.tv/logo/Stopklatka%20TV.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/173/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Film" ,Stopklatka TV
+http://51.83.237.50/173/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Sundance TV" tvg-name="Sundance Channel HD" tvg-logo="http://logo.plusx.tv/logo/Sundance%20TV%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/172/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Film" ,Sundance TV HD
+http://51.83.237.50/172/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Super Polsat" tvg-name="Super Polsat" tvg-logo="http://logo.plusx.tv/logo/Super%20Polsat%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/171/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Popularny" ,Super Polsat HD
+http://51.83.237.50/171/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="StudioMed TV HD" tvg-name="StudioMed TV" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_595231.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/342/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Rozrywka" ,StudioMed TV HD
+http://51.83.237.50/342/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Teletoon" tvg-name="Teletoon+" tvg-logo="http://logo.plusx.tv/logo/Teletoon+%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/168/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dla Dzieci" ,Teletoon+ HD
+http://51.83.237.50/168/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://logo.plusx.tv/logo/TLC%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/167/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Rozrywka" ,TLC HD
+http://51.83.237.50/167/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Tele 5" tvg-name="Tele 5" tvg-logo="http://epg.ovh/logo/Tele+5.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/169/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Popularny" ,Tele 5
+http://51.83.237.50/169/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://logo.plusx.tv/logo/TNT%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/166/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Film" ,TNT HD
+http://51.83.237.50/166/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="TVN Fabula" tvg-name="TVN Fabula" tvg-logo="http://logo.plusx.tv/logo/TVN%20Fabula%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/150/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Film" ,TVN Fabula HD
+http://51.83.237.50/150/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="VOD 205" tvg-name="VOD 205" tvg-logo="http://logo.plusx.tv/logo/VOD+205.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/127/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Film" ,VOD 205
+http://51.83.237.50/127/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="VOD 206" tvg-name="VOD 206" tvg-logo="http://logo.plusx.tv/logo/VOD+206.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/126/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Film" ,VOD 206
+http://51.83.237.50/126/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="VOD 207" tvg-name="VOD 207" tvg-logo="http://logo.plusx.tv/logo/VOD+207.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/125/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Film" ,VOD 207
+http://51.83.237.50/125/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="VOD 208" tvg-name="VOD 208" tvg-logo="http://logo.plusx.tv/logo/VOD+208.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/124/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Film" ,VOD 208
+http://51.83.237.50/124/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="To!TV" tvg-name="TO!TV" tvg-logo="http://logo.plusx.tv/logo/TO!TV.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/165/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Muzyka" ,TOTV
+http://51.83.237.50/165/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="TTV" tvg-name="TTV" tvg-logo="http://logo.plusx.tv/logo/TTV%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/162/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Rozrywka" ,TTV HD
+http://51.83.237.50/162/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="TV OKAZJE" tvg-name="TV Okazje HD" tvg-logo="http://logo.plusx.tv/logo/TV%20Okazje.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/159/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Rozrywka" ,TV Okazje
+http://51.83.237.50/159/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="TV Puls" tvg-name="TV Puls" tvg-logo="http://logo.plusx.tv/logo/TV%20Puls%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/158/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Popularny" ,TV Puls HD
+http://51.83.237.50/158/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Republika TV" tvg-name="TV Republika" tvg-logo="http://logo.plusx.tv/logo/TV%20Republika.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/157/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Informacje" ,TV Republika
+http://51.83.237.50/157/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="TV 4" tvg-name="TV4" tvg-logo="http://logo.plusx.tv/logo/TV%204.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/161/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Popularny" ,TV 4 HD
+http://51.83.237.50/161/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="TV 6" tvg-name="TV 6" tvg-logo="http://logo.plusx.tv/logo/TV%206%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/160/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Popularny" ,TV 6 HD
+http://51.83.237.50/160/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="TVN 24 BiS" tvg-name="TVN CNBC Biznes" tvg-logo="http://logo.plusx.tv/logo/TVN%2024%20BiS%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/154/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Informacje" ,TVN 24 BiS HD
+http://51.83.237.50/154/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="TVN 24" tvg-name="TVN 24" tvg-logo="http://logo.plusx.tv/logo/TVN%2024%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/153/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Informacje" ,TVN 24 HD
+http://51.83.237.50/153/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="TVN 7" tvg-name="TVN 7" tvg-logo="http://logo.plusx.tv/logo/TVN%207%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/152/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Popularny" ,TVN 7 HD
+http://51.83.237.50/152/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="TVN" tvg-name="TVN" tvg-logo="http://logo.plusx.tv/logo/TVN%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/149/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Popularny" ,TVN HD
+http://51.83.237.50/149/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="TVN Style" tvg-name="TVN Style" tvg-logo="http://logo.plusx.tv/logo/TVN%20Style%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/147/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Rozrywka" ,TVN Style HD
+http://51.83.237.50/147/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="TVN Turbo" tvg-name="TVN Turbo" tvg-logo="http://logo.plusx.tv/logo/TVN%20Turbo%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/145/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Sport" ,TVN Turbo HD
+http://51.83.237.50/145/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="TVP HD" tvg-name="TVP HD" tvg-logo="http://logo.plusx.tv/logo/TVP%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/141/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Popularny" ,TVP HD
+http://51.83.237.50/141/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="TVP 1" tvg-name="TVP 1" tvg-logo="http://logo.plusx.tv/logo/TVP%201%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/144/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Popularny" ,TVP 1 HD
+http://51.83.237.50/144/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="TVP 2" tvg-name="TVP 2" tvg-logo="http://logo.plusx.tv/logo/TVP%202%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/143/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Popularny" ,TVP 2 HD
+http://51.83.237.50/143/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="TVP 3 Warszawa" tvg-name="TVP3" tvg-logo="http://logo.plusx.tv/logo/TVP%203.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/142/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Popularny" ,TVP 3
+http://51.83.237.50/142/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="TVPDokument.pl" tvg-name="TVPDokument.pl" tvg-logo="https://epg.ovh/logo/TVP+Dokument.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/1901/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Popularny" ,TVP Dokument HD
+http://51.83.237.50/1901/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="TVP ABC" tvg-name="TVP-ABC" tvg-logo="http://logo.plusx.tv/logo/TVP%20ABC.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/151/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dla Dzieci" ,TVP ABC
+http://51.83.237.50/151/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="TVP Historia" tvg-name="TVP Historia" tvg-logo="http://logo.plusx.tv/logo/TVP%20Historia.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/140/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Popularny" ,TVP Historia
+http://51.83.237.50/140/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="TVP Info" tvg-name="TVP-Info" tvg-logo="http://logo.plusx.tv/logo/TVP%20Info.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/139/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Informacje" ,TVP Info HD
+http://51.83.237.50/139/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="TVP Kultura" tvg-name="TVP-Kultura" tvg-logo="http://logo.plusx.tv/logo/TVP%20Kultura.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/138/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Popularny" ,TVP Kultura
+http://51.83.237.50/138/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="TVP Polonia" tvg-name="TVP Regionalna" tvg-logo="http://logo.plusx.tv/logo/TVP%20Polonia.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/137/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Popularny" ,TVP Polonia
+http://51.83.237.50/137/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="TVP Rozrywka" tvg-name="TVP Rozrywka" tvg-logo="http://logo.plusx.tv/logo/TVP%20Rozrywka.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/136/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Popularny" ,TVP Rozrywka
+http://51.83.237.50/136/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="TVP Seriale" tvg-name="TVP Seriale" tvg-logo="http://logo.plusx.tv/logo/TVP%20Seriale.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/135/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Popularny" ,TVP Seriale
+http://51.83.237.50/135/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="TVP Wilno" tvg-name="TVP Wilno" tvg-logo="http://logo.plusx.tv/logo/TVP%20Seriale.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/135/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Popularny" ,TVP Wilno HD
+http://51.83.237.50/2021/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="TVP Sport" tvg-name="TVP Sport" tvg-logo="http://logo.plusx.tv/logo/TVP%20Sport%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/134/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Sport" ,TVP Sport HD
+http://51.83.237.50/134/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="TRWAM" tvg-name="TV Trwam" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082012/tv_trwam.png?itok=8V3f5AsH" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/338/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Popularny" ,TV Trwam
+http://51.83.237.50/338/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="TVR" tvg-name="TVR" tvg-logo="http://ocdn.eu/images/program-tv/MTY7MDA_/0aa2e07335e47a578c7b1bb0a68f1ff0.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/337/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Popularny" ,TVR
+http://51.83.237.50/337/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="TVS" tvg-name="TVS (HD)" tvg-logo="http://logo.plusx.tv/logo/TVS.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/132/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Popularny" ,TVS
+http://51.83.237.50/132/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Travel Channel" tvg-name="Travel Channel" tvg-logo="http://logo.plusx.tv/logo/Travel%20Channel%20HD.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/163/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Rozrywka" ,Travel Channel HD
+http://51.83.237.50/163/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="VH1" tvg-name="VH1 European" tvg-logo="http://logo.plusx.tv/logo/VH1.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/131/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Muzyka" ,VH1
+http://51.83.237.50/131/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="Vox Music TV" tvg-name="vox-music-tv" tvg-logo="http://logo.plusx.tv/logo/VOX%20Music%20TV.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/123/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Muzyka" ,VOX Music TV
+http://51.83.237.50/123/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="WP" tvg-name="WP" tvg-logo="http://logo.plusx.tv/logo/WP.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/121/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Popularny" ,WP
+http://51.83.237.50/121/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="WPolsce.pl" tvg-name="wPolsce.pl" tvg-logo="http://logo.plusx.tv/logo/wPolsce.pl.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/120/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Informacje" ,wPolsce.pl
+http://51.83.237.50/120/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="WATER PLANET" tvg-name="Water Planet" tvg-logo="http://epg.ovh/logo/WATER+PLANET.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/122/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Dokument" ,Water Planet
+http://51.83.237.50/122/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="ZOOM TV" tvg-name="Zoom TV" tvg-logo="http://logo.plusx.tv/logo/Zoom%20TV.png" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/118/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Popularny" ,Zoom TV
+http://51.83.237.50/118/video.m3u8?token=szymek_001@wp.pl63549222222
+#EXTINF:0 tvg-id="KSWTV" tvg-name="KSWTV" tvg-logo="" timeshift="5" catchup="default" catchup-source="http://54.36.168.131/325/mono-{utc}-{lutc}.m3u8?token=szymek_001@wp.pl63549222222" group-title="Sport" ,KSW FAME MMA HD
+http://51.83.237.50/325m/video.m3u8?token=szymek_001@wp.pl63549222222
