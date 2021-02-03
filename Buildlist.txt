@@ -134,6 +134,19 @@ preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
 adult="no"
 description=" tomiptv KODI 18"
 
+name="UPDATE_tomiptvd"
+version="0.0.1"
+url="http://tom122.webd.pro/18/UPDATE_TOMIPTVD.zip"
+gui="http://"   -
+kodi="18.8"
+theme=""
+icon="https://raw.githubusercontent.com/krecik71/tom/master/icon.png"
+fanart="https://betanews.com/wp-content/uploads/2018/09/Kodi.jpg"
+preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
+adult="no"
+description=" tomiptvd KODI 18"
+
+
 
 name="bufor 150 UPDATE"
 version="0.0.1"
