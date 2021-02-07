@@ -1,387 +1,397 @@
 #EXTM3U
-#EXTINF:-1,########## Poland ##########
-http://mytv.fun:8080/1mp3b5lcpp/27012136/5261
-#EXTINF:-1,------- Main & Regional -------
-http://mytv.fun:8080/1mp3b5lcpp/27012136/683431
-#EXTINF:-1,TVP 1 FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/5227
-#EXTINF:-1,TVP 1 HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/7271
-#EXTINF:-1,TVP 2 FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/5226
-#EXTINF:-1,TVP 2 HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/7270
-#EXTINF:-1,TVP 3 Warszawa VIP PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9845
-#EXTINF:-1,TVP FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9893
-#EXTINF:-1,TVP Polonia FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9843
-#EXTINF:-1,Polsat HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/7286
-#EXTINF:-1,Polsat 2 FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/7285
-#EXTINF:-1,Polsat 2 PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/5255
-#EXTINF:-1,TVN FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/5229
-#EXTINF:-1,TVN HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/7274
-#EXTINF:-1,TV 4 FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/7278
-#EXTINF:-1,TV6 FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9822
-#EXTINF:-1,TVN 7 FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/7276
-#EXTINF:-1,TVP Info FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/7269
-#EXTINF:-1,Nowa TV FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9850
-#EXTINF:-1,Polsat News HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/7282
-#EXTINF:-1,Polsat News 2 PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/5250
-#EXTINF:-1,TVN 24 FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/5224
-#EXTINF:-1,TV Puls FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/7277
-#EXTINF:-1,TV Puls HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9895
-#EXTINF:-1,Puls 2 PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9899
-#EXTINF:-1,TVS PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9890
-#EXTINF:-1,Trwam TV HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9884
-#EXTINF:-1,------- Sports -------
-http://mytv.fun:8080/1mp3b5lcpp/27012136/683432
-#EXTINF:-1,Canal+ Sport 1 FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/7300
-#EXTINF:-1,Canal+ Sport 2 FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/7304
-#EXTINF:-1,Canal+ Sport 2 HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/7299
-#EXTINF:-1,Eleven Sports 1 FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/524331
-#EXTINF:-1,Eleven Sports 2 FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/99803
-#EXTINF:-1,Eleven Sports 3 FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/99930
-#EXTINF:-1,Eleven Sports 4 HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/167186
-#EXTINF:-1,nSport Plus FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/5238
-#EXTINF:-1,Eurosport 1 HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9878
-#EXTINF:-1,Eurosport 2 FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9877
-#EXTINF:-1,Fight Box FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/5239
-#EXTINF:-1,Extreme Sports FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/5240
-#EXTINF:-1,Golf Channel FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9873
-#EXTINF:-1,Motorwizja FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9904
-#EXTINF:-1,Motowizja PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9851
-#EXTINF:-1,Polsat Sport FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/625236
-#EXTINF:-1,Polsat Sport Premium 1 HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/53159
-#EXTINF:-1,Polsat Sport Premium 2 HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/531582
-#EXTINF:-1,Polsat Sport Premium PPV 3 FHD
-http://mytv.fun:8080/1mp3b5lcpp/27012136/620683
-#EXTINF:-1,Polsat Sport Premium PPV 4 FHD
-http://mytv.fun:8080/1mp3b5lcpp/27012136/620682
-#EXTINF:-1,Polsat Sport Premium PPV 6 FHD
-http://mytv.fun:8080/1mp3b5lcpp/27012136/620680
-#EXTINF:-1,Polsat Sport Extra FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/625232
-#EXTINF:-1,Polsat Sport Extra HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/625230
-#EXTINF:-1,Polsat Sport Fight FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/5247
-#EXTINF:-1,Polsat Sport News FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9869
-#EXTINF:-1,Super Polsat FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9897
-#EXTINF:-1,TVP Sport FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/5225
-#EXTINF:-1,TVP Sports PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/7267
-#EXTINF:-1,Sportklub HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9819
-#EXTINF:-1,KSW PPV FHD [Match Time] PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/624946
-#EXTINF:-1,------- Movies & Series -------
-http://mytv.fun:8080/1mp3b5lcpp/27012136/683433
-#EXTINF:-1,HBO 1 FHD [Multi-Audio] PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/5223
-#EXTINF:-1,HBO HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/7293
-#EXTINF:-1,HBO 2 FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/7292
-#EXTINF:-1,HBO 2 PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/5222
-#EXTINF:-1,HBO 3 FHD [Multi-Audio] PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/7291
-#EXTINF:-1,Cinemax FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/5246
-#EXTINF:-1,Cinemax 2 FHD VIP PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/5245
-#EXTINF:-1,Canal+ Family HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/7305
-#EXTINF:-1,Canal+ Premium FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/7302
-#EXTINF:-1,Canal+ Film FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/5243
-#EXTINF:-1,Canal+ Film HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/7303
-#EXTINF:-1,Canal+ Seriale HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9913
-#EXTINF:-1,Film Box Extra HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9876
-#EXTINF:-1,Film Box Premium FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/5230
-#EXTINF:-1,Film Box Premium HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/7297
-#EXTINF:-1,Film Box Family PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/5231
-#EXTINF:-1,Filmbox Action PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/7296
-#EXTINF:-1,Film Box Arthouse PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/5232
-#EXTINF:-1,Polsat Film FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/5253
-#EXTINF:-1,Polsat Film HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/7283
-#EXTINF:-1,Kino Polska PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/5237
-#EXTINF:-1,AMC PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/641401
-#EXTINF:-1,TNT HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9866
-#EXTINF:-1,VOD 205 PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9889
-#EXTINF:-1,VOD 206 PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9888
-#EXTINF:-1,VOD 207 PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9887
-#EXTINF:-1,VOD 208 PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9886
-#EXTINF:-1,TVP Seriale PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/7268
-#EXTINF:-1,TVP Historia PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9836
-#EXTINF:-1,TVP Kultura PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9892
-#EXTINF:-1,TVN Fabula FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/7275
-#EXTINF:-1,TVP Rozrywka PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9891
-#EXTINF:-1,Fox FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9874
-#EXTINF:-1,Fox Comedy HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9875
-#EXTINF:-1,Comedy Central FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/5242
-#EXTINF:-1,Comedy Central Family HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9834
-#EXTINF:-1,13 ulica FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/5260
-#EXTINF:-1,Adventure FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9917
-#EXTINF:-1,AXN FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/7306
-#EXTINF:-1,AXN Spin FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/5220
-#EXTINF:-1,AXN Black PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9915
-#EXTINF:-1,AXN White PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9914
-#EXTINF:-1,BBC First FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9861
-#EXTINF:-1,CBS Europa FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9881
-#EXTINF:-1,CBS Europa HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9912
-#EXTINF:-1,Ale Kino FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/5259
-#EXTINF:-1,ATM Rozrywka PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9916
-#EXTINF:-1,Lifetime FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9871
-#EXTINF:-1,Paramount Channel FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9829
-#EXTINF:-1,Romance TV FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9826
-#EXTINF:-1,SciFi Universal PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9868
-#EXTINF:-1,Stopklatka TV PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9898
-#EXTINF:-1,Sundance TV PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9867
-#EXTINF:-1,Zoom TV PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9839
-#EXTINF:-1,------- Documentary -------
-http://mytv.fun:8080/1mp3b5lcpp/27012136/683434
-#EXTINF:-1,Canal+ Discovery FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9835
-#EXTINF:-1,Discovery FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/7298
-#EXTINF:-1,Discovery Science FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/5234
-#EXTINF:-1,Discovery Life FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/5235
-#EXTINF:-1,Discovery Historia PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/5236
-#EXTINF:-1,Crime and Investigation PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/5221
-#EXTINF:-1,Animal Planet FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/5257
-#EXTINF:-1,Animal Planet HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/7307
-#EXTINF:-1,National Geographic FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/7288
-#EXTINF:-1,Nat Geo Wild FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/7289
-#EXTINF:-1,Nat Geo People FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9883
-#EXTINF:-1,BBC Earth HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9862
-#EXTINF:-1,Da Vinci Learning PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/5218
-#EXTINF:-1,DTX FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9824
-#EXTINF:-1,CBS Reality FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9911
-#EXTINF:-1,Food Network FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9815
-#EXTINF:-1,HGTV HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9906
-#EXTINF:-1,Fokus TV PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9853
-#EXTINF:-1,Metro PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9818
-#EXTINF:-1,Domo + HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/648339
-#EXTINF:-1,Planete+ HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9903
-#EXTINF:-1,Polsat Viasat Explore FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9900
-#EXTINF:-1,Polsat Viasat History FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9811
-#EXTINF:-1,Polsat Viasat Nature PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9810
-#EXTINF:-1,Polsat Doku FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9813
-#EXTINF:-1,Polsat Play FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/5252
-#EXTINF:-1,Polsat Play HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/7281
-#EXTINF:-1,Kuchnia+ FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9905
-#EXTINF:-1,TVN Turbo FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/5228
-#EXTINF:-1,TVN Turbo HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/7272
-#EXTINF:-1,TV Republika PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/5249
-#EXTINF:-1,WP PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9840
-#EXTINF:-1,------- Entertainment -------
-http://mytv.fun:8080/1mp3b5lcpp/27012136/683435
-#EXTINF:-1,BBC Brit FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/648338
-#EXTINF:-1,Active Family PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9817
-#EXTINF:-1,E! Entertainment FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9879
-#EXTINF:-1,TLC FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/7279
-#EXTINF:-1,Polsat Cafe FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/5254
-#EXTINF:-1,Polsat Cafe FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/7284
-#EXTINF:-1,Polsat Games FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/628998
-#EXTINF:-1,TVN Style HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/7273
-#EXTINF:-1,TVN Style FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/5219
-#EXTINF:-1,TTV FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9808
-#EXTINF:-1,TTV HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/683438
-#EXTINF:-1,TO!TV PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9809
-#EXTINF:-1,------- Children -------
-http://mytv.fun:8080/1mp3b5lcpp/27012136/683436
-#EXTINF:-1,Baby TV PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/15950
-#EXTINF:-1,Boomerang HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9860
-#EXTINF:-1,Cartoon Network FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9882
-#EXTINF:-1,Disney Channel HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9918
-#EXTINF:-1,Disney Junior PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9880
-#EXTINF:-1,Disney XD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9910
-#EXTINF:-1,MiniMini FHD VIP PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9870
-#EXTINF:-1,Nick Jr Polska PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9831
-#EXTINF:-1,Nickelodeon PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9830
-#EXTINF:-1,Polsat Jim Jam PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9848
-#EXTINF:-1,TVP ABC PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9894
-#EXTINF:-1,TeleToon+ FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9896
-#EXTINF:-1,------- Music -------
-http://mytv.fun:8080/1mp3b5lcpp/27012136/683437
-#EXTINF:-1,MTV Polska FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9838
-#EXTINF:-1,MTV Polska HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9832
-#EXTINF:-1,MTV Live FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9833
-#EXTINF:-1,VH1 PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9828
-#EXTINF:-1,VH1 Polska PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9827
-#EXTINF:-1,4Fun TV PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9825
-#EXTINF:-1,4Fun Dance PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9864
-#EXTINF:-1,4Fun Gold Hits PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9863
-#EXTINF:-1,Vox Music TV PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9885
-#EXTINF:-1,Nuta TV PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9849
-#EXTINF:-1,Eska TV HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9807
-#EXTINF:-1,Eska TV PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9857
-#EXTINF:-1,Eska Rock TV HD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9858
-#EXTINF:-1,Eska Rock TV PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9852
-#EXTINF:-1,Disco Polo Music PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9816
-#EXTINF:-1,Polo TV FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9814
-#EXTINF:-1,Polo Party TV PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9902
-#EXTINF:-1,Polsat Music FHD PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9847
-#EXTINF:-1,Power TV PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9846
-#EXTINF:-1,Stars TV PL
-http://mytv.fun:8080/1mp3b5lcpp/27012136/9820
+#EXTINF:-1,|PL| TVP HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80935
+#EXTINF:-1,|PL| TVP 1 HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80934
+#EXTINF:-1,|PL| TVP 2 HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80933
+#EXTINF:-1,|PL| TVP 3
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80932
+#EXTINF:-1,|PL| TVP POLONIA
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80931
+#EXTINF:-1,|PL| TV4 HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80930
+#EXTINF:-1,|PL| TELE 5
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80929
+#EXTINF:-1,|PL| TV6
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80928
+#EXTINF:-1,|PL| POLONIA 1
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80927
+#EXTINF:-1,|PL| POLSAT HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80926
+#EXTINF:-1,|PL| POLSAT 2 HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80925
+#EXTINF:-1,|PL| SUPER POLSAT
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80924
+#EXTINF:-1,|PL| TVN HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80923
+#EXTINF:-1,|PL| TVN 7 HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80922
+#EXTINF:-1,|PL| TVS
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80921
+#EXTINF:-1,|PL| TTV HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80920
+#EXTINF:-1,|PL| TV PULS HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80919
+#EXTINF:-1,|PL| ATM ROZRYWKA TV
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80918
+#EXTINF:-1,|PL| POLSAT RODZINA
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80917
+#EXTINF:-1,##### |PL| KINO #####
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80916
+#EXTINF:-1,|PL| CANAL+ HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80915
+#EXTINF:-1,|PL| CANAL+ 1 HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80914
+#EXTINF:-1,|PL| CANAL+ FAMILY HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80913
+#EXTINF:-1,|PL| CANAL+ FILM HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80912
+#EXTINF:-1,|PL| CANAL+ SERIALE HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80911
+#EXTINF:-1,|PL| CANAL+ NOW
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80910
+#EXTINF:-1,|PL| CANAL+ DISCOVERY HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80909
+#EXTINF:-1,|PL| FILMBOX EXTRA
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80908
+#EXTINF:-1,|PL| FILMBOX PREMIUM HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80907
+#EXTINF:-1,|PL| FILMBOX ACTION
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80906
+#EXTINF:-1,|PL| FILMBOX FAMILY
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80905
+#EXTINF:-1,|PL| FILMBOX ARTHOUSE
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80904
+#EXTINF:-1,|PL| CINEMAX HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80903
+#EXTINF:-1,|PL| CINEMAX 2 HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80902
+#EXTINF:-1,|PL| HBO HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80901
+#EXTINF:-1,|PL| HBO 2 HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80900
+#EXTINF:-1,|PL| HBO 3 HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80899
+#EXTINF:-1,|PL| VOD 205
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80898
+#EXTINF:-1,|PL| VOD 206
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80897
+#EXTINF:-1,|PL| VOD 207
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80896
+#EXTINF:-1,|PL| VOD 208
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80895
+#EXTINF:-1,##### |PL| SERIALE #####
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80894
+#EXTINF:-1,|PL| FOX HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80893
+#EXTINF:-1,|PL| FOX COMEDY HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80892
+#EXTINF:-1,|PL| AXN HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80891
+#EXTINF:-1,|PL| AXN
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80890
+#EXTINF:-1,|PL| AXN WHITE
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80889
+#EXTINF:-1,|PL| AXN BLACK
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80888
+#EXTINF:-1,|PL| AXN SPIN HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80887
+#EXTINF:-1,|PL| SCIFI HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80886
+#EXTINF:-1,|PL| 13 ULICA HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80885
+#EXTINF:-1,|PL| E! ENTERTAINMENT
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80884
+#EXTINF:-1,|PL| TVP SERIALE
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80883
+#EXTINF:-1,|PL| CBS EUROPA HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80882
+#EXTINF:-1,|PL| POLSAT ROMANS
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80881
+#EXTINF:-1,|PL| COMEDY CENTRAL HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80880
+#EXTINF:-1,|PL| TLC HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80879
+#EXTINF:-1,|PL| PARAMOUNT CHANNEL HD.
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80878
+#EXTINF:-1,|PL| AMC
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80877
+#EXTINF:-1,|PL| TVP KULTURA
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80876
+#EXTINF:-1,|PL| TRAVEL CHANNEL HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80875
+#EXTINF:-1,|PL| TVN FABULA
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80874
+#EXTINF:-1,|PL| TVN TURBO HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80873
+#EXTINF:-1,|PL| ADVENTURE HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80872
+#EXTINF:-1,|PL| DA VINCI
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80871
+#EXTINF:-1,|PL| FOOD NETWORK HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80870
+#EXTINF:-1,|PL| DOMO+  HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80869
+#EXTINF:-1,|PL| DTX
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80868
+#EXTINF:-1,##### |PL| GENERAL #####
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80867
+#EXTINF:-1,|PL| FOKUS TV
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80866
+#EXTINF:-1,|PL| KUCHNIA HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80865
+#EXTINF:-1,|PL| MOTOWIZJA TV HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80864
+#EXTINF:-1,|PL| NUTA TV
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80863
+#EXTINF:-1,|PL| POWER TV
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80862
+#EXTINF:-1,|PL| PULS 2
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80861
+#EXTINF:-1,|PL| ROMANCE TV
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80860
+#EXTINF:-1,|PL| WP
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80859
+#EXTINF:-1,|PL| ACTIVE FAMILY
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80858
+#EXTINF:-1,|PL| BBC BRIT
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80857
+#EXTINF:-1,|PL| BBC LIFESTYLE HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80856
+#EXTINF:-1,|PL| BBC FIRST HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80855
+#EXTINF:-1,|PL| COMEDY CENTRAL FAMILY
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80854
+#EXTINF:-1,##### |PL| DZIECI #####
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80853
+#EXTINF:-1,|PL| BABY TV
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80852
+#EXTINF:-1,|PL| POLSAT JIM JAM
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80851
+#EXTINF:-1,|PL| BOOMERANG HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80850
+#EXTINF:-1,|PL| CARTOON NETWORK HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80849
+#EXTINF:-1,|PL| DISNEY XD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80848
+#EXTINF:-1,|PL| DISNEY JUNIOR
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80847
+#EXTINF:-1,|PL| DISNEY CHANNEL HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80846
+#EXTINF:-1,|PL| NICK JR
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80845
+#EXTINF:-1,|PL| NICKELODEON
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80844
+#EXTINF:-1,|PL| NICKTOONS HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80843
+#EXTINF:-1,|PL| TELETOON  HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80842
+#EXTINF:-1,|PL| MINIMINI  HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80841
+#EXTINF:-1,|PL| BBC CBEEBIES
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80840
+#EXTINF:-1,|PL| POLSAT GAMES
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80839
+#EXTINF:-1,|PL| TBN POLAND
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80838
+#EXTINF:-1,##### |PL| MUZYKA #####
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80837
+#EXTINF:-1,|PL| MTV LIVE HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80836
+#EXTINF:-1,|PL| VH1
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80835
+#EXTINF:-1,|PL| TVP ROZRYWKA
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80834
+#EXTINF:-1,|PL| MTV ROCKS
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80833
+#EXTINF:-1,|PL| KINO POLSKA MUZYKA
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80832
+#EXTINF:-1,|PL| MTV POLSKA HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80831
+#EXTINF:-1,|PL| MTV MUSIC
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80830
+#EXTINF:-1,|PL| ALE KINO  HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80829
+#EXTINF:-1,|PL| TO!TV
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80828
+#EXTINF:-1,|PL| TVP ABC
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80827
+#EXTINF:-1,|PL| POLSAT CAFE HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80826
+#EXTINF:-1,|PL| POLSAT PLAY HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80825
+#EXTINF:-1,|PL| POLO TV
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80824
+#EXTINF:-1,|PL| METRO
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80823
+#EXTINF:-1,|PL| ZOOM TV
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80822
+#EXTINF:-1,|PL| NOVELA TV
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80821
+#EXTINF:-1,|PL| SUNDANCE HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80820
+#EXTINF:-1,|PL| TVN STYLE HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80819
+#EXTINF:-1,|PL| LIFETIME HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80818
+#EXTINF:-1,|PL| HGTV HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80817
+#EXTINF:-1,|PL| NOWA TV
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80816
+#EXTINF:-1,|PL| TV OKAZJE
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80815
+#EXTINF:-1,|PL| CBS REALITY
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80814
+#EXTINF:-1,|PL| EPIC DRAMA HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80813
+#EXTINF:-1,|PL| TNT HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80812
+#EXTINF:-1,|PL| POLSAT FILM HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80811
+#EXTINF:-1,|PL| KINO TV HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80810
+#EXTINF:-1,|PL| STOPKLATKA TV
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80809
+#EXTINF:-1,|PL| STARS.TV
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80808
+#EXTINF:-1,|PL| 4FUN.TV
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80807
+#EXTINF:-1,|PL| POLSAT MUSIC HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80806
+#EXTINF:-1,|PL| VOX MUSIC TV
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80805
+#EXTINF:-1,|PL| ESKA ROCK TV
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80804
+#EXTINF:-1,|PL| ESKA TV
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80803
+#EXTINF:-1,|PL| ESKA TV EXTRA
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80802
+#EXTINF:-1,##### |PL| KULTURA #####
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80801
+#EXTINF:-1,|PL| NAT GEO PEOPLE HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80800
+#EXTINF:-1,|PL| ANIMAL PLANET HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80799
+#EXTINF:-1,|PL| PLANETE   HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80798
+#EXTINF:-1,|PL| CI POLSAT HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80797
+#EXTINF:-1,|PL| HISTORY HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80796
+#EXTINF:-1,|PL| ID HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80795
+#EXTINF:-1,|PL| TVP HISTORIA
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80794
+#EXTINF:-1,|PL| BBC EARTH HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80793
+#EXTINF:-1,|PL| H2 HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80792
+#EXTINF:-1,|PL| POLSAT DOKU HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80791
+#EXTINF:-1,|PL| DISCOVERY SCIENCE HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80790
+#EXTINF:-1,|PL| DISCOVERY HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80789
+#EXTINF:-1,|PL| DISCOVERY LIFE HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80788
+#EXTINF:-1,|PL| DISCOVERY HISTORIA
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80787
+#EXTINF:-1,|PL| DISCO POLO MUSIC
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80786
+#EXTINF:-1,|PL| 4FUN GOLD HITS
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80785
+#EXTINF:-1,|PL| 4FUN DANCE
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80784
+#EXTINF:-1,|PL| POLSAT VIASAT EXPLORE HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80783
+#EXTINF:-1,|PL| NAT GEO WILD HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80782
+#EXTINF:-1,|PL| WATER PLANET
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80781
+#EXTINF:-1,|PL| POLSAT VIASAT HISTORY HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80780
+#EXTINF:-1,|PL| POLSAT VIASAT NATURE HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80779
+#EXTINF:-1,|PL| NATIONAL GEO
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80778
+#EXTINF:-1,|PL| CRIME AND INVESTIGATION HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80777
+#EXTINF:-1,##### |PL| SPORT #####
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80776
+#EXTINF:-1,|PL| POLSAT SPORT EXTRA HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80775
+#EXTINF:-1,|PL| POLSAT SPORT FIGHT HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80774
+#EXTINF:-1,|PL| CANAL+ SPORT HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80773
+#EXTINF:-1,|PL| CANAL+ SPORT 2 HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80772
+#EXTINF:-1,|PL| CANAL+ SPORT 3 HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80771
+#EXTINF:-1,|PL| CANAL+ SPORT 4 HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80770
+#EXTINF:-1,|PL| NSPORT+
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80769
+#EXTINF:-1,|PL| SPORT KLUB HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80768
+#EXTINF:-1,|PL| EUROSPORT 1 HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80767
+#EXTINF:-1,|PL| EUROSPORT 2 HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80766
+#EXTINF:-1,|PL| POLSAT SPORT HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80765
+#EXTINF:-1,|PL| EXTREME SPORTS HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80764
+#EXTINF:-1,|PL| POLSAT SPORT PREM. 1 HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80763
+#EXTINF:-1,|PL| POLSAT SPORT PREM. 2 HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80762
+#EXTINF:-1,|PL| POLSAT SPORT PREM. 3 HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80761
+#EXTINF:-1,|PL| POLSAT SPORT PREM. 4 HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80760
+#EXTINF:-1,|PL| POLSAT SPORT PREM. 5 HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80759
+#EXTINF:-1,|PL| POLSAT SPORT PREM. 6 HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80758
+#EXTINF:-1,|PL| ELEVENSPORT 1 HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80757
+#EXTINF:-1,|PL| ELEVENSPORT 2 HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80756
+#EXTINF:-1,|PL| ELEVENSPORT 3 HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80755
+#EXTINF:-1,|PL| ELEVENSPORT 4 HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80754
+#EXTINF:-1,|PL| GOLF CHANNEL
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80753
+#EXTINF:-1,|PL| FIGHTBOX HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80752
+#EXTINF:-1,|PL| FIGHTKLUB HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80751
+#EXTINF:-1,|PL| PPV KSW FIGHTS (LIVE ON MATCHES)
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80750
+#EXTINF:-1,|PL| TVP SPORT HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80749
+#EXTINF:-1,|PL| POLSAT SPORT NEWS HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80748
+#EXTINF:-1,##### |PL| INFORMACJA #####
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80747
+#EXTINF:-1,|PL| TVN 24 HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80746
+#EXTINF:-1,|PL| TVN24 BIS HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80745
+#EXTINF:-1,|PL| POLSAT NEWS HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80744
+#EXTINF:-1,|PL| POLSAT NEWS 2
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80743
+#EXTINF:-1,|PL| SUPERSTACJA
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80742
+#EXTINF:-1,|PL| TV REPUBLIKA
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80741
+#EXTINF:-1,|PL| WPOLSCE.PL
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80740
+#EXTINF:-1,|PL| TVP INFO HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80739
+#EXTINF:-1,|PL| STUDIOMED TV HD
+http://rv.flysat.live:80/0YeiJ2arqP/nuDvIG0bE8/80738
