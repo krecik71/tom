@@ -1,395 +1,55 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="PL: TVP HD" tvg-logo="" group-title="EU POLONIA",PL: TVP HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94783
-#EXTINF:-1 tvg-ID="" tvg-name="PL: TVP 1 HD" tvg-logo="" group-title="EU POLONIA",PL: TVP 1 HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94784
-#EXTINF:-1 tvg-ID="" tvg-name="PL: TVP 2 HD" tvg-logo="" group-title="EU POLONIA",PL: TVP 2 HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94785
-#EXTINF:-1 tvg-ID="" tvg-name="PL: TVP 3" tvg-logo="" group-title="EU POLONIA",PL: TVP 3
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94786
-#EXTINF:-1 tvg-ID="" tvg-name="PL: TV4 HD" tvg-logo="" group-title="EU POLONIA",PL: TV4 HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94787
-#EXTINF:-1 tvg-ID="" tvg-name="PL: TELE 5" tvg-logo="" group-title="EU POLONIA",PL: TELE 5
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94788
-#EXTINF:-1 tvg-ID="" tvg-name="PL: TV6" tvg-logo="" group-title="EU POLONIA",PL: TV6
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94789
-#EXTINF:-1 tvg-ID="" tvg-name="PL: POLONIA 1" tvg-logo="" group-title="EU POLONIA",PL: POLONIA 1
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94790
-#EXTINF:-1 tvg-ID="" tvg-name="PL: POLSAT HD" tvg-logo="" group-title="EU POLONIA",PL: POLSAT HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94791
-#EXTINF:-1 tvg-ID="" tvg-name="PL: POLSAT 2 HD" tvg-logo="" group-title="EU POLONIA",PL: POLSAT 2 HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94792
-#EXTINF:-1 tvg-ID="" tvg-name="PL: SUPER POLSAT" tvg-logo="" group-title="EU POLONIA",PL: SUPER POLSAT
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94793
-#EXTINF:-1 tvg-ID="" tvg-name="PL: TVN HD" tvg-logo="" group-title="EU POLONIA",PL: TVN HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94794
-#EXTINF:-1 tvg-ID="" tvg-name="PL: TVN 7 HD" tvg-logo="" group-title="EU POLONIA",PL: TVN 7 HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94795
-#EXTINF:-1 tvg-ID="" tvg-name="PL: TVS" tvg-logo="" group-title="EU POLONIA",PL: TVS
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94796
-#EXTINF:-1 tvg-ID="" tvg-name="PL: TTV HD" tvg-logo="" group-title="EU POLONIA",PL: TTV HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94797
-#EXTINF:-1 tvg-ID="" tvg-name="PL: TV PULS HD" tvg-logo="" group-title="EU POLONIA",PL: TV PULS HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94798
-#EXTINF:-1 tvg-ID="" tvg-name="PL: ATM ROZRYWKA TV" tvg-logo="" group-title="EU POLONIA",PL: ATM ROZRYWKA TV
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94799
-#EXTINF:-1 tvg-ID="" tvg-name="PL: POLSAT RODZINA" tvg-logo="" group-title="EU POLONIA",PL: POLSAT RODZINA
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94800
-#EXTINF:-1 tvg-ID="" tvg-name="===== PL KINO =====" tvg-logo="" group-title="EU POLONIA",===== PL KINO =====
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94801
-#EXTINF:-1 tvg-ID="" tvg-name="PL: CANAL  HD" tvg-logo="" group-title="EU POLONIA",PL: CANAL  HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94802
-#EXTINF:-1 tvg-ID="" tvg-name="PL: CANAL  1 HD" tvg-logo="" group-title="EU POLONIA",PL: CANAL  1 HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94803
-#EXTINF:-1 tvg-ID="" tvg-name="PL: CANAL  FAMILY HD" tvg-logo="" group-title="EU POLONIA",PL: CANAL  FAMILY HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94804
-#EXTINF:-1 tvg-ID="" tvg-name="PL: CANAL  FILM HD" tvg-logo="" group-title="EU POLONIA",PL: CANAL  FILM HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94805
-#EXTINF:-1 tvg-ID="" tvg-name="PL: CANAL  SERIALE HD" tvg-logo="" group-title="EU POLONIA",PL: CANAL  SERIALE HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94806
-#EXTINF:-1 tvg-ID="" tvg-name="PL: CANAL  NOW" tvg-logo="" group-title="EU POLONIA",PL: CANAL  NOW
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94807
-#EXTINF:-1 tvg-ID="" tvg-name="PL: CANAL  DISCOVERY HD" tvg-logo="" group-title="EU POLONIA",PL: CANAL  DISCOVERY HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94808
-#EXTINF:-1 tvg-ID="" tvg-name="PL: FILMBOX EXTRA" tvg-logo="" group-title="EU POLONIA",PL: FILMBOX EXTRA
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94809
-#EXTINF:-1 tvg-ID="" tvg-name="PL: FILMBOX PREMIUM HD" tvg-logo="" group-title="EU POLONIA",PL: FILMBOX PREMIUM HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94810
-#EXTINF:-1 tvg-ID="" tvg-name="PL: FILMBOX ACTION" tvg-logo="" group-title="EU POLONIA",PL: FILMBOX ACTION
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94811
-#EXTINF:-1 tvg-ID="" tvg-name="PL: FILMBOX FAMILY" tvg-logo="" group-title="EU POLONIA",PL: FILMBOX FAMILY
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94812
-#EXTINF:-1 tvg-ID="" tvg-name="PL: FILMBOX ARTHOUSE" tvg-logo="" group-title="EU POLONIA",PL: FILMBOX ARTHOUSE
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94813
-#EXTINF:-1 tvg-ID="" tvg-name="PL: CINEMAX HD" tvg-logo="" group-title="EU POLONIA",PL: CINEMAX HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94814
-#EXTINF:-1 tvg-ID="" tvg-name="PL: CINEMAX 2 HD" tvg-logo="" group-title="EU POLONIA",PL: CINEMAX 2 HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94815
-#EXTINF:-1 tvg-ID="" tvg-name="PL: HBO HD" tvg-logo="" group-title="EU POLONIA",PL: HBO HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94816
-#EXTINF:-1 tvg-ID="" tvg-name="PL: HBO 2 HD" tvg-logo="" group-title="EU POLONIA",PL: HBO 2 HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94817
-#EXTINF:-1 tvg-ID="" tvg-name="PL: HBO 3 HD" tvg-logo="" group-title="EU POLONIA",PL: HBO 3 HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94818
-#EXTINF:-1 tvg-ID="" tvg-name="PL: VOD 205" tvg-logo="" group-title="EU POLONIA",PL: VOD 205
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94819
-#EXTINF:-1 tvg-ID="" tvg-name="PL: VOD 206" tvg-logo="" group-title="EU POLONIA",PL: VOD 206
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94820
-#EXTINF:-1 tvg-ID="" tvg-name="PL: VOD 207" tvg-logo="" group-title="EU POLONIA",PL: VOD 207
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94821
-#EXTINF:-1 tvg-ID="" tvg-name="PL: VOD 208" tvg-logo="" group-title="EU POLONIA",PL: VOD 208
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94822
-#EXTINF:-1 tvg-ID="" tvg-name="===== PL SERIALE =====" tvg-logo="" group-title="EU POLONIA",===== PL SERIALE =====
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94823
-#EXTINF:-1 tvg-ID="" tvg-name="PL: FOX HD" tvg-logo="" group-title="EU POLONIA",PL: FOX HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94824
-#EXTINF:-1 tvg-ID="" tvg-name="PL: FOX COMEDY HD" tvg-logo="" group-title="EU POLONIA",PL: FOX COMEDY HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94825
-#EXTINF:-1 tvg-ID="" tvg-name="PL: AXN HD" tvg-logo="" group-title="EU POLONIA",PL: AXN HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94826
-#EXTINF:-1 tvg-ID="" tvg-name="PL: AXN" tvg-logo="" group-title="EU POLONIA",PL: AXN
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94827
-#EXTINF:-1 tvg-ID="" tvg-name="PL: AXN WHITE" tvg-logo="" group-title="EU POLONIA",PL: AXN WHITE
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94828
-#EXTINF:-1 tvg-ID="" tvg-name="PL: AXN BLACK" tvg-logo="" group-title="EU POLONIA",PL: AXN BLACK
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94829
-#EXTINF:-1 tvg-ID="" tvg-name="PL: AXN SPIN HD" tvg-logo="" group-title="EU POLONIA",PL: AXN SPIN HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94830
-#EXTINF:-1 tvg-ID="" tvg-name="PL: SCIFI HD" tvg-logo="" group-title="EU POLONIA",PL: SCIFI HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94831
-#EXTINF:-1 tvg-ID="" tvg-name="PL: 13 ULICA HD" tvg-logo="" group-title="EU POLONIA",PL: 13 ULICA HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94832
-#EXTINF:-1 tvg-ID="" tvg-name="PL: E! ENTERTAINMENT" tvg-logo="" group-title="EU POLONIA",PL: E! ENTERTAINMENT
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94833
-#EXTINF:-1 tvg-ID="" tvg-name="PL: TVP SERIALE" tvg-logo="" group-title="EU POLONIA",PL: TVP SERIALE
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94834
-#EXTINF:-1 tvg-ID="" tvg-name="PL: CBS EUROPA HD" tvg-logo="" group-title="EU POLONIA",PL: CBS EUROPA HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94835
-#EXTINF:-1 tvg-ID="" tvg-name="PL: POLSAT ROMANS" tvg-logo="" group-title="EU POLONIA",PL: POLSAT ROMANS
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94836
-#EXTINF:-1 tvg-ID="" tvg-name="PL: COMEDY CENTRAL HD" tvg-logo="" group-title="EU POLONIA",PL: COMEDY CENTRAL HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94837
-#EXTINF:-1 tvg-ID="" tvg-name="PL: TLC HD" tvg-logo="" group-title="EU POLONIA",PL: TLC HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94838
-#EXTINF:-1 tvg-ID="" tvg-name="PL: PARAMOUNT CHANNEL HD." tvg-logo="" group-title="EU POLONIA",PL: PARAMOUNT CHANNEL HD.
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94839
-#EXTINF:-1 tvg-ID="" tvg-name="PL: AMC" tvg-logo="" group-title="EU POLONIA",PL: AMC
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94840
-#EXTINF:-1 tvg-ID="" tvg-name="PL: TVP KULTURA" tvg-logo="" group-title="EU POLONIA",PL: TVP KULTURA
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94841
-#EXTINF:-1 tvg-ID="" tvg-name="PL: TRAVEL CHANNEL HD" tvg-logo="" group-title="EU POLONIA",PL: TRAVEL CHANNEL HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94842
-#EXTINF:-1 tvg-ID="" tvg-name="PL: TVN FABULA" tvg-logo="" group-title="EU POLONIA",PL: TVN FABULA
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94843
-#EXTINF:-1 tvg-ID="" tvg-name="PL: TVN TURBO HD" tvg-logo="" group-title="EU POLONIA",PL: TVN TURBO HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94844
-#EXTINF:-1 tvg-ID="" tvg-name="PL: ADVENTURE HD" tvg-logo="" group-title="EU POLONIA",PL: ADVENTURE HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94845
-#EXTINF:-1 tvg-ID="" tvg-name="PL: DA VINCI" tvg-logo="" group-title="EU POLONIA",PL: DA VINCI
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94846
-#EXTINF:-1 tvg-ID="" tvg-name="PL: FOOD NETWORK HD" tvg-logo="" group-title="EU POLONIA",PL: FOOD NETWORK HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94847
-#EXTINF:-1 tvg-ID="" tvg-name="PL: DOMO   HD" tvg-logo="" group-title="EU POLONIA",PL: DOMO   HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94848
-#EXTINF:-1 tvg-ID="" tvg-name="PL: DTX" tvg-logo="" group-title="EU POLONIA",PL: DTX
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94849
-#EXTINF:-1 tvg-ID="" tvg-name="===== PL GENERAL =====" tvg-logo="" group-title="EU POLONIA",===== PL GENERAL =====
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94850
-#EXTINF:-1 tvg-ID="" tvg-name="PL: FOKUS TV" tvg-logo="" group-title="EU POLONIA",PL: FOKUS TV
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94851
-#EXTINF:-1 tvg-ID="" tvg-name="PL: KUCHNIA HD" tvg-logo="" group-title="EU POLONIA",PL: KUCHNIA HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94852
-#EXTINF:-1 tvg-ID="" tvg-name="PL: MOTOWIZJA TV HD" tvg-logo="" group-title="EU POLONIA",PL: MOTOWIZJA TV HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94853
-#EXTINF:-1 tvg-ID="" tvg-name="PL: NUTA TV" tvg-logo="" group-title="EU POLONIA",PL: NUTA TV
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94854
-#EXTINF:-1 tvg-ID="" tvg-name="PL: POWER TV" tvg-logo="" group-title="EU POLONIA",PL: POWER TV
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94855
-#EXTINF:-1 tvg-ID="" tvg-name="PL: PULS 2" tvg-logo="" group-title="EU POLONIA",PL: PULS 2
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94856
-#EXTINF:-1 tvg-ID="" tvg-name="PL: RED CARPET TV" tvg-logo="" group-title="EU POLONIA",PL: RED CARPET TV
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94857
-#EXTINF:-1 tvg-ID="" tvg-name="PL: ROMANCE TV" tvg-logo="" group-title="EU POLONIA",PL: ROMANCE TV
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94858
-#EXTINF:-1 tvg-ID="" tvg-name="PL: WP" tvg-logo="" group-title="EU POLONIA",PL: WP
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94859
-#EXTINF:-1 tvg-ID="" tvg-name="PL: ACTIVE FAMILY" tvg-logo="" group-title="EU POLONIA",PL: ACTIVE FAMILY
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94860
-#EXTINF:-1 tvg-ID="" tvg-name="PL: BBC BRIT" tvg-logo="" group-title="EU POLONIA",PL: BBC BRIT
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94861
-#EXTINF:-1 tvg-ID="" tvg-name="PL: BBC LIFESTYLE HD" tvg-logo="" group-title="EU POLONIA",PL: BBC LIFESTYLE HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94862
-#EXTINF:-1 tvg-ID="" tvg-name="PL: BBC FIRST HD" tvg-logo="" group-title="EU POLONIA",PL: BBC FIRST HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94863
-#EXTINF:-1 tvg-ID="" tvg-name="PL: COMEDY CENTRAL FAMILY" tvg-logo="" group-title="EU POLONIA",PL: COMEDY CENTRAL FAMILY
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94864
-#EXTINF:-1 tvg-ID="" tvg-name="===== PL DZIECI =====" tvg-logo="" group-title="EU POLONIA",===== PL DZIECI =====
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94865
-#EXTINF:-1 tvg-ID="" tvg-name="PL: BABY TV" tvg-logo="" group-title="EU POLONIA",PL: BABY TV
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94866
-#EXTINF:-1 tvg-ID="" tvg-name="PL: POLSAT JIM JAM" tvg-logo="" group-title="EU POLONIA",PL: POLSAT JIM JAM
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94867
-#EXTINF:-1 tvg-ID="" tvg-name="PL: BOOMERANG HD" tvg-logo="" group-title="EU POLONIA",PL: BOOMERANG HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94868
-#EXTINF:-1 tvg-ID="" tvg-name="PL: CARTOON NETWORK HD" tvg-logo="" group-title="EU POLONIA",PL: CARTOON NETWORK HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94869
-#EXTINF:-1 tvg-ID="" tvg-name="PL: DISNEY XD" tvg-logo="" group-title="EU POLONIA",PL: DISNEY XD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94870
-#EXTINF:-1 tvg-ID="" tvg-name="PL: DISNEY JUNIOR" tvg-logo="" group-title="EU POLONIA",PL: DISNEY JUNIOR
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94871
-#EXTINF:-1 tvg-ID="" tvg-name="PL: DISNEY CHANNEL HD" tvg-logo="" group-title="EU POLONIA",PL: DISNEY CHANNEL HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94872
-#EXTINF:-1 tvg-ID="" tvg-name="PL: NICK JR" tvg-logo="" group-title="EU POLONIA",PL: NICK JR
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94873
-#EXTINF:-1 tvg-ID="" tvg-name="PL: NICKELODEON" tvg-logo="" group-title="EU POLONIA",PL: NICKELODEON
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94874
-#EXTINF:-1 tvg-ID="" tvg-name="PL: NICKTOONS HD" tvg-logo="" group-title="EU POLONIA",PL: NICKTOONS HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94875
-#EXTINF:-1 tvg-ID="" tvg-name="PL: TELETOON  HD" tvg-logo="" group-title="EU POLONIA",PL: TELETOON  HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94876
-#EXTINF:-1 tvg-ID="" tvg-name="PL: MINIMINI  HD" tvg-logo="" group-title="EU POLONIA",PL: MINIMINI  HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94877
-#EXTINF:-1 tvg-ID="" tvg-name="PL: BBC CBEEBIES" tvg-logo="" group-title="EU POLONIA",PL: BBC CBEEBIES
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94878
-#EXTINF:-1 tvg-ID="" tvg-name="PL: POLSAT GAMES" tvg-logo="" group-title="EU POLONIA",PL: POLSAT GAMES
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94879
-#EXTINF:-1 tvg-ID="" tvg-name="===== PL MUZYKA =====" tvg-logo="" group-title="EU POLONIA",===== PL MUZYKA =====
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94880
-#EXTINF:-1 tvg-ID="" tvg-name="PL: MTV LIVE HD" tvg-logo="" group-title="EU POLONIA",PL: MTV LIVE HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94881
-#EXTINF:-1 tvg-ID="" tvg-name="PL: VH1" tvg-logo="" group-title="EU POLONIA",PL: VH1
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94882
-#EXTINF:-1 tvg-ID="" tvg-name="PL: TVP ROZRYWKA" tvg-logo="" group-title="EU POLONIA",PL: TVP ROZRYWKA
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94883
-#EXTINF:-1 tvg-ID="" tvg-name="PL: MTV ROCKS" tvg-logo="" group-title="EU POLONIA",PL: MTV ROCKS
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94884
-#EXTINF:-1 tvg-ID="" tvg-name="PL: KINO POLSKA MUZYKA" tvg-logo="" group-title="EU POLONIA",PL: KINO POLSKA MUZYKA
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94885
-#EXTINF:-1 tvg-ID="" tvg-name="PL: MTV POLSKA HD" tvg-logo="" group-title="EU POLONIA",PL: MTV POLSKA HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94886
-#EXTINF:-1 tvg-ID="" tvg-name="PL: MTV MUSIC" tvg-logo="" group-title="EU POLONIA",PL: MTV MUSIC
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94887
-#EXTINF:-1 tvg-ID="" tvg-name="PL: ALE KINO  HD" tvg-logo="" group-title="EU POLONIA",PL: ALE KINO  HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94888
-#EXTINF:-1 tvg-ID="" tvg-name="PL: TO!TV" tvg-logo="" group-title="EU POLONIA",PL: TO!TV
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94889
-#EXTINF:-1 tvg-ID="" tvg-name="PL: TVP ABC" tvg-logo="" group-title="EU POLONIA",PL: TVP ABC
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94890
-#EXTINF:-1 tvg-ID="" tvg-name="PL: POLSAT CAFE HD" tvg-logo="" group-title="EU POLONIA",PL: POLSAT CAFE HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94891
-#EXTINF:-1 tvg-ID="" tvg-name="PL: POLSAT PLAY HD" tvg-logo="" group-title="EU POLONIA",PL: POLSAT PLAY HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94892
-#EXTINF:-1 tvg-ID="" tvg-name="PL: POLO TV" tvg-logo="" group-title="EU POLONIA",PL: POLO TV
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94893
-#EXTINF:-1 tvg-ID="" tvg-name="PL: METRO" tvg-logo="" group-title="EU POLONIA",PL: METRO
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94894
-#EXTINF:-1 tvg-ID="" tvg-name="PL: ZOOM TV" tvg-logo="" group-title="EU POLONIA",PL: ZOOM TV
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94895
-#EXTINF:-1 tvg-ID="" tvg-name="PL: NOVELA TV" tvg-logo="" group-title="EU POLONIA",PL: NOVELA TV
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94896
-#EXTINF:-1 tvg-ID="" tvg-name="PL: SUNDANCE HD" tvg-logo="" group-title="EU POLONIA",PL: SUNDANCE HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94897
-#EXTINF:-1 tvg-ID="" tvg-name="PL: TVN STYLE HD" tvg-logo="" group-title="EU POLONIA",PL: TVN STYLE HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94898
-#EXTINF:-1 tvg-ID="" tvg-name="PL: LIFETIME HD" tvg-logo="" group-title="EU POLONIA",PL: LIFETIME HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94899
-#EXTINF:-1 tvg-ID="" tvg-name="PL: HGTV HD" tvg-logo="" group-title="EU POLONIA",PL: HGTV HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94900
-#EXTINF:-1 tvg-ID="" tvg-name="PL: NOWA TV" tvg-logo="" group-title="EU POLONIA",PL: NOWA TV
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94901
-#EXTINF:-1 tvg-ID="" tvg-name="PL: TV OKAZJE" tvg-logo="" group-title="EU POLONIA",PL: TV OKAZJE
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94902
-#EXTINF:-1 tvg-ID="" tvg-name="PL: CBS REALITY" tvg-logo="" group-title="EU POLONIA",PL: CBS REALITY
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94903
-#EXTINF:-1 tvg-ID="" tvg-name="PL: EPIC DRAMA HD" tvg-logo="" group-title="EU POLONIA",PL: EPIC DRAMA HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94904
-#EXTINF:-1 tvg-ID="" tvg-name="PL: TNT HD" tvg-logo="" group-title="EU POLONIA",PL: TNT HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94905
-#EXTINF:-1 tvg-ID="" tvg-name="PL: POLSAT FILM HD" tvg-logo="" group-title="EU POLONIA",PL: POLSAT FILM HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94906
-#EXTINF:-1 tvg-ID="" tvg-name="PL: KINO TV HD" tvg-logo="" group-title="EU POLONIA",PL: KINO TV HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94907
-#EXTINF:-1 tvg-ID="" tvg-name="PL: STOPKLATKA TV" tvg-logo="" group-title="EU POLONIA",PL: STOPKLATKA TV
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94908
-#EXTINF:-1 tvg-ID="" tvg-name="PL: STARS.TV" tvg-logo="" group-title="EU POLONIA",PL: STARS.TV
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94909
-#EXTINF:-1 tvg-ID="" tvg-name="PL: 4FUN.TV" tvg-logo="" group-title="EU POLONIA",PL: 4FUN.TV
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94910
-#EXTINF:-1 tvg-ID="" tvg-name="PL: POLSAT MUSIC HD" tvg-logo="" group-title="EU POLONIA",PL: POLSAT MUSIC HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94911
-#EXTINF:-1 tvg-ID="" tvg-name="PL: VOX MUSIC TV" tvg-logo="" group-title="EU POLONIA",PL: VOX MUSIC TV
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94912
-#EXTINF:-1 tvg-ID="" tvg-name="PL: ESKA ROCK TV" tvg-logo="" group-title="EU POLONIA",PL: ESKA ROCK TV
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94913
-#EXTINF:-1 tvg-ID="" tvg-name="PL: ESKA TV EXTRA" tvg-logo="" group-title="EU POLONIA",PL: ESKA TV EXTRA
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94914
-#EXTINF:-1 tvg-ID="" tvg-name="===== PL KULTURA =====" tvg-logo="" group-title="EU POLONIA",===== PL KULTURA =====
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94915
-#EXTINF:-1 tvg-ID="" tvg-name="PL: NAT GEO PEOPLE HD" tvg-logo="" group-title="EU POLONIA",PL: NAT GEO PEOPLE HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94916
-#EXTINF:-1 tvg-ID="" tvg-name="PL: ANIMAL PLANET HD" tvg-logo="" group-title="EU POLONIA",PL: ANIMAL PLANET HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94917
-#EXTINF:-1 tvg-ID="" tvg-name="PL: PLANETE   HD" tvg-logo="" group-title="EU POLONIA",PL: PLANETE   HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94918
-#EXTINF:-1 tvg-ID="" tvg-name="PL: CI POLSAT HD" tvg-logo="" group-title="EU POLONIA",PL: CI POLSAT HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94919
-#EXTINF:-1 tvg-ID="" tvg-name="PL: HISTORY HD" tvg-logo="" group-title="EU POLONIA",PL: HISTORY HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94920
-#EXTINF:-1 tvg-ID="" tvg-name="PL: ID HD" tvg-logo="" group-title="EU POLONIA",PL: ID HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94921
-#EXTINF:-1 tvg-ID="" tvg-name="PL: TVP HISTORIA" tvg-logo="" group-title="EU POLONIA",PL: TVP HISTORIA
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94922
-#EXTINF:-1 tvg-ID="" tvg-name="PL: BBC EARTH HD" tvg-logo="" group-title="EU POLONIA",PL: BBC EARTH HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94923
-#EXTINF:-1 tvg-ID="" tvg-name="PL: H2 HD" tvg-logo="" group-title="EU POLONIA",PL: H2 HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94924
-#EXTINF:-1 tvg-ID="" tvg-name="PL: POLSAT DOKU HD" tvg-logo="" group-title="EU POLONIA",PL: POLSAT DOKU HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94925
-#EXTINF:-1 tvg-ID="" tvg-name="PL: DISCOVERY SCIENCE HD" tvg-logo="" group-title="EU POLONIA",PL: DISCOVERY SCIENCE HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94926
-#EXTINF:-1 tvg-ID="" tvg-name="PL: DISCOVERY HD" tvg-logo="" group-title="EU POLONIA",PL: DISCOVERY HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94927
-#EXTINF:-1 tvg-ID="" tvg-name="PL: DISCOVERY LIFE HD" tvg-logo="" group-title="EU POLONIA",PL: DISCOVERY LIFE HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94928
-#EXTINF:-1 tvg-ID="" tvg-name="PL: DISCOVERY HISTORIA" tvg-logo="" group-title="EU POLONIA",PL: DISCOVERY HISTORIA
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94929
-#EXTINF:-1 tvg-ID="" tvg-name="PL: DISCO POLO MUSIC" tvg-logo="" group-title="EU POLONIA",PL: DISCO POLO MUSIC
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94930
-#EXTINF:-1 tvg-ID="" tvg-name="PL: 4FUN GOLD HITS" tvg-logo="" group-title="EU POLONIA",PL: 4FUN GOLD HITS
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94931
-#EXTINF:-1 tvg-ID="" tvg-name="PL: 4FUN DANCE" tvg-logo="" group-title="EU POLONIA",PL: 4FUN DANCE
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94932
-#EXTINF:-1 tvg-ID="" tvg-name="PL: POLSAT VIASAT EXPLORE HD" tvg-logo="" group-title="EU POLONIA",PL: POLSAT VIASAT EXPLORE HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94933
-#EXTINF:-1 tvg-ID="" tvg-name="PL: NAT GEO WILD" tvg-logo="" group-title="EU POLONIA",PL: NAT GEO WILD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94934
-#EXTINF:-1 tvg-ID="" tvg-name="PL: WATER PLANET" tvg-logo="" group-title="EU POLONIA",PL: WATER PLANET
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94935
-#EXTINF:-1 tvg-ID="" tvg-name="PL: POLSAT VIASAT HISTORY HD" tvg-logo="" group-title="EU POLONIA",PL: POLSAT VIASAT HISTORY HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94936
-#EXTINF:-1 tvg-ID="" tvg-name="PL: POLSAT VIASAT NATURE HD" tvg-logo="" group-title="EU POLONIA",PL: POLSAT VIASAT NATURE HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94937
-#EXTINF:-1 tvg-ID="" tvg-name="PL: NATIONAL GEO" tvg-logo="" group-title="EU POLONIA",PL: NATIONAL GEO
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94938
-#EXTINF:-1 tvg-ID="" tvg-name="PL: CRIME AND INVESTIGATION HD" tvg-logo="" group-title="EU POLONIA",PL: CRIME AND INVESTIGATION HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94939
-#EXTINF:-1 tvg-ID="" tvg-name="===== PL SPORT =====" tvg-logo="" group-title="EU POLONIA",===== PL SPORT =====
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94940
-#EXTINF:-1 tvg-ID="" tvg-name="PL: POLSAT SPORT EXTRA HD" tvg-logo="" group-title="EU POLONIA",PL: POLSAT SPORT EXTRA HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94941
-#EXTINF:-1 tvg-ID="" tvg-name="PL: POLSAT SPORT FIGHT HD" tvg-logo="" group-title="EU POLONIA",PL: POLSAT SPORT FIGHT HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94942
-#EXTINF:-1 tvg-ID="" tvg-name="PL: CANAL  SPORT HD" tvg-logo="" group-title="EU POLONIA",PL: CANAL  SPORT HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94943
-#EXTINF:-1 tvg-ID="" tvg-name="PL: CANAL  SPORT 2 HD" tvg-logo="" group-title="EU POLONIA",PL: CANAL  SPORT 2 HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94944
-#EXTINF:-1 tvg-ID="" tvg-name="PL: CANAL  SPORT 3 HD" tvg-logo="" group-title="EU POLONIA",PL: CANAL  SPORT 3 HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94945
-#EXTINF:-1 tvg-ID="" tvg-name="PL: CANAL  SPORT 4 HD" tvg-logo="" group-title="EU POLONIA",PL: CANAL  SPORT 4 HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94946
-#EXTINF:-1 tvg-ID="" tvg-name="PL: NSPORT" tvg-logo="" group-title="EU POLONIA",PL: NSPORT
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94947
-#EXTINF:-1 tvg-ID="" tvg-name="PL: SPORT KLUB HD" tvg-logo="" group-title="EU POLONIA",PL: SPORT KLUB HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94948
-#EXTINF:-1 tvg-ID="" tvg-name="PL: EUROSPORT 1 HD" tvg-logo="" group-title="EU POLONIA",PL: EUROSPORT 1 HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94949
-#EXTINF:-1 tvg-ID="" tvg-name="PL: EUROSPORT 2 HD" tvg-logo="" group-title="EU POLONIA",PL: EUROSPORT 2 HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94950
-#EXTINF:-1 tvg-ID="" tvg-name="PL: POLSAT SPORT HD" tvg-logo="" group-title="EU POLONIA",PL: POLSAT SPORT HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94951
-#EXTINF:-1 tvg-ID="" tvg-name="PL: EXTREME SPORTS HD" tvg-logo="" group-title="EU POLONIA",PL: EXTREME SPORTS HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94952
-#EXTINF:-1 tvg-ID="" tvg-name="PL: POLSAT SPORT PREM. 1 HD" tvg-logo="" group-title="EU POLONIA",PL: POLSAT SPORT PREM. 1 HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94953
-#EXTINF:-1 tvg-ID="" tvg-name="PL: POLSAT SPORT PREM. 2 HD" tvg-logo="" group-title="EU POLONIA",PL: POLSAT SPORT PREM. 2 HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94954
-#EXTINF:-1 tvg-ID="" tvg-name="PL: POLSAT SPORT PREM. 3 HD" tvg-logo="" group-title="EU POLONIA",PL: POLSAT SPORT PREM. 3 HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94955
-#EXTINF:-1 tvg-ID="" tvg-name="PL: POLSAT SPORT PREM. 4 HD" tvg-logo="" group-title="EU POLONIA",PL: POLSAT SPORT PREM. 4 HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94956
-#EXTINF:-1 tvg-ID="" tvg-name="PL: POLSAT SPORT PREM. 5 HD" tvg-logo="" group-title="EU POLONIA",PL: POLSAT SPORT PREM. 5 HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94957
-#EXTINF:-1 tvg-ID="" tvg-name="PL: POLSAT SPORT PREM. 6 HD" tvg-logo="" group-title="EU POLONIA",PL: POLSAT SPORT PREM. 6 HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94958
-#EXTINF:-1 tvg-ID="" tvg-name="PL: ELEVENSPORT 1 HD" tvg-logo="" group-title="EU POLONIA",PL: ELEVENSPORT 1 HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94959
-#EXTINF:-1 tvg-ID="" tvg-name="PL: ELEVENSPORT 2 HD" tvg-logo="" group-title="EU POLONIA",PL: ELEVENSPORT 2 HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94960
-#EXTINF:-1 tvg-ID="" tvg-name="PL: ELEVENSPORT 3 HD" tvg-logo="" group-title="EU POLONIA",PL: ELEVENSPORT 3 HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94961
-#EXTINF:-1 tvg-ID="" tvg-name="PL: ELEVENSPORT 4 HD" tvg-logo="" group-title="EU POLONIA",PL: ELEVENSPORT 4 HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94962
-#EXTINF:-1 tvg-ID="" tvg-name="PL: GOLF CHANNEL" tvg-logo="" group-title="EU POLONIA",PL: GOLF CHANNEL
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94963
-#EXTINF:-1 tvg-ID="" tvg-name="PL: FIGHTBOX HD" tvg-logo="" group-title="EU POLONIA",PL: FIGHTBOX HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94964
-#EXTINF:-1 tvg-ID="" tvg-name="PL: FIGHTKLUB HD" tvg-logo="" group-title="EU POLONIA",PL: FIGHTKLUB HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94965
-#EXTINF:-1 tvg-ID="" tvg-name="PL: PPV KSW FIGHTS (LIVE ON MATCHES)" tvg-logo="" group-title="EU POLONIA",PL: PPV KSW FIGHTS (LIVE ON MATCHES)
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94966
-#EXTINF:-1 tvg-ID="" tvg-name="PL: TVP SPORT HD" tvg-logo="" group-title="EU POLONIA",PL: TVP SPORT HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94967
-#EXTINF:-1 tvg-ID="" tvg-name="PL: POLSAT SPORT NEWS HD" tvg-logo="" group-title="EU POLONIA",PL: POLSAT SPORT NEWS HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94968
-#EXTINF:-1 tvg-ID="" tvg-name="===== PL INFORMACJA =====" tvg-logo="" group-title="EU POLONIA",===== PL INFORMACJA =====
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94969
-#EXTINF:-1 tvg-ID="" tvg-name="PL: TVN 24 HD" tvg-logo="" group-title="EU POLONIA",PL: TVN 24 HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94970
-#EXTINF:-1 tvg-ID="" tvg-name="PL: TVN24 BIS HD" tvg-logo="" group-title="EU POLONIA",PL: TVN24 BIS HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94971
-#EXTINF:-1 tvg-ID="" tvg-name="PL: POLSAT NEWS HD" tvg-logo="" group-title="EU POLONIA",PL: POLSAT NEWS HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94972
-#EXTINF:-1 tvg-ID="" tvg-name="PL: POLSAT NEWS 2" tvg-logo="" group-title="EU POLONIA",PL: POLSAT NEWS 2
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94973
-#EXTINF:-1 tvg-ID="" tvg-name="PL: SUPERSTACJA" tvg-logo="" group-title="EU POLONIA",PL: SUPERSTACJA
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94974
-#EXTINF:-1 tvg-ID="" tvg-name="PL: TV REPUBLIKA" tvg-logo="" group-title="EU POLONIA",PL: TV REPUBLIKA
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94975
-#EXTINF:-1 tvg-ID="" tvg-name="PL: WPOLSCE.PL" tvg-logo="" group-title="EU POLONIA",PL: WPOLSCE.PL
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94976
-#EXTINF:-1 tvg-ID="" tvg-name="PL: ESKA TV" tvg-logo="" group-title="EU POLONIA",PL: ESKA TV
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94977
-#EXTINF:-1 tvg-ID="" tvg-name="PL: TVP INFO HD" tvg-logo="" group-title="EU POLONIA",PL: TVP INFO HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94978
-#EXTINF:-1 tvg-ID="" tvg-name="PL: STUDIOMED TV HD" tvg-logo="" group-title="EU POLONIA",PL: STUDIOMED TV HD
-http://mitvpro.net:25461/oPatSQrPqmYSmPB/bXgsk9B2RC/94979
+#EXTINF:-1,PL: Discovery Historia HD
+http://tvlatina.homeip.net:25461/vVMcCaxqKL/WCxldAZWJu/3953
+#EXTINF:-1,PL: Discovery Life HD
+http://tvlatina.homeip.net:25461/vVMcCaxqKL/WCxldAZWJu/3965
+#EXTINF:-1,PL: DISNEY
+http://tvlatina.homeip.net:25461/vVMcCaxqKL/WCxldAZWJu/3946
+#EXTINF:-1,PL: Disney Junior
+http://tvlatina.homeip.net:25461/vVMcCaxqKL/WCxldAZWJu/3966
+#EXTINF:-1,PL: Disney XD
+http://tvlatina.homeip.net:25461/vVMcCaxqKL/WCxldAZWJu/3967
+#EXTINF:-1,PL: Eleven Sports 2 FHD
+http://tvlatina.homeip.net:25461/vVMcCaxqKL/WCxldAZWJu/3968
+#EXTINF:-1,PL: Eleven Sports 3 FHD
+http://tvlatina.homeip.net:25461/vVMcCaxqKL/WCxldAZWJu/3969
+#EXTINF:-1,PL: Eleven Sports 4 HD
+http://tvlatina.homeip.net:25461/vVMcCaxqKL/WCxldAZWJu/3970
+#EXTINF:-1,PL: ELEVEN SPORTS HD
+http://tvlatina.homeip.net:25461/vVMcCaxqKL/WCxldAZWJu/3947
+#EXTINF:-1,PL: Filmbox Action
+http://tvlatina.homeip.net:25461/vVMcCaxqKL/WCxldAZWJu/3958
+#EXTINF:-1,PL: MiniMini  HD
+http://tvlatina.homeip.net:25461/vVMcCaxqKL/WCxldAZWJu/3971
+#EXTINF:-1,PL: NAT GEO WILD
+http://tvlatina.homeip.net:25461/vVMcCaxqKL/WCxldAZWJu/3948
+#EXTINF:-1,PL: POLSAT 2
+http://tvlatina.homeip.net:25461/vVMcCaxqKL/WCxldAZWJu/3949
+#EXTINF:-1,PL: Polsat Cafe HD 1080P
+http://tvlatina.homeip.net:25461/vVMcCaxqKL/WCxldAZWJu/3959
+#EXTINF:-1,PL: Polsat Film HD 1080P
+http://tvlatina.homeip.net:25461/vVMcCaxqKL/WCxldAZWJu/3960
+#EXTINF:-1,PL: Polsat HD
+http://tvlatina.homeip.net:25461/vVMcCaxqKL/WCxldAZWJu/3961
+#EXTINF:-1,PL: Polsat Music FHD
+http://tvlatina.homeip.net:25461/vVMcCaxqKL/WCxldAZWJu/3972
+#EXTINF:-1,PL: Polsat News
+http://tvlatina.homeip.net:25461/vVMcCaxqKL/WCxldAZWJu/3955
+#EXTINF:-1,PL: TVN
+http://tvlatina.homeip.net:25461/vVMcCaxqKL/WCxldAZWJu/4003
+#EXTINF:-1,PL: TVN 24
+http://tvlatina.homeip.net:25461/vVMcCaxqKL/WCxldAZWJu/3950
+#EXTINF:-1,PL: Tvn Fabula HD
+http://tvlatina.homeip.net:25461/vVMcCaxqKL/WCxldAZWJu/3956
+#EXTINF:-1,PL: Tvn Style
+http://tvlatina.homeip.net:25461/vVMcCaxqKL/WCxldAZWJu/3957
+#EXTINF:-1,PL: TVP 1 HD
+http://tvlatina.homeip.net:25461/vVMcCaxqKL/WCxldAZWJu/3951
+#EXTINF:-1,PL: TVP 2
+http://tvlatina.homeip.net:25461/vVMcCaxqKL/WCxldAZWJu/4005
+#EXTINF:-1,PL: TVP HD
+http://tvlatina.homeip.net:25461/vVMcCaxqKL/WCxldAZWJu/3952
+#EXTINF:-1,PL: TVP INFO
+http://tvlatina.homeip.net:25461/vVMcCaxqKL/WCxldAZWJu/3963
+#EXTINF:-1,PL: TVP Polonia
+http://tvlatina.homeip.net:25461/vVMcCaxqKL/WCxldAZWJu/3964
