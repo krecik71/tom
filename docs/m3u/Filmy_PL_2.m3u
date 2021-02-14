@@ -1,7 +1,12 @@
 GoVod.tv
 
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/malcolm-marie-2021.jpg", Malcolm & Marie (2021)
+https://vodcdn.internetowa.tv/storage-2/Malcolm-Marie-2021-Lektor-PL-1080p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/space-sweepers-2021.jpg", Space Sweepers (2021)
+https://vodcdn.internetowa.tv/storage-2/Space-Sweepers-2021-Lektor-PL-1080p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/skazani-na-siebie-2021.jpg", Skazani na siebie (2021)
+https://vodcdn2.internetowa.tv/storage-2/Locked-Down-2021-Lektor-PL-1080p.mp4/index.m3u8
 #EXTINF:-1, Tajemnica Henriego Picka
 https://datacenter1.govod.tv/Le-Mystere-Henri-Pick-Tajemnica-Henriego-Picka-2019-Lektor-PL.mp4/index.m3u8
 
