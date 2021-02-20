@@ -134,9 +134,9 @@ preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
 adult="no"
 description=" tomiptv KODI 18"
 
-name="UPDATE_tomiptvd"
+name="UPDATE_tomiptv2"
 version="0.0.1"
-url="http://tom122.webd.pro/18/UPDATE_TOMIPTVD.zip"
+url="http://tom122.webd.pro/18/UPDATE_TOMIPTV2.zip"
 gui="http://"   -
 kodi="18.8"
 theme=""
