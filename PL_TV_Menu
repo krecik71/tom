@@ -33,7 +33,7 @@
 <channel> 
 <name>[B] TV4 [/B]</name> 
 <thumbnail>https://raw.githubusercontent.com/krecik71/tom/master/docs/png/TVPL.png</thumbnail> 
-<externallink><favourite name="[COLOR FF00c100][B]tv4[/B][/COLOR]" thumb="http://findicons.com/files/icons/1331/matrix_rebooted/128/text_clipping_file.png">ActivateWindow(10502,&quot;plugin://plugin.video.kodilivetv/?description&amp;iconimage=http%3a%2f%2ffindicons.com%2ffiles%2ficons%2f1331%2fmatrix_rebooted%2f128%2ftext_clipping_file.png&amp;mode=4&amp;name=%5bCOLOR%20FF00c100%5d%5bB%5dtv4%5b%2fB%5d%5b%2fCOLOR%5d&amp;url=https%3a%2f%2fraw.githubusercontent.com%2fkrecik71%2ftom%2fmaster%2fdocs%2fm3u%2fTV4.m3u&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.kodilivetv%5Cfanart.jpg%26meta%3Dlabel%253D%25255BCOLOR%252BFF00c100%25255D%25255BB%25255Dtv4%25255B%25252FB%25255D%25255B%25252FCOLOR%25255D%26_options_sf&quot;,return)</favourite></externallink> 
+<externallink>https://raw.githubusercontent.com/krecik71/tom/master/docs/m3u/TV3.m3u</externallink> 
 <fanart>https://raw.githubusercontent.com/krecik71/tom/master/docs/png/TVPL.png</fanart> 
 <info></info> 
 </channel>
