@@ -1,4 +1,53 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://epg.ovh/logo/TVP+1+HD.png", TVP 1 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/0e3ce78c45ac09c.ts|User-Agent=1m3u8
+#EXTINF:-1 tvg-logo="http://epg.ovh/logo/TVP+2+HD.png", TVP 2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/d885cdb894230cc.ts|User-Agent=1m3u8
+#EXTINF:-1 tvg-logo="http://epg.ovh/logo/Polsat+News.png", POLSAT NEWS
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/479465a0013dbd5.ts|User-Agent=1m3u8
+#EXTINF:-1 tvg-logo="http://epg.ovh/logo/Polsat+Film+HD.png", POLSAT FILM
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/0ee5f11808ba186.ts|User-Agent=1m3u8
+#EXTINF:-1 tvg-logo="http://epg.ovh/logo/Polsat+Cafe.png", POLSAT CAFE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/a1bc086a56fd7d4.ts|User-Agent=1m3u8
+#EXTINF:-1 tvg-logo="http://epg.ovh/logo/Polsat+Playa.png", POLSAT PLAY
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/cf931d1858d4311.ts|User-Agent=1m3u8
+#EXTINF:-1 tvg-logo="http://epg.ovh/logo/Polsat+1.png", POLSAT 1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/03a1320698f46a8.ts|User-Agent=1m3u8
+#EXTINF:-1 tvg-logo="http://epg.ovh/logo/Polsat+2.png", POLSAT 2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/46b0a1f88abc766.ts|User-Agent=1m3u8
+#EXTINF:-1 tvg-logo="http://epg.ovh/logo/FilmBox+Action.png", FILMBOX ACTION
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Poland/6410891af923daa.ts|User-Agent=1m3u8
+#EXTINF:-1 tvg-logo="http://epg.ovh/logo/Filmbox+Premium.png", FILMBOX PREMIUM
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/9833bb9807a2d3f.ts|User-Agent=1m3u8
+#EXTINF:-1 tvg-logo="http://epg.ovh/logo/MTV+Polska.png", MTV PL
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/5bda641ac394cf5.ts|User-Agent=1m3u8
+#EXTINF:-1 tvg-logo="http://epg.ovh/logo/POLSAT+ROMANS1.png", POLSAT ROMANS
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/9edd07d1fc195c3.ts|User-Agent=1m3u8
+#EXTINF:-1 tvg-logo="http://epg.ovh/logo/AXN.png", AXN POLAND
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/afe53ddb8a88514.ts|User-Agent=1m3u8
+#EXTINF:-1 tvg-logo="http://epg.ovh/logo/BBC+Earth.png", BBC EARTH POLAND
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/e5f48eb6de1710c.ts|User-Agent=1m3u8
+#EXTINF:-1 tvg-logo="http://epg.ovh/logo/Discovery+Channel.png", DISCOVERY POLAND
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/5d90de9dd4ff289.ts|User-Agent=1m3u8
+#EXTINF:-1 tvg-logo="http://epg.ovh/logo/Discovery+Science.png", DISCOVERY SCI POLAND
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/e680891844525d2.ts|User-Agent=1m3u8
+#EXTINF:-1 tvg-logo="http://epg.ovh/logo/Eleven+Sports+1.png", ELEVEN SPORTS 1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/d1cbd735fd35705.ts|User-Agent=1m3u8
+#EXTINF:-1 tvg-logo="http://epg.ovh/logo/Eleven+Sports+2.png", ELEVEN SPORTS 2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/0c8a3c6be03379c.ts|User-Agent=1m3u8
+#EXTINF:-1 tvg-logo="http://epg.ovh/logo/National+Geographic+Channel.png", NAT GEO POLAND
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/9b5adba96529771.ts|User-Agent=1m3u8
+#EXTINF:-1 tvg-logo="http://epg.ovh/logo/Nat+Geo+Wild.png", NAT GEO WILD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/8298be9eba6abb6.ts|User-Agent=1m3u8
+#EXTINF:-1 tvg-logo="http://epg.ovh/logo/Nickelodeon.png", NICKLODEON
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/454dba3ef5829a2.ts|User-Agent=1m3u8
+#EXTINF:-1 tvg-logo="http://epg.ovh/logo/History.png", HISTORY TV
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/9b245c1c1972789.ts|User-Agent=1m3u8
+#EXTINF:-1 tvg-logo="http://epg.ovh/logo/BBC.png", BBC POLAND
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/282db3295e4ec33.ts|User-Agent=1m3u8
+#EXTINF:-1 tvg-logo="http://epg.ovh/logo/4FUN.TV.png", 4 FUN
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/e04dae8e62b70a0.ts|User-Agent=1m3u8
+
 #EXTINF:-1,PL: Discovery Historia HD
 http://tvlatina.homeip.net:25461/vVMcCaxqKL/WCxldAZWJu/3953
 #EXTINF:-1,PL: Discovery Life HD
