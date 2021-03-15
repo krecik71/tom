@@ -1,6 +1,6 @@
 id="plugin.program.Tom19"
 version="1.0.0"
-zip="https://github.com/krecik71/tom/raw/master/docs/plugin.program.tom-1.0.3.zip"
+zip="https://github.com/krecik71/tom/raw/master/docs/plugin.program.Tom19-1.0.0.zip"
 
 
 name="TOM WIZARD 19"
@@ -27,3 +27,18 @@ fanart="https://betanews.com/wp-content/uploads/2018/09/Kodi.jpg"
 preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
 adult="no"
 description=" TOM WIZARD TEST. Opcja Fresh lub Standard."
+
+
+name="CHERRY TV K19 LINK 1"
+version="2.1.9"
+url="https://kodihub.net/92zte"
+minor="http://"
+gui="url.to.guisettings"
+kodi="19.0"
+theme="url.to.themes"
+icon="http://cherrytv.webd.pl/FTP/cherry/K19/icon.png"
+fanart="http://cherrytv.webd.pl/FTP/cherry/K19/fanart.jpg"
+preview="https://www.youtube.com/watch?v=djV11Xbc914"
+adult="no"
+info="url.to.info"
+description="UWAGA!Instalujac czyscisz calkowicie swoja aplikacje Kodi. Niezapomnij zrobic backupu przed instalacja!"
