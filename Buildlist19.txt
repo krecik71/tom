@@ -19,7 +19,7 @@ description=" TOM WIZARD TEST. Opcja Fresh lub Standard."
 
 name="TOM WIZARD 19 LINK 2"
 version="1.0.0"
-url="https://cutt.ly/bxwFcBG"
+url="https://cutt.ly/DxwNZPG"
 gui="url.to.guisettings"   -
 kodi="19.0"
 theme="url.to.themes"
