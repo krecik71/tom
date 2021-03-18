@@ -5,27 +5,29 @@ zip="https://github.com/krecik71/tom/raw/master/docs/plugin.program.Tom19-1.0.0.
 
 name="TOM WIZARD 19"
 version="1.0.0"
-url="https://"
-gui="http://"   -
-kodi="19"
-theme=""
+url="https://cutt.ly/bxwFcBG"
+gui="url.to.guisettings"   -
+kodi="19.0"
+theme="url.to.themes"
 icon="https://raw.githubusercontent.com/krecik71/tom/master/icon.png"
 fanart="https://betanews.com/wp-content/uploads/2018/09/Kodi.jpg"
 preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
 adult="no"
+info="url.to.info"
 description=" TOM WIZARD TEST. Opcja Fresh lub Standard."
 
 
-name="TOM WIZARD 19 2 link"
+name="TOM WIZARD 19 LINK 2"
 version="1.0.0"
-url="https://"
-gui="http://"   -
-kodi="19"
-theme=""
+url="https://cutt.ly/bxwFcBG"
+gui="url.to.guisettings"   -
+kodi="19.0"
+theme="url.to.themes"
 icon="https://raw.githubusercontent.com/krecik71/tom/master/icon.png"
 fanart="https://betanews.com/wp-content/uploads/2018/09/Kodi.jpg"
 preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
 adult="no"
+info="url.to.info"
 description=" TOM WIZARD TEST. Opcja Fresh lub Standard."
 
 
