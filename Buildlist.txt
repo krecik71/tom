@@ -124,7 +124,7 @@ description="DANE autowidget  DLA TOM WIZARD   KODI 18"
 
 name="UPDATE_tomiptv"
 version="0.0.1"
-url="tom122.webd.pro/18/UPDATE_TOMIPTV.zip"
+url="http://tom122.webd.pro/18/UPDATE_TOMIPTV.zip"
 gui="http://"   -
 kodi="18.8"
 theme=""
