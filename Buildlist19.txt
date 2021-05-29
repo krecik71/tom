@@ -49,9 +49,10 @@ description="UWAGA!Instalujac czyscisz calkowicie swoja aplikacje Kodi. Niezapom
 name="tomiptv19"
 version="0.0.1"
 url="http://tom122.webd.pro/19/UPDATE_TOMIPTV19.zip"
-gui="http://"   -
+minor="http://"
+gui="url.to.guisettings"
 kodi="19.0"
-theme=""
+theme="url.to.themes"
 icon="https://raw.githubusercontent.com/krecik71/tom/master/icon.png"
 fanart="https://betanews.com/wp-content/uploads/2018/09/Kodi.jpg"
 preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
