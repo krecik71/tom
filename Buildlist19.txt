@@ -46,7 +46,7 @@ info="url.to.info"
 description="UWAGA!Instalujac czyscisz calkowicie swoja aplikacje Kodi. Niezapomnij zrobic backupu przed instalacja!"
 
 
-name="tomiptv19"
+name="UPDATE_TOMIPTV19"
 version="0.0.1"
 url="http://tom122.webd.pro/19/UPDATE_TOMIPTV19.zip"
 minor="http://"
