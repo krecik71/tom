@@ -1,105 +1,407 @@
 #EXTM3U
-#EXTINF:-1 ,Eska TV
-http://152.89.62.111:8080/kyle123/kyle123/246094
-#EXTINF:-1 ,4Fun Dance
-http://152.89.62.111:8080/kyle123/kyle123/246095
-#EXTINF:-1 ,4Fun Gold Hits
-http://152.89.62.111:8080/kyle123/kyle123/246096
-#EXTINF:-1 ,4Fun TV
-http://152.89.62.111:8080/kyle123/kyle123/246097
-#EXTINF:-1 ,Polsat Music HD
-http://152.89.62.111:8080/kyle123/kyle123/246098
-#EXTINF:-1 ,TVP HD
-http://152.89.62.111:8080/kyle123/kyle123/246104
-#EXTINF:-1 ,TVP ROZRYWKA
-http://152.89.62.111:8080/kyle123/kyle123/246105
-#EXTINF:-1 ,TVP HISTORIA
-http://152.89.62.111:8080/kyle123/kyle123/246106
-#EXTINF:-1 ,CANAL FAMILY HD
-http://152.89.62.111:8080/kyle123/kyle123/246107
-#EXTINF:-1 ,TVP INFO HD
-http://152.89.62.111:8080/kyle123/kyle123/246108
-#EXTINF:-1 ,TVP 1 HD
-http://152.89.62.111:8080/kyle123/kyle123/246109
-#EXTINF:-1 ,TVP 2 HD
-http://152.89.62.111:8080/kyle123/kyle123/246110
-#EXTINF:-1 ,TV4 HD
-http://152.89.62.111:8080/kyle123/kyle123/246111
-#EXTINF:-1 ,TVN TURBO
-http://152.89.62.111:8080/kyle123/kyle123/246112
-#EXTINF:-1 ,FOX HD
-http://152.89.62.111:8080/kyle123/kyle123/246119
-#EXTINF:-1 ,POLSAT PLAY HD
-http://152.89.62.111:8080/kyle123/kyle123/246120
-#EXTINF:-1 ,POLSAT NEWS HD
-http://152.89.62.111:8080/kyle123/kyle123/246121
-#EXTINF:-1 ,POLSAT FILM HD
-http://152.89.62.111:8080/kyle123/kyle123/246122
-#EXTINF:-1 ,POLSAT CAFE HD
-http://152.89.62.111:8080/kyle123/kyle123/246123
-#EXTINF:-1 ,FILMBOX FAMILY
-http://152.89.62.111:8080/kyle123/kyle123/246133
-#EXTINF:-1 ,FILMBOX ACTION
-http://152.89.62.111:8080/kyle123/kyle123/246135
-#EXTINF:-1 ,TVP SERIALE
-http://152.89.62.111:8080/kyle123/kyle123/246137
-#EXTINF:-1 ,TV REPUBLIKA
-http://152.89.62.111:8080/kyle123/kyle123/246145
-#EXTINF:-1 ,SUPER POLSAT HD
-http://152.89.62.111:8080/kyle123/kyle123/246146
-#EXTINF:-1 ,4 FUN TV
-http://152.89.62.111:8080/kyle123/kyle123/246148
-#EXTINF:-1 ,ANIMAL PLANET HD
-http://152.89.62.111:8080/kyle123/kyle123/246149
-#EXTINF:-1 ,AXN BLACK
-http://152.89.62.111:8080/kyle123/kyle123/246150
-#EXTINF:-1 ,AXN HD
-http://152.89.62.111:8080/kyle123/kyle123/246151
-#EXTINF:-1 ,COMEDY CENTRAL FAMILY
-http://152.89.62.111:8080/kyle123/kyle123/246160
-#EXTINF:-1 ,DA VINCI LEARNING
-http://152.89.62.111:8080/kyle123/kyle123/246161
-#EXTINF:-1 ,HISTORIA
-http://152.89.62.111:8080/kyle123/kyle123/246163
-#EXTINF:-1 ,LIFE HD
-http://152.89.62.111:8080/kyle123/kyle123/246164
-#EXTINF:-1 ,SCIENCE
-http://152.89.62.111:8080/kyle123/kyle123/246165
-#EXTINF:-1 ,FILMBOX ARTHOUSE
-http://152.89.62.111:8080/kyle123/kyle123/246170
-#EXTINF:-1 ,HBO 2 HD
-http://152.89.62.111:8080/kyle123/kyle123/246171
-#EXTINF:-1 ,HBO 3 HD
-http://152.89.62.111:8080/kyle123/kyle123/246172
-#EXTINF:-1 ,HBO HD
-http://152.89.62.111:8080/kyle123/kyle123/246173
-#EXTINF:-1 ,HISTORY HD
-http://152.89.62.111:8080/kyle123/kyle123/246174
-#EXTINF:-1 ,LIFETIME HD
-http://152.89.62.111:8080/kyle123/kyle123/246175
-#EXTINF:-1 ,MOTOWIZJA
-http://152.89.62.111:8080/kyle123/kyle123/246176
-#EXTINF:-1 ,MTV
-http://152.89.62.111:8080/kyle123/kyle123/246177
-#EXTINF:-1 ,HD
-http://152.89.62.111:8080/kyle123/kyle123/246178
-#EXTINF:-1 ,WILD
-http://152.89.62.111:8080/kyle123/kyle123/246179
-#EXTINF:-1 ,NIC
-http://152.89.62.111:8080/kyle123/kyle123/246180
-#EXTINF:-1 ,NSPO HD
-http://152.89.62.111:8080/kyle123/kyle123/246182
-#EXTINF:-1 ,PARAMOUNT CHANNEL HD
-http://152.89.62.111:8080/kyle123/kyle123/246183
-#EXTINF:-1 ,PLANETE HD
-http://152.89.62.111:8080/kyle123/kyle123/246184
-#EXTINF:-1 ,POLO TV
-http://152.89.62.111:8080/kyle123/kyle123/246185
-#EXTINF:-1 ,POLSAT DOKU HD
-http://152.89.62.111:8080/kyle123/kyle123/246186
-#EXTINF:-1 ,POLSAT JIMJAM
-http://152.89.62.111:8080/kyle123/kyle123/246187
-#EXTINF:-1 ,POLSAT NEWS 2
-http://152.89.62.111:8080/kyle123/kyle123/246188
-#EXTINF:-1 ,POLSAT ROMANS
-http://152.89.62.111:8080/kyle123/kyle123/246189
+#EXTINF:-1,PL: TVP 4K
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/71592
+#EXTINF:-1,PL: BIZNES24 FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/71200
+#EXTINF:-1,PL: Novelas+ FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/70179
+#EXTINF:-1,PL: TVP 1
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12585
+#EXTINF:-1,PL: TVP 1 FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10261
+#EXTINF:-1,PL: TVP 2
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12586
+#EXTINF:-1,PL: TVP 2 FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10260
+#EXTINF:-1,PL: TVP 3
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12941
+#EXTINF:-1,PL: TVP ABC
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10140
+#EXTINF:-1,PL: TVP FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10093
+#EXTINF:-1,PL: TVP Historia
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12007
+#EXTINF:-1,PL: TVP INFO FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12587
+#EXTINF:-1,PL: TVP Kultura
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10092
+#EXTINF:-1,PL: TVP POLONIA 1
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/35367
+#EXTINF:-1,PL: TVP Rozrywka
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10076
+#EXTINF:-1,PL: TVP Seriale FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10091
+#EXTINF:-1,PL: TVP Sport FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11650
+#EXTINF:-1,PL: 13 Ulica FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11582
+#EXTINF:-1,PL: 4Fun Dance
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11660
+#EXTINF:-1,PL: 4Fun Gold Hits
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11659
+#EXTINF:-1,PL: 4Fun.TV
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12023
+#EXTINF:-1,PL: Active Family
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/43646
+#EXTINF:-1,PL: ADVENTURE FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10138
+#EXTINF:-1,PL: Ale Kino+ FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10111
+#EXTINF:-1,PL: AMC FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12942
+#EXTINF:-1,PL: Animal Planet FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10105
+#EXTINF:-1,PL: AXN
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10118
+#EXTINF:-1,PL: AXN Black
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10117
+#EXTINF:-1,PL: AXN FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12055
+#EXTINF:-1,PL: AXN SPIN FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10104
+#EXTINF:-1,PL: AXN White
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10116
+#EXTINF:-1,PL: Baby Tv
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/17400
+#EXTINF:-1,PL: BBC BRIT
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/17846
+#EXTINF:-1,PL: BBC CBeebies
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12944
+#EXTINF:-1,PL: BBC Earth FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11655
+#EXTINF:-1,PL: BBC FIRST HD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11687
+#EXTINF:-1,PL: BBC LIFESTYLE FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/17847
+#EXTINF:-1,PL: Boomerang FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11665
+#EXTINF:-1,PL: CANAL+ 1 FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/25361
+#EXTINF:-1,PL: CANAL+ 4K ULTRA HD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/42335
+#EXTINF:-1,PL: CANAL+ DOKUMENT FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/44178
+#EXTINF:-1,PL: CANAL+ FAMILY FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10110
+#EXTINF:-1,PL: CANAL+ FILM HD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10109
+#EXTINF:-1,PL: Canal+ Now FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/66424
+#EXTINF:-1,PL: Canal+ Premium FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10142
+#EXTINF:-1,PL: CANAL+ SERIALE FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10108
+#EXTINF:-1,PL: CANAL+ SPORT 2 FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10103
+#EXTINF:-1,PL: CANAL+ SPORT 3 FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/42333
+#EXTINF:-1,PL: CANAL+ SPORT 4 FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/42334
+#EXTINF:-1,PL: CANAL+ SPORT FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11584
+#EXTINF:-1,PL: Cartoon Network FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11585
+#EXTINF:-1,PL: CBS Europa FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11586
+#EXTINF:-1,PL: CBS Reality FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10102
+#EXTINF:-1,PL: Cinemax 2 FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12056
+#EXTINF:-1,PL: Cinemax FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10101
+#EXTINF:-1,PL: Comedy Central FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11645
+#EXTINF:-1,PL: Comedy Central Family
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12009
+#EXTINF:-1,PL: Comedy Central Poland FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12010
+#EXTINF:-1,PL: Crime and Investigation FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/18248
+#EXTINF:-1,PL: Da Vinci Learning
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10085
+#EXTINF:-1,PL: Disco Polo Music
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12037
+#EXTINF:-1,PL: Discovery FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12021
+#EXTINF:-1,PL: Discovery Historia
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10143
+#EXTINF:-1,PL: Discovery Life FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10070
+#EXTINF:-1,PL: Discovery Science FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10084
+#EXTINF:-1,PL: Disney Channel FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10120
+#EXTINF:-1,PL: Disney Junior
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11587
+#EXTINF:-1,PL: Disney XD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10088
+#EXTINF:-1,PL: DOMO+ FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/13786
+#EXTINF:-1,PL: DTX FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12024
+#EXTINF:-1,PL: E! Entertainment FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11588
+#EXTINF:-1,PL: Eleven Sports 1 FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10144
+#EXTINF:-1,PL: Eleven Sports 2 FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10145
+#EXTINF:-1,PL: Eleven Sports 3 FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10146
+#EXTINF:-1,PL: Eleven Sports 4 FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12597
+#EXTINF:-1,PL: Epic Drama FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/25360
+#EXTINF:-1,PL: ESKA ROCK TV
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/44181
+#EXTINF:-1,PL: Eska TV
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11658
+#EXTINF:-1,PL: ESKA TV Extra
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12039
+#EXTINF:-1,PL: Eurosport 1
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10087
+#EXTINF:-1,PL: Eurosport 1 FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11589
+#EXTINF:-1,PL: Eurosport 2 FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11590
+#EXTINF:-1,PL: Extreme Sports FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11591
+#EXTINF:-1,PL: Fightbox FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11592
+#EXTINF:-1,PL: Fightklub FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/44182
+#EXTINF:-1,PL: Filmbox Action
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10099
+#EXTINF:-1,PL: Filmbox Arthouse
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10081
+#EXTINF:-1,PL: FILMBOX EXTRA FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11593
+#EXTINF:-1,PL: Filmbox Family
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10098
+#EXTINF:-1,PL: Filmbox Premium FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10097
+#EXTINF:-1,PL: FOKUS TV FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11637
+#EXTINF:-1,PL: Food Network FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12040
+#EXTINF:-1,PL: Fox Comedy
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12041
+#EXTINF:-1,PL: Fox Comedy FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11609
+#EXTINF:-1,PL: FOX FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11610
+#EXTINF:-1,PL: Golf Channel FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11594
+#EXTINF:-1,PL: H2 FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11595
+#EXTINF:-1,PL: HBO 2 FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10149
+#EXTINF:-1,PL: HBO 3 FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10148
+#EXTINF:-1,PL: HBO FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11596
+#EXTINF:-1,PL: HGTV HD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10137
+#EXTINF:-1,PL: History
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10080
+#EXTINF:-1,PL: History FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11654
+#EXTINF:-1,PL: ID FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12036
+#EXTINF:-1,PL: KINO POLSKA FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11612
+#EXTINF:-1,PL: Kino Polska Muzyka
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12032
+#EXTINF:-1,PL: Kino Tv FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10100
+#EXTINF:-1,PL: Kuchnia+ FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10107
+#EXTINF:-1,PL: Lifetime FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11597
+#EXTINF:-1,PL: Metro
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12025
+#EXTINF:-1,PL: MiniMini FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11598
+#EXTINF:-1,PL: MOTOWIZJA FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12939
+#EXTINF:-1,PL: MTV Live FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12011
+#EXTINF:-1,PL: MTV MUSIC
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/44180
+#EXTINF:-1,PL: MTV POLSKA
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12004
+#EXTINF:-1,PL: MTV Polska FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12012
+#EXTINF:-1,PL: MTV ROCKS
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/44179
+#EXTINF:-1,PL: Nat Geo People FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10867
+#EXTINF:-1,PL: Nat Geo Wild FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10096
+#EXTINF:-1,PL: NATIONAL GEOGRAPHIC FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11599
+#EXTINF:-1,PL: Nick Jr Polska
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12013
+#EXTINF:-1,PL: Nickelodeon
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12014
+#EXTINF:-1,PL: Nicktoons FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/45576
+#EXTINF:-1,PL: Novela Tv
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/49244
+#EXTINF:-1,PL: NOWA TV FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11670
+#EXTINF:-1,PL: nsport+ FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11685
+#EXTINF:-1,PL: Nuta TV
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11656
+#EXTINF:-1,PL: Paramount Channel FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12016
+#EXTINF:-1,PL: Planete+ FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10106
+#EXTINF:-1,PL: Polo TV
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12042
+#EXTINF:-1,PL: Polonia
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/13518
+#EXTINF:-1,PL: Polsat 2 FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10136
+#EXTINF:-1,PL: Polsat Cafe FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10135
+#EXTINF:-1,PL: Polsat Comedy Central Extra FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/57395
+#EXTINF:-1,PL: Polsat Doku FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12057
+#EXTINF:-1,PL: Polsat Film FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11613
+#EXTINF:-1,PL: Polsat Games FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/25037
+#EXTINF:-1,PL: Polsat FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11614
+#EXTINF:-1,PL: Polsat Jim Jam
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11664
+#EXTINF:-1,PL: Polsat Music FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11661
+#EXTINF:-1,PL: Polsat News 2
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11683
+#EXTINF:-1,PL: Polsat News FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10132
+#EXTINF:-1,PL: Polsat Play FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10131
+#EXTINF:-1,PL: Polsat Rodzina FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/25036
+#EXTINF:-1,PL: Polsat Seriale FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/66433
+#EXTINF:-1,PL: Polsat Sport Extra FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12058
+#EXTINF:-1,PL: Polsat Sport Fight FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11600
+#EXTINF:-1,PL: Polsat Sport FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12003
+#EXTINF:-1,PL: Polsat Sport News FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11601
+#EXTINF:-1,PL: Polsat Sport Premium 1 FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/35775
+#EXTINF:-1,PL: Polsat Sport Premium 1 SD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/17052
+#EXTINF:-1,PL: Polsat Sport Premium 2 FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/35774
+#EXTINF:-1,PL: Polsat Sport Premium 3 FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/35773
+#EXTINF:-1,PL: Polsat Sport Premium 4 FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/35772
+#EXTINF:-1,PL: Polsat Sport Premium 5 FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/35771
+#EXTINF:-1,PL: Polsat Sport Premium 6 FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/35770
+#EXTINF:-1,PL: Polsat Viasat Explore FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10115
+#EXTINF:-1,PL: Polsat Viasat History FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12059
+#EXTINF:-1,PL: Polsat Viasat Nature FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12043
+#EXTINF:-1,PL: Power TV
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11675
+#EXTINF:-1,PL: PPV KSW FIGHTS
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/17848
+#EXTINF:-1,PL: Puls 2
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10128
+#EXTINF:-1,PL: PULS FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10094
+#EXTINF:-1,PL: Red Carpet TV FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/57391
+#EXTINF:-1,PL: Romance TV FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12022
+#EXTINF:-1,PL: SciFi Universal
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11602
+#EXTINF:-1,PL: Sportklub FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12033
+#EXTINF:-1,PL: STARS.TV
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12027
+#EXTINF:-1,PL: Stopklatka TV
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10078
+#EXTINF:-1,PL: StudioMed TV FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/49245
+#EXTINF:-1,PL: Sundance Tv FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11603
+#EXTINF:-1,PL: Super Polsat
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10114
+#EXTINF:-1,PL: Superstacja FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/57394
+#EXTINF:-1,PL: Tele 5
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/49242
+#EXTINF:-1,PL: TeleToon+ FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10069
+#EXTINF:-1,PL: TLC
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12044
+#EXTINF:-1,PL: TLC FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11604
+#EXTINF:-1,PL: TNT FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11605
+#EXTINF:-1,PL: TO!TV
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12045
+#EXTINF:-1,PL: Travel Channel FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/22619
+#EXTINF:-1,PL: TTV FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12047
+#EXTINF:-1,PL: TV Republika
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10077
+#EXTINF:-1,PL: TV4 FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10127
+#EXTINF:-1,PL: TV6 FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12028
+#EXTINF:-1,PL: TVN 7 FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12049
+#EXTINF:-1,PL: TVN Fabula FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12050
+#EXTINF:-1,PL: TVN FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12051
+#EXTINF:-1,PL: TVN Style FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12052
+#EXTINF:-1,PL: TVN Turbo FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12053
+#EXTINF:-1,PL: TVN24 BiS FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12584
+#EXTINF:-1,PL: TVN24 FHD
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12048
+#EXTINF:-1,PL: TVR
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/57390
+#EXTINF:-1,PL: TVS
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10068
+#EXTINF:-1,PL: VH1
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/12017
+#EXTINF:-1,PL: VOD 205
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10075
+#EXTINF:-1,PL: VOD 206
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10074
+#EXTINF:-1,PL: VOD 207
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10073
+#EXTINF:-1,PL: VOD 208
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10072
+#EXTINF:-1,PL: VOX MUSIC TV
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/10090
+#EXTINF:-1,PL: Water Planet
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/49243
+#EXTINF:-1,PL: WP
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11669
+#EXTINF:-1,PL: wPolsce
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/57389
+#EXTINF:-1,PL: Zoom TV
+http://1sn.ns1.name:18800/TG@udashboardRussiaSwedenLocal/uxhEaUZA/11672
