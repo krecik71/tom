@@ -1,379 +1,579 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="########## Poland ##########" tvg-logo="http://pici.life/PL/poland.png" group-title="Poland",########## Poland ##########
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/5261
-#EXTINF:-1 tvg-id="" tvg-name="------- Main & Regional -------" tvg-logo="" group-title="Poland",------- Main & Regional -------
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/683431
-#EXTINF:-1 tvg-id="tvp1.pl" tvg-name="TVP 1 FHD PL" tvg-logo="http://pici.life/PL/tvp1hd.png" group-title="Poland",TVP 1 FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/5227
-#EXTINF:-1 tvg-id="tvp1.pl" tvg-name="TVP 1 HD PL" tvg-logo="http://pici.life/tvp1hd.png" group-title="Poland",TVP 1 HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/7271
-#EXTINF:-1 tvg-id="tvp2.pl" tvg-name="TVP 2 FHD PL" tvg-logo="http://pici.life/PL/tvp2hd.png" group-title="Poland",TVP 2 FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/5226
-#EXTINF:-1 tvg-id="tvp2.pl" tvg-name="TVP 2 HD PL" tvg-logo="http://pici.life/tvp2hd.png" group-title="Poland",TVP 2 HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/7270
-#EXTINF:-1 tvg-id="TVP 3 Warszawa PL" tvg-name="TVP 3 Warszawa VIP PL" tvg-logo="http://pici.life/PL/TVP3_warszawa.jpg" group-title="Poland",TVP 3 Warszawa VIP PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9845
-#EXTINF:-1 tvg-id="TVP 1 HD PL" tvg-name="TVP FHD PL" tvg-logo="http://pici.life/PL/TVP_HD.png" group-title="Poland",TVP FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9893
-#EXTINF:-1 tvg-id="tvppolonia.pl" tvg-name="TVP Polonia FHD PL" tvg-logo="http://pici.life/tvppolonia.png" group-title="Poland",TVP Polonia FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9843
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Premiera HD PL" tvg-logo="http://pici.life/polsat.png" group-title="Poland",Polsat Premiera HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/7286
-#EXTINF:-1 tvg-id="" tvg-name="Polsat 2 FHD PL" tvg-logo="http://pici.life/polsat2hd.png" group-title="Poland",Polsat 2 FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/7285
-#EXTINF:-1 tvg-id="polsat2.pl" tvg-name="Polsat 2 PL" tvg-logo="http://pici.life/PL/polsat2.png" group-title="Poland",Polsat 2 PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/5255
-#EXTINF:-1 tvg-id="tvn.pl" tvg-name="TVN FHD PL" tvg-logo="http://pici.life/tvnhd.png" group-title="Poland",TVN FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/5229
-#EXTINF:-1 tvg-id="tvn.pl" tvg-name="TVN HD PL" tvg-logo="http://pici.life/tvnhd.png" group-title="Poland",TVN HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/7274
-#EXTINF:-1 tvg-id="tv4.pl" tvg-name="TV 4 FHD PL" tvg-logo="http://pici.life/tv4.png" group-title="Poland",TV 4 FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/7278
-#EXTINF:-1 tvg-id="tv6.pl" tvg-name="TV6 FHD PL" tvg-logo="http://pici.life/PL/TV6_HD.png" group-title="Poland",TV6 FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9822
-#EXTINF:-1 tvg-id="tvn7.pl" tvg-name="TVN 7 FHD PL" tvg-logo="http://pici.life/tvn7hd.png" group-title="Poland",TVN 7 FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/7276
-#EXTINF:-1 tvg-id="tvpinfo.pl" tvg-name="TVP Info FHD PL" tvg-logo="http://pici.life/tvpinfo.png" group-title="Poland",TVP Info FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/7269
-#EXTINF:-1 tvg-id="Nowa TV PL" tvg-name="Nowa TV FHD PL" tvg-logo="http://pici.life/nowatv.png" group-title="Poland",Nowa TV FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9850
-#EXTINF:-1 tvg-id="polsatnews.pl" tvg-name="Polsat News HD PL" tvg-logo="http://pici.life/polsatnewshd.png" group-title="Poland",Polsat News HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/7282
-#EXTINF:-1 tvg-id="polsatnews2.pl" tvg-name="Polsat News 2 PL" tvg-logo="http://pici.life/PL/polsatnews2.png" group-title="Poland",Polsat News 2 PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/5250
-#EXTINF:-1 tvg-id="tvn24.pl" tvg-name="TVN 24 FHD PL" tvg-logo="http://pici.life/PL/tvn24hd.png" group-title="Poland",TVN 24 FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/5224
-#EXTINF:-1 tvg-id="TV Puls PL" tvg-name="TV Puls FHD PL" tvg-logo="http://pici.life/tvplus.png" group-title="Poland",TV Puls FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/7277
-#EXTINF:-1 tvg-id="tvpuls.pl" tvg-name="TV Puls HD PL" tvg-logo="http://pici.life/PL/tvplushdpl.png" group-title="Poland",TV Puls HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9895
-#EXTINF:-1 tvg-id="TV Puls PL" tvg-name="Puls 2 PL" tvg-logo="http://pici.life/PL/puls2.png" group-title="Poland",Puls 2 PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9899
-#EXTINF:-1 tvg-id="tvs.pl" tvg-name="TVS PL" tvg-logo="http://pici.life/PL/tvs.png" group-title="Poland",TVS PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9890
-#EXTINF:-1 tvg-id="tvtrwam.pl" tvg-name="Trwam TV PL" tvg-logo="http://pici.life/PL/Tv_trwam.png" group-title="Poland",Trwam TV PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9884
-#EXTINF:-1 tvg-id="" tvg-name="------- Sports -------" tvg-logo="" group-title="Poland",------- Sports -------
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/683432
-#EXTINF:-1 tvg-id="canalplussport.pl" tvg-name="Canal+ Sport 1 FHD PL" tvg-logo="http://pici.life/canalsport.png" group-title="Poland",Canal+ Sport 1 FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/7300
-#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-name="Canal+ Sport 2 FHD PL" tvg-logo="http://pici.life/canalplussport_2.png" group-title="Poland",Canal+ Sport 2 FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/7304
-#EXTINF:-1 tvg-id="canalplussport2.pl" tvg-name="Canal+ Sport 2 HD PL" tvg-logo="http://pici.life/PL/canalplussport2hd.png" group-title="Poland",Canal+ Sport 2 HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/7299
-#EXTINF:-1 tvg-id="elevensports1.pl" tvg-name="Eleven Sports 1 FHD PL" tvg-logo="http://pici.life/PL/elevensports.png" group-title="Poland",Eleven Sports 1 FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/524331
-#EXTINF:-1 tvg-id="elevensports2.pl" tvg-name="Eleven Sports 2 FHD PL" tvg-logo="http://pici.life/PL/Eleven_sports_2hd.png" group-title="Poland",Eleven Sports 2 FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/99803
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 3 FHD PL" tvg-logo="http://pici.life/PL/Eleven_sports_3hd.png" group-title="Poland",Eleven Sports 3 FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/99930
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 4 HD PL" tvg-logo="" group-title="Poland",Eleven Sports 4 HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/167186
-#EXTINF:-1 tvg-id="nsport.pl" tvg-name="nSport Plus FHD PL" tvg-logo="http://pici.life/PL/nsportplushd.png" group-title="Poland",nSport Plus FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/5238
-#EXTINF:-1 tvg-id="Eurosport 1 HD PL" tvg-name="Eurosport 1 HD PL" tvg-logo="http://pici.life/NL/eurosport1hd.png" group-title="Poland",Eurosport 1 HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9878
-#EXTINF:-1 tvg-id="Eurosport 2 HD PL" tvg-name="Eurosport 2 FHD PL" tvg-logo="http://pici.life/eurosport2hd_2.png" group-title="Poland",Eurosport 2 FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9877
-#EXTINF:-1 tvg-id="" tvg-name="Fight Box FHD PL" tvg-logo="http://pici.life/PL/fightboxhd.png" group-title="Poland",Fight Box FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/5239
-#EXTINF:-1 tvg-id="" tvg-name="Extreme Sports FHD PL" tvg-logo="http://pici.life/PL/extremesportshd.png" group-title="Poland",Extreme Sports FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/5240
-#EXTINF:-1 tvg-id="Golf Channel FR" tvg-name="Golf Channel FHD PL" tvg-logo="http://pici.life/golfchannel_2.png" group-title="Poland",Golf Channel FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9873
-#EXTINF:-1 tvg-id="Motowizja PL" tvg-name="Motorwizja FHD PL" tvg-logo="http://pici.life/PL/motowizjatv.png" group-title="Poland",Motorwizja FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9904
-#EXTINF:-1 tvg-id="motowizja.pl" tvg-name="Motowizja PL" tvg-logo="http://pici.life/PL/motowizjatv.png" group-title="Poland",Motowizja PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9851
-#EXTINF:-1 tvg-id="polsatsport.pl" tvg-name="Polsat Sport FHD PL" tvg-logo="http://pici.life/PL/polsatsporthd.png" group-title="Poland",Polsat Sport FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/625236
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium 1 HD PL" tvg-logo="" group-title="Poland",Polsat Sport Premium 1 HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/53159
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium 2 HD PL" tvg-logo="" group-title="Poland",Polsat Sport Premium 2 HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/531582
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium PPV 3 FHD" tvg-logo="" group-title="Poland",Polsat Sport Premium PPV 3 FHD
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/620683
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium PPV 4 FHD" tvg-logo="" group-title="Poland",Polsat Sport Premium PPV 4 FHD
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/620682
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium PPV 6 FHD" tvg-logo="" group-title="Poland",Polsat Sport Premium PPV 6 FHD
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/620680
-#EXTINF:-1 tvg-id="POLSAT Sport Extra HD PL" tvg-name="Polsat Sport Extra FHD PL" tvg-logo="" group-title="Poland",Polsat Sport Extra FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/625232
-#EXTINF:-1 tvg-id="POLSAT Sport Extra HD PL" tvg-name="Polsat Sport Extra HD PL" tvg-logo="http://pici.life/PL/polsatsportextrahd.png" group-title="Poland",Polsat Sport Extra HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/625230
-#EXTINF:-1 tvg-id="POLSAT Sport Fight HD PL" tvg-name="Polsat Sport Fight FHD PL" tvg-logo="http://pici.life/PL/polsatsportfighthd.png" group-title="Poland",Polsat Sport Fight FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/5247
-#EXTINF:-1 tvg-id="POLSAT Sport News PL" tvg-name="Polsat Sport News FHD PL" tvg-logo="http://pici.life/PL/Polsat-Sport-News-HD.png" group-title="Poland",Polsat Sport News FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9869
-#EXTINF:-1 tvg-id="Super Polsat PL" tvg-name="Super Polsat FHD PL" tvg-logo="http://pici.life/PL/superpolsatpl.png" group-title="Poland",Super Polsat FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9897
-#EXTINF:-1 tvg-id="tvpsport.pl" tvg-name="TVP Sport FHD PL" tvg-logo="http://pici.life/PL/tvpsporthd.png" group-title="Poland",TVP Sport FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/5225
-#EXTINF:-1 tvg-id="tvpsport.pl" tvg-name="TVP Sports PL" tvg-logo="http://pici.life/tvpsporthd.png" group-title="Poland",TVP Sports PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/7267
-#EXTINF:-1 tvg-id="sportklub.pl" tvg-name="Sportklub HD PL" tvg-logo="http://pici.life/PL/sportklub.png" group-title="Poland",Sportklub HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9819
-#EXTINF:-1 tvg-id="" tvg-name="KSW PPV FHD [Match Time] PL" tvg-logo="" group-title="Poland",KSW PPV FHD [Match Time] PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/624946
-#EXTINF:-1 tvg-id="" tvg-name="------- Movies & Series -------" tvg-logo="" group-title="Poland",------- Movies & Series -------
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/683433
-#EXTINF:-1 tvg-id="" tvg-name="HBO 1 FHD [Multi-Audio] PL" tvg-logo="http://pici.life/PL/hbo1hd.png" group-title="Poland",HBO 1 FHD [Multi-Audio] PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/5223
-#EXTINF:-1 tvg-id="hbo.pl" tvg-name="HBO HD PL" tvg-logo="http://pici.life/hbo1hd_2.png" group-title="Poland",HBO HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/7293
-#EXTINF:-1 tvg-id="hbo2.pl" tvg-name="HBO 2 FHD PL" tvg-logo="http://pici.life/hbo2hd.png" group-title="Poland",HBO 2 FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/7292
-#EXTINF:-1 tvg-id="hbo2.pl" tvg-name="HBO 2 PL" tvg-logo="http://pici.life/hbo2_2.png" group-title="Poland",HBO 2 PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/5222
-#EXTINF:-1 tvg-id="hbo3.pl" tvg-name="HBO 3 FHD [Multi-Audio] PL" tvg-logo="http://pici.life/hbo3hd.png" group-title="Poland",HBO 3 FHD [Multi-Audio] PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/7291
-#EXTINF:-1 tvg-id="cinemax.pl" tvg-name="Cinemax FHD PL" tvg-logo="http://pici.life/PL/cinemaxhd.png" group-title="Poland",Cinemax FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/5246
-#EXTINF:-1 tvg-id="cinemax2.pl" tvg-name="Cinemax 2 FHD VIP PL" tvg-logo="http://pici.life/cinemax2_2.png" group-title="Poland",Cinemax 2 FHD VIP PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/5245
-#EXTINF:-1 tvg-id="canalplusfamily.pl" tvg-name="Canal+ Family HD PL" tvg-logo="http://pici.life/canalfamily.png" group-title="Poland",Canal+ Family HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/7305
-#EXTINF:-1 tvg-id="canalplus.pl" tvg-name="Canal+ Premium FHD PL" tvg-logo="http://pici.life/canalfhd.png" group-title="Poland",Canal+ Premium FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/7302
-#EXTINF:-1 tvg-id="CanalPlusFilm.pl" tvg-name="Canal+ Film FHD PL" tvg-logo="http://pici.life/PL/canalplusfilmhd.png" group-title="Poland",Canal+ Film FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/5243
-#EXTINF:-1 tvg-id="canalplus.pl" tvg-name="Canal+ Film HD PL" tvg-logo="http://pici.life/canalfilmhd.png" group-title="Poland",Canal+ Film HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/7303
-#EXTINF:-1 tvg-id="canalplusseriale.pl" tvg-name="Canal+ Seriale HD PL" tvg-logo="http://pici.life/PL/canalplusserialehd.png" group-title="Poland",Canal+ Seriale HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9913
-#EXTINF:-1 tvg-id="filmboxextra.pl" tvg-name="Film Box Extra HD PL" tvg-logo="http://pici.life/filmboxextrahd_2.png" group-title="Poland",Film Box Extra HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9876
-#EXTINF:-1 tvg-id="FilmboxPremium.pl" tvg-name="Film Box Premium FHD PL" tvg-logo="http://pici.life/PL/filmboxpremium.png" group-title="Poland",Film Box Premium FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/5230
-#EXTINF:-1 tvg-id="filmboxpremium.pl" tvg-name="Film Box Premium HD PL" tvg-logo="http://pici.life/filmboxpremium_2.png" group-title="Poland",Film Box Premium HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/7297
-#EXTINF:-1 tvg-id="filmboxfamily.pl" tvg-name="Film Box Family PL" tvg-logo="http://pici.life/PL/filmboxfamily.png" group-title="Poland",Film Box Family PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/5231
-#EXTINF:-1 tvg-id="filmboxaction.pl" tvg-name="Filmbox Action PL" tvg-logo="http://pici.life/filmboxaction.png" group-title="Poland",Filmbox Action PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/7296
-#EXTINF:-1 tvg-id="polsatfilm.pl" tvg-name="Polsat Film FHD PL" tvg-logo="http://pici.life/PL/polsatfilmhd.png" group-title="Poland",Polsat Film FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/5253
-#EXTINF:-1 tvg-id="polsatfilm.pl" tvg-name="Polsat Film HD PL" tvg-logo="http://pici.life/polsatfilm.png" group-title="Poland",Polsat Film HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/7283
-#EXTINF:-1 tvg-id="kinopolska.pl" tvg-name="Kino Polska PL" tvg-logo="http://pici.life/PL/kinopolska.png" group-title="Poland",Kino Polska PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/5237
-#EXTINF:-1 tvg-id="" tvg-name="AMC PL" tvg-logo="" group-title="Poland",AMC PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/641401
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD PL" tvg-logo="http://pici.life/PL/tnthd.png" group-title="Poland",TNT HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9866
-#EXTINF:-1 tvg-id="" tvg-name="VOD 205 PL" tvg-logo="http://pici.life/PL/vod150.png" group-title="Poland",VOD 205 PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9889
-#EXTINF:-1 tvg-id="" tvg-name="VOD 206 PL" tvg-logo="http://pici.life/PL/vod150.png" group-title="Poland",VOD 206 PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9888
-#EXTINF:-1 tvg-id="" tvg-name="VOD 207 PL" tvg-logo="http://pici.life/PL/vod150.png" group-title="Poland",VOD 207 PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9887
-#EXTINF:-1 tvg-id="" tvg-name="VOD 208 PL" tvg-logo="http://pici.life/PL/vod150.png" group-title="Poland",VOD 208 PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9886
-#EXTINF:-1 tvg-id="tvpseriale.pl" tvg-name="TVP Seriale PL" tvg-logo="http://pici.life/tvpseriale.png" group-title="Poland",TVP Seriale PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/7268
-#EXTINF:-1 tvg-id="tvphistoria.pl" tvg-name="TVP Historia PL" tvg-logo="http://pici.life/PL/tvphistoria.png" group-title="Poland",TVP Historia PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9836
-#EXTINF:-1 tvg-id="tvpkultura.pl" tvg-name="TVP Kultura PL" tvg-logo="http://pici.life/PL/TVP_Kultura.png" group-title="Poland",TVP Kultura PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9892
-#EXTINF:-1 tvg-id="tvnfabula.pl" tvg-name="TVN Fabula FHD PL" tvg-logo="http://pici.life/tvnfabula.png" group-title="Poland",TVN Fabula FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/7275
-#EXTINF:-1 tvg-id="TVP Polonia PL" tvg-name="TVP Rozrywka PL" tvg-logo="http://pici.life/PL/tvprozrywka.png" group-title="Poland",TVP Rozrywka PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9891
-#EXTINF:-1 tvg-id="fox.pl" tvg-name="Fox FHD PL" tvg-logo="http://pici.life/PL/foxhd_2.png" group-title="Poland",Fox FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9874
-#EXTINF:-1 tvg-id="foxcomedy.pl" tvg-name="Fox Comedy HD PL" tvg-logo="http://pici.life/foxcomedyhd_2.png" group-title="Poland",Fox Comedy HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9875
-#EXTINF:-1 tvg-id="comedycentral.pl" tvg-name="Comedy Central FHD PL" tvg-logo="http://pici.life/PL/comedycentral.png" group-title="Poland",Comedy Central FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/5242
-#EXTINF:-1 tvg-id="comedycentralfamily.pl" tvg-name="Comedy Central Family HD PL" tvg-logo="" group-title="Poland",Comedy Central Family HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9834
-#EXTINF:-1 tvg-id="13ulica.pl" tvg-name="13 ulica FHD PL" tvg-logo="http://pici.life/PL/13ulicahd.png" group-title="Poland",13 ulica FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/5260
-#EXTINF:-1 tvg-id="adventure.pl" tvg-name="Adventure FHD PL" tvg-logo="http://pici.life/PL/adventurehd.png" group-title="Poland",Adventure FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9917
-#EXTINF:-1 tvg-id="AXN.pl" tvg-name="AXN FHD PL" tvg-logo="http://pici.life/axn_2.png" group-title="Poland",AXN FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/7306
-#EXTINF:-1 tvg-id="axnspin.pl" tvg-name="AXN Spin FHD PL" tvg-logo="http://pici.life/PL/axnspinhd.png" group-title="Poland",AXN Spin FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/5220
-#EXTINF:-1 tvg-id="axnblack.pl" tvg-name="AXN Black PL" tvg-logo="http://pici.life/PL/axn.png" group-title="Poland",AXN Black PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9915
-#EXTINF:-1 tvg-id="axnwhite.pl" tvg-name="AXN White PL" tvg-logo="http://pici.life/PL/axnwhite.png" group-title="Poland",AXN White PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9914
-#EXTINF:-1 tvg-id="BBC HD PL" tvg-name="BBC First FHD PL" tvg-logo="http://pici.life/PL/bbchd.png" group-title="Poland",BBC First FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9861
-#EXTINF:-1 tvg-id="cbseuropa.pl" tvg-name="CBS Europa FHD PL" tvg-logo="http://pici.life/PL/cbseuropa.png" group-title="Poland",CBS Europa FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9881
-#EXTINF:-1 tvg-id="cbsaction.pl" tvg-name="CBS Europa HD PL" tvg-logo="http://pici.life/PL/cbsaction.png" group-title="Poland",CBS Europa HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9912
-#EXTINF:-1 tvg-id="alekino.pl" tvg-name="Ale Kino FHD PL" tvg-logo="http://pici.life/PL/alekinoplushd.png" group-title="Poland",Ale Kino FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/5259
-#EXTINF:-1 tvg-id="atmrozrywka.pl" tvg-name="TVP Rozrywka PL" tvg-logo="http://pici.life/PL/atmrozrywka.png" group-title="Poland",TVP Rozrywka PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9916
-#EXTINF:-1 tvg-id="lifetime.pl" tvg-name="Lifetime FHD PL" tvg-logo="http://pici.life/PL/lifetimehd.png" group-title="Poland",Lifetime FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9871
-#EXTINF:-1 tvg-id="paramount.pl" tvg-name="Paramount Channel FHD PL" tvg-logo="http://pici.life/PL/ParamountChannel_HD.png" group-title="Poland",Paramount Channel FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9829
-#EXTINF:-1 tvg-id="romancetv.pl" tvg-name="Romance TV FHD PL" tvg-logo="http://pici.life/PL/romancetvhd.png" group-title="Poland",Romance TV FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9826
-#EXTINF:-1 tvg-id="scifiuniversal.pl" tvg-name="SciFi Universal PL" tvg-logo="http://pici.life/PL/Scifi_universal.png" group-title="Poland",SciFi Universal PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9868
-#EXTINF:-1 tvg-id="stopklatka.pl" tvg-name="Stopklatka TV PL" tvg-logo="http://pici.life/PL/stopklatkatv.png" group-title="Poland",Stopklatka TV PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9898
-#EXTINF:-1 tvg-id="" tvg-name="Sundance TV PL" tvg-logo="http://pici.life/sundancelam.png" group-title="Poland",Sundance TV PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9867
-#EXTINF:-1 tvg-id="ZOOM TV PL" tvg-name="Zoom TV PL" tvg-logo="http://pici.life/PL/zoomtv.png" group-title="Poland",Zoom TV PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9839
-#EXTINF:-1 tvg-id="" tvg-name="------- Documentary -------" tvg-logo="" group-title="Poland",------- Documentary -------
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/683434
-#EXTINF:-1 tvg-id="" tvg-name="Discovery FHD PL" tvg-logo="http://pici.life/discovery_2.png" group-title="Poland",Discovery FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/7298
-#EXTINF:-1 tvg-id="discoveryscience.pl" tvg-name="Discovery Science FHD PL" tvg-logo="http://pici.life/PL/discoveryscience.png" group-title="Poland",Discovery Science FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/5234
-#EXTINF:-1 tvg-id="discovery.pl" tvg-name="Discovery Life FHD PL" tvg-logo="http://pici.life/PL/discoverylife.png" group-title="Poland",Discovery Life FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/5235
-#EXTINF:-1 tvg-id="discoveryhistoria.pl" tvg-name="Discovery Historia PL" tvg-logo="http://pici.life/PL/discoveryhistoria.png" group-title="Poland",Discovery Historia PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/5236
-#EXTINF:-1 tvg-id="" tvg-name="Crime and Investigation PL" tvg-logo="http://pici.life/crime_investigation_network_uk.png" group-title="Poland",Crime and Investigation PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/5221
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet FHD PL" tvg-logo="http://pici.life/PL/animalplanethd.png" group-title="Poland",Animal Planet FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/5257
-#EXTINF:-1 tvg-id="Animal Planet HD PL" tvg-name="Animal Planet HD PL" tvg-logo="http://pici.life/animalplanethd_2.png" group-title="Poland",Animal Planet HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/7307
-#EXTINF:-1 tvg-id="natgeo.pl" tvg-name="National Geographic FHD PL" tvg-logo="http://pici.life/natgeo_2.png" group-title="Poland",National Geographic FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/7288
-#EXTINF:-1 tvg-id="natgeowild.pl" tvg-name="Nat Geo Wild FHD PL" tvg-logo="http://pici.life/natgeowild_2.png" group-title="Poland",Nat Geo Wild FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/7289
-#EXTINF:-1 tvg-id="natgeopeople.pl" tvg-name="Nat Geo People FHD PL" tvg-logo="http://pici.life/PL/natgeopeoplehd.png" group-title="Poland",Nat Geo People FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9883
-#EXTINF:-1 tvg-id="bbcearth.pl" tvg-name="BBC Earth HD PL" tvg-logo="http://pici.life/PL/bbcearth.png" group-title="Poland",BBC Earth HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9862
-#EXTINF:-1 tvg-id="davincilearning.pl" tvg-name="Da Vinci Learning PL" tvg-logo="http://pici.life/PL/davincilearning.png" group-title="Poland",Da Vinci Learning PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/5218
-#EXTINF:-1 tvg-id="" tvg-name="DTX FHD PL" tvg-logo="http://pici.life/GR/Dtx.jpg" group-title="Poland",DTX FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9824
-#EXTINF:-1 tvg-id="cbsreality.pl" tvg-name="CBS Reality FHD PL" tvg-logo="http://pici.life/PL/cbsreality.png" group-title="Poland",CBS Reality FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9911
-#EXTINF:-1 tvg-id="" tvg-name="Food Network FHD PL" tvg-logo="http://pici.life/pta/foodnetworkhd.jpg" group-title="Poland",Food Network FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9815
-#EXTINF:-1 tvg-id="hgtv.pl" tvg-name="HGTV HD PL" tvg-logo="http://pici.life/PL/hgtv.png" group-title="Poland",HGTV HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9906
-#EXTINF:-1 tvg-id="fokustv.pl" tvg-name="Fokus TV PL" tvg-logo="http://pici.life/PL/fokustv.png" group-title="Poland",Fokus TV PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9853
-#EXTINF:-1 tvg-id="METRO PL" tvg-name="Metro PL" tvg-logo="http://pici.life/PL/metrotv.png" group-title="Poland",Metro PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9818
-#EXTINF:-1 tvg-id="domo.pl" tvg-name="Domo + HD PL" tvg-logo="" group-title="Poland",Domo + HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/648339
-#EXTINF:-1 tvg-id="" tvg-name="Planete+ HD PL" tvg-logo="http://pici.life/PL/planeteplushd.png" group-title="Poland",Planete+ HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9903
-#EXTINF:-1 tvg-id="polsatviasatexpl.pl" tvg-name="Polsat Viasat Explore FHD PL" tvg-logo="http://pici.life/polsatviasathistory.png" group-title="Poland",Polsat Viasat Explore FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9900
-#EXTINF:-1 tvg-id="polsatviasathist.pl" tvg-name="Polsat Viasat History FHD PL" tvg-logo="http://pici.life/PL/polsatviasathistory.png" group-title="Poland",Polsat Viasat History FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9811
-#EXTINF:-1 tvg-id="polsatviasatnature.pl" tvg-name="Polsat Viasat Nature PL" tvg-logo="http://pici.life/PL/Polsat_Viasat_Nature.png" group-title="Poland",Polsat Viasat Nature PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9810
-#EXTINF:-1 tvg-id="POLSAT Doku HD PL" tvg-name="Polsat Doku FHD PL" tvg-logo="http://pici.life/PL/polsat_doku_HD.png" group-title="Poland",Polsat Doku FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9813
-#EXTINF:-1 tvg-id="polsatplay.pl" tvg-name="Polsat Play FHD PL" tvg-logo="http://pici.life/PL/polsatplayhd.png" group-title="Poland",Polsat Play FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/5252
-#EXTINF:-1 tvg-id="polsatplay.pl" tvg-name="Polsat Play HD PL" tvg-logo="http://pici.life/polsatplay.png" group-title="Poland",Polsat Play HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/7281
-#EXTINF:-1 tvg-id="kuchniaplus.pl" tvg-name="Kuchnia+ FHD PL" tvg-logo="http://pici.life/PL/kuchniaplushd.png" group-title="Poland",Kuchnia+ FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9905
-#EXTINF:-1 tvg-id="tvnturbo.pl" tvg-name="TVN Turbo FHD PL" tvg-logo="http://pici.life/PL/tvnturbohd.png" group-title="Poland",TVN Turbo FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/5228
-#EXTINF:-1 tvg-id="tvnturbo.pl" tvg-name="TVN Turbo HD PL" tvg-logo="http://pici.life/tvnturbo.png" group-title="Poland",TVN Turbo HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/7272
-#EXTINF:-1 tvg-id="tvprozrywka.pl" tvg-name="TV Republika PL" tvg-logo="http://pici.life/PL/tvrepublika.png" group-title="Poland",TV Republika PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/5249
-#EXTINF:-1 tvg-id="WP PL" tvg-name="WP PL" tvg-logo="http://pici.life/PL/Wp_tv.png" group-title="Poland",WP PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9840
-#EXTINF:-1 tvg-id="" tvg-name="------- Entertainment -------" tvg-logo="" group-title="Poland",------- Entertainment -------
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/683435
-#EXTINF:-1 tvg-id="" tvg-name="BBC Brit FHD PL" tvg-logo="" group-title="Poland",BBC Brit FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/648338
-#EXTINF:-1 tvg-id="Active Family PL" tvg-name="Active Family PL" tvg-logo="http://pici.life/PL/active_family.png" group-title="Poland",Active Family PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9817
-#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment FHD PL" tvg-logo="http://pici.life/NL/eentertainmenthd.png" group-title="Poland",E! Entertainment FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9879
-#EXTINF:-1 tvg-id="" tvg-name="TLC FHD PL" tvg-logo="http://pici.life/tlc_2.png" group-title="Poland",TLC FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/7279
-#EXTINF:-1 tvg-id="polsatcafe.pl" tvg-name="Polsat Cafe FHD PL" tvg-logo="http://pici.life/PL/polsatcafehd.png" group-title="Poland",Polsat Cafe FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/5254
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Games FHD PL" tvg-logo="" group-title="Poland",Polsat Games FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/628998
-#EXTINF:-1 tvg-id="tvnstyle.pl" tvg-name="TVN Style HD PL" tvg-logo="http://pici.life/tvnstyle.png" group-title="Poland",TVN Style HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/7273
-#EXTINF:-1 tvg-id="tvnstyle.pl" tvg-name="TVN Style FHD PL" tvg-logo="http://pici.life/PL/tvnstyle.png" group-title="Poland",TVN Style FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/5219
-#EXTINF:-1 tvg-id="ttv.pl" tvg-name="TTV FHD PL" tvg-logo="http://pici.life/PL/ttv.png" group-title="Poland",TTV FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9808
-#EXTINF:-1 tvg-id="ttv.pl" tvg-name="TTV HD PL" tvg-logo="http://pici.life/PL/ttv.png" group-title="Poland",TTV HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/683438
-#EXTINF:-1 tvg-id="" tvg-name="------- Children -------" tvg-logo="" group-title="Poland",------- Children -------
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/683436
-#EXTINF:-1 tvg-id="BabyFirstTV.pl" tvg-name="Baby TV PL" tvg-logo="" group-title="Poland",Baby TV PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/15950
-#EXTINF:-1 tvg-id="boomerang.pl" tvg-name="Boomerang HD PL" tvg-logo="http://pici.life/PL/boomerang.png" group-title="Poland",Boomerang HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9860
-#EXTINF:-1 tvg-id="cartoonnetwork.pl" tvg-name="Cartoon Network FHD PL" tvg-logo="http://pici.life/PL/cartoonnethd.png" group-title="Poland",Cartoon Network FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9882
-#EXTINF:-1 tvg-id="Disney Channel PL" tvg-name="Disney Channel HD PL" tvg-logo="http://pici.life/PL/disneychannelhd.png" group-title="Poland",Disney Channel HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9918
-#EXTINF:-1 tvg-id="Disney Junior PL" tvg-name="Disney Junior PL" tvg-logo="http://pici.life/PL/disneyjunior.png" group-title="Poland",Disney Junior PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9880
-#EXTINF:-1 tvg-id="Disney XD PL" tvg-name="Disney XD PL" tvg-logo="http://pici.life/PL/disneyxd.png" group-title="Poland",Disney XD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9910
-#EXTINF:-1 tvg-id="minimini.pl" tvg-name="MiniMini FHD VIP PL" tvg-logo="http://pici.life/PL/miniminiplushd.png" group-title="Poland",MiniMini FHD VIP PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9870
-#EXTINF:-1 tvg-id="nickjr.pl" tvg-name="Nick Jr Polska PL" tvg-logo="http://pici.life/PL/nickjr.png" group-title="Poland",Nick Jr Polska PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9831
-#EXTINF:-1 tvg-id="nickelodeon.pl" tvg-name="Nickelodeon PL" tvg-logo="http://pici.life/PL/nickelodeon.png" group-title="Poland",Nickelodeon PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9830
-#EXTINF:-1 tvg-id="polsat.pl" tvg-name="Polsat Jim Jam PL" tvg-logo="http://pici.life/jimjampolsat.png" group-title="Poland",Polsat Jim Jam PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9848
-#EXTINF:-1 tvg-id="tvpabc.pl" tvg-name="TVP ABC PL" tvg-logo="http://pici.life/PL/tvpabc.png" group-title="Poland",TVP ABC PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9894
-#EXTINF:-1 tvg-id="teleTOONPlus HD PL" tvg-name="TeleToon+ FHD PL" tvg-logo="http://pici.life/PL/teletoonplushd-lichoridas.png" group-title="Poland",TeleToon+ FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9896
-#EXTINF:-1 tvg-id="" tvg-name="------- Music -------" tvg-logo="" group-title="Poland",------- Music -------
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/683437
-#EXTINF:-1 tvg-id="mtvpolska.pl" tvg-name="MTV Polska FHD PL" tvg-logo="http://pici.life/mtvhd_2.png" group-title="Poland",MTV Polska FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9838
-#EXTINF:-1 tvg-id="mtvpolska.pl" tvg-name="MTV Polska HD PL" tvg-logo="http://pici.life/mtvhd_2.png" group-title="Poland",MTV Polska HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9832
-#EXTINF:-1 tvg-id="MTV Live HD PL" tvg-name="MTV Live FHD PL" tvg-logo="http://pici.life/PL/mtvlivehd.png" group-title="Poland",MTV Live FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9833
-#EXTINF:-1 tvg-id="" tvg-name="VH1 PL" tvg-logo="http://pici.life/PL/vh1.png" group-title="Poland",VH1 PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9828
-#EXTINF:-1 tvg-id="VIVApolska.pl" tvg-name="VH1 Polska PL" tvg-logo="http://pici.life/PL/vivapolska.png" group-title="Poland",VH1 Polska PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9827
-#EXTINF:-1 tvg-id="4funtv.pl" tvg-name="4Fun TV PL" tvg-logo="http://pici.life/PL/4funtv.png" group-title="Poland",4Fun TV PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9825
-#EXTINF:-1 tvg-id="4funfitdance.pl" tvg-name="4Fun Dance PL" tvg-logo="http://pici.life/PL/4Fun_Dance.png" group-title="Poland",4Fun Dance PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9864
-#EXTINF:-1 tvg-id="4FUN GOLD HITS PL" tvg-name="4Fun Gold Hits PL" tvg-logo="http://pici.life/PL/4fungoldhits.png" group-title="Poland",4Fun Gold Hits PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9863
-#EXTINF:-1 tvg-id="VOX Music TV PL" tvg-name="Vox Music TV PL" tvg-logo="http://pici.life/PL/voxmusic.png" group-title="Poland",Vox Music TV PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9885
-#EXTINF:-1 tvg-id="Nuta.TV PL" tvg-name="Nuta TV PL" tvg-logo="http://pici.life/PL/nuta_tv.png" group-title="Poland",Nuta TV PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9849
-#EXTINF:-1 tvg-id="EskaTV.pl" tvg-name="Eska TV HD PL" tvg-logo="http://pici.life/PL/Eska_Best_Music_TV.png" group-title="Poland",Eska TV HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9807
-#EXTINF:-1 tvg-id="eskatv.pl" tvg-name="Eska TV PL" tvg-logo="http://pici.life/PL/eskatv.png" group-title="Poland",Eska TV PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9857
-#EXTINF:-1 tvg-id="Eska Rock TV PL" tvg-name="Eska Rock TV HD PL" tvg-logo="http://pici.life/PL/eska_rock.png" group-title="Poland",Eska Rock TV HD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9858
-#EXTINF:-1 tvg-id="" tvg-name="Eska Rock TV PL" tvg-logo="http://pici.life/PL/eska_rock.png" group-title="Poland",Eska Rock TV PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9852
-#EXTINF:-1 tvg-id="Disco Polo Music PL" tvg-name="Disco Polo Music PL" tvg-logo="http://pici.life/PL/Disco_polo_music.png" group-title="Poland",Disco Polo Music PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9816
-#EXTINF:-1 tvg-id="polotv.pl" tvg-name="Polo TV FHD PL" tvg-logo="http://pici.life/PL/polotv.png" group-title="Poland",Polo TV FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9814
-#EXTINF:-1 tvg-id="Polo TV PL" tvg-name="Polo Party TV PL" tvg-logo="http://pici.life/PL/polotv.png" group-title="Poland",Polo Party TV PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9902
-#EXTINF:-1 tvg-id="POLSAT Music PL" tvg-name="Polsat Music FHD PL" tvg-logo="http://pici.life/polsatmusichdpl.png" group-title="Poland",Polsat Music FHD PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9847
-#EXTINF:-1 tvg-id="powertv.pl" tvg-name="Power TV PL" tvg-logo="http://pici.life/PL/powertv.png" group-title="Poland",Power TV PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9846
-#EXTINF:-1 tvg-id="starstv.pl" tvg-name="Stars TV PL" tvg-logo="http://pici.life/PL/starstv.png" group-title="Poland",Stars TV PL
-http://tv.totaliptv.mydns.live:8080/o714gqjd38/7a9srdebwm/9820
+#EXTINF:-1,PL: ANIMAL PLANET
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229412
+#EXTINF:-1,PL: INVESTIGATION DISCOVERY
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229413
+#EXTINF:-1,PL: AXN BLACK
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229414
+#EXTINF:-1,PL: CANAL+
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229415
+#EXTINF:-1,PL: CANAL+ DOCUMENT
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229416
+#EXTINF:-1,PL: CANAL+ FAMILY
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229417
+#EXTINF:-1,PL: CANAL+ FILM
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229418
+#EXTINF:-1,PL: CANAL+ SERIALE
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229419
+#EXTINF:-1,PL: CANAL+ SPORT
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229420
+#EXTINF:-1,PL: CANAL+ SPORT 2
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229421
+#EXTINF:-1,PL: CBC REALITY
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229422
+#EXTINF:-1,PL: CINEMAX 2
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229423
+#EXTINF:-1,PL: COMEDY CENTRAL
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229424
+#EXTINF:-1,PL: DISCOVERY HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229425
+#EXTINF:-1,PL: DISCOVERY LIFE
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229426
+#EXTINF:-1,PL: DISCOVERY SCIENCE
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229427
+#EXTINF:-1,PL: DISNEY CHANNEL
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229428
+#EXTINF:-1,PL: DISNEY XD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229429
+#EXTINF:-1,PL: DOMO
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229430
+#EXTINF:-1,PL: ELEVEN SPORTS 1 HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229431
+#EXTINF:-1,PL: ELEVEN SPORTS 2 HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229432
+#EXTINF:-1,PL: ELEVEN SPORTS 3 HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229433
+#EXTINF:-1,PL: ELEVEN SPORTS 4 HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229434
+#EXTINF:-1,PL: EUROSPORT 1
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229435
+#EXTINF:-1,PL: FIGHT BOX
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229436
+#EXTINF:-1,PL: FIGHT CLUB
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229437
+#EXTINF:-1,PL: FILMBOX
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229438
+#EXTINF:-1,PL: FILMBOX ACTION
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229439
+#EXTINF:-1,PL: FILMBOX PREMIUM
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229440
+#EXTINF:-1,PL: HBO 2 HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229441
+#EXTINF:-1,PL: HBO HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229442
+#EXTINF:-1,PL: KINO POLSKA
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229443
+#EXTINF:-1,PL: KUCHNIA
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229444
+#EXTINF:-1,PL: MINIMINI
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229445
+#EXTINF:-1,PL: MTV POLSKA
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229446
+#EXTINF:-1,PL: NATIONAL GEO
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229447
+#EXTINF:-1,PL: NSPORT
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229448
+#EXTINF:-1,PL: POLSAT
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229449
+#EXTINF:-1,PL: POLSAT 2
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229450
+#EXTINF:-1,PL: POLSAT CAFE HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229451
+#EXTINF:-1,PL: POLSAT FILM
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229452
+#EXTINF:-1,PL: POLSAT NEWS
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229453
+#EXTINF:-1,PL: POLSAT PLAY
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229454
+#EXTINF:-1,PL: POLSAT SPORT
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229455
+#EXTINF:-1,PL: POLSAT SPORT EXTRA
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229456
+#EXTINF:-1,PL: POLSAT SPORT NEWS HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229457
+#EXTINF:-1,PL: POLSAT SPORT PREMIUM 1 HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229458
+#EXTINF:-1,PL: POLSAT SPORT PREMIUM 2 HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229459
+#EXTINF:-1,PL: POLSAT SPORT PREMIUM 3 HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229460
+#EXTINF:-1,PL: POLSAT SPORT PREMIUM 4 HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229461
+#EXTINF:-1,PL: POLSAT SPORT PREMIUM 5 HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229462
+#EXTINF:-1,PL: POLSAT SPORT PREMIUM 6 HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229463
+#EXTINF:-1,PL: TVP ABC
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229464
+#EXTINF:-1,PL: TV REPUBLIKA
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229465
+#EXTINF:-1,PL: TV SPORT
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229466
+#EXTINF:-1,PL: TVN
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229467
+#EXTINF:-1,PL: TVN 24
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229468
+#EXTINF:-1,PL: TVN 7
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229469
+#EXTINF:-1,PL: TVN STYLE
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229470
+#EXTINF:-1,PL: TVN TURBO
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229471
+#EXTINF:-1,PL: TVP 2
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229472
+#EXTINF:-1,PL: TVP HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229473
+#EXTINF:-1,PL: TVP HISTORIA
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229474
+#EXTINF:-1,PL: TVP INFO
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229475
+#EXTINF:-1,PL: TVP KULTURA
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229476
+#EXTINF:-1,PL: TVP ROZRYWKA
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229477
+#EXTINF:-1,PL: TVP SERIALE
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229478
+#EXTINF:-1,PL: TVP SPORT
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229479
+#EXTINF:-1,[PL] 13 ULICA HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229480
+#EXTINF:-1,[PL] 4 FUN HITS
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229481
+#EXTINF:-1,[PL] 4 FUN TV
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229482
+#EXTINF:-1,[PL] 4FUN DANCE
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229483
+#EXTINF:-1,[PL] 4FUN GOLD HITS
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229484
+#EXTINF:-1,[PL] ACTIVE FAMILY
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229485
+#EXTINF:-1,[PL] ADVENTURE HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229486
+#EXTINF:-1,[PL] ALE KINO HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229487
+#EXTINF:-1,[PL] ALE KINO+ HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229488
+#EXTINF:-1,[PL] AMC
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229489
+#EXTINF:-1,[PL] ANIMAL PLANET HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229490
+#EXTINF:-1,[PL] ATM ROZRYWKA
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229491
+#EXTINF:-1,[PL] AXN BLACK
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229492
+#EXTINF:-1,[PL] AXN HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229493
+#EXTINF:-1,[PL] AXN SPIN HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229494
+#EXTINF:-1,[PL] AXN WHITE
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229495
+#EXTINF:-1,[PL] BABY TV HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229496
+#EXTINF:-1,[PL] BBC EARTH
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229497
+#EXTINF:-1,[PL] BBC HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229498
+#EXTINF:-1,[PL] BOOMERANG
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229499
+#EXTINF:-1,[PL] CAFE HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229500
+#EXTINF:-1,[PL] CANAL 1 HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229501
+#EXTINF:-1,[PL] CANAL DISCOVERY HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229502
+#EXTINF:-1,[PL] CANAL HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229503
+#EXTINF:-1,[PL] CANAL SERIALE HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229504
+#EXTINF:-1,[PL] CANAL SPORT 2 HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229505
+#EXTINF:-1,[PL] CANAL+ 1 HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229506
+#EXTINF:-1,[PL] CANAL+ DISCOVERY HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229507
+#EXTINF:-1,[PL] CANAL+ FAMILY HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229508
+#EXTINF:-1,[PL] CANAL+ FILM HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229509
+#EXTINF:-1,[PL] CANAL+ HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229510
+#EXTINF:-1,[PL] CANAL+ SERIALE
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229511
+#EXTINF:-1,[PL] CANAL+ SERIALE HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229512
+#EXTINF:-1,[PL] CANAL+ SPORT HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229513
+#EXTINF:-1,[PL] CANAL+ SPORTS 2
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229514
+#EXTINF:-1,[PL] CARTOON NETWORK HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229515
+#EXTINF:-1,[PL] CBS ACTION
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229516
+#EXTINF:-1,[PL] CBS EUROPA HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229517
+#EXTINF:-1,[PL] CBS REALITY
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229518
+#EXTINF:-1,[PL] CINEMAX 2 HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229519
+#EXTINF:-1,[PL] CINEMAX HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229520
+#EXTINF:-1,[PL] COMEDY CENTERAL
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229521
+#EXTINF:-1,[PL] COMEDY CENTRAL FAMILY
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229522
+#EXTINF:-1,[PL] DA VINCI LEARNING
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229523
+#EXTINF:-1,[PL] DISCO POLO MUSIC
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229524
+#EXTINF:-1,[PL] DISCOVERY CHANNEL
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229525
+#EXTINF:-1,[PL] DISCOVERY HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229526
+#EXTINF:-1,[PL] DISCOVERY HISTORIA
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229527
+#EXTINF:-1,[PL] DISCOVERY LIFE HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229528
+#EXTINF:-1,[PL] DISCOVERY SCIENCE
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229529
+#EXTINF:-1,[PL] DISCOVERY TURBO XTRA
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229530
+#EXTINF:-1,[PL] DISNEY
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229531
+#EXTINF:-1,[PL] DISNEY CHANNEL
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229532
+#EXTINF:-1,[PL] DISNEY J
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229533
+#EXTINF:-1,[PL] DISNEY JUNIOR
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229534
+#EXTINF:-1,[PL] DISNEY XD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229535
+#EXTINF:-1,[PL] DOMO  HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229536
+#EXTINF:-1,[PL] DTX
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229537
+#EXTINF:-1,[PL] E! ENTERTAINMENT
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229538
+#EXTINF:-1,[PL] ELEVEN EXTRA HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229539
+#EXTINF:-1,[PL] ELEVEN HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229540
+#EXTINF:-1,[PL] ELEVEN SPORTS 2 FHD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229541
+#EXTINF:-1,[PL] ELEVEN SPORTS 3 FHD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229542
+#EXTINF:-1,[PL] ELEVEN SPORTS 4 HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229543
+#EXTINF:-1,[PL] ELEVEN SPORTS HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229544
+#EXTINF:-1,[PL] ESKA TV EXTRA
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229545
+#EXTINF:-1,[PL] EUROSPORT 1 HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229546
+#EXTINF:-1,[PL] EUROSPORT 2
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229547
+#EXTINF:-1,[PL] EXTREME SPORTS
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229548
+#EXTINF:-1,[PL] EXTREME SPORTS HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229549
+#EXTINF:-1,[PL] FIGHTBOX HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229550
+#EXTINF:-1,[PL] FILMBOX
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229551
+#EXTINF:-1,[PL] FILMBOX ACTION
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229552
+#EXTINF:-1,[PL] FILMBOX ARTHOUSE
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229553
+#EXTINF:-1,[PL] FILMBOX EXTRA
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229554
+#EXTINF:-1,[PL] FILMBOX FAMILY
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229555
+#EXTINF:-1,[PL] FILMBOX PREMIUM
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229556
+#EXTINF:-1,[PL] FOKUS TV
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229557
+#EXTINF:-1,[PL] FOX COMEDY
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229558
+#EXTINF:-1,[PL] FOX HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229559
+#EXTINF:-1,[PL] GOLF CHANNEL HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229560
+#EXTINF:-1,[PL] H2 HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229561
+#EXTINF:-1,[PL] HBO 2 HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229562
+#EXTINF:-1,[PL] HBO 3 HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229563
+#EXTINF:-1,[PL] HBO HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229564
+#EXTINF:-1,[PL] HGTV HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229565
+#EXTINF:-1,[PL] HIP HOP TV
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229566
+#EXTINF:-1,[PL] HISTORY
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229567
+#EXTINF:-1,[PL] HISTORY HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229568
+#EXTINF:-1,[PL] KINO POLSKA
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229569
+#EXTINF:-1,[PL] KINO POLSKA MUZYKA
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229570
+#EXTINF:-1,[PL] KINO TV
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229571
+#EXTINF:-1,[PL] KUCHNIA HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229572
+#EXTINF:-1,[PL] LIFETIME HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229573
+#EXTINF:-1,[PL] MANGO 24
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229574
+#EXTINF:-1,[PL] METRO
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229575
+#EXTINF:-1,[PL] MINIMINI HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229576
+#EXTINF:-1,[PL] MTV DANCE HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229577
+#EXTINF:-1,[PL] MTV POLSKA HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229578
+#EXTINF:-1,[PL] NAT GEO HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229579
+#EXTINF:-1,[PL] NAT GEO PEOPLE HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229580
+#EXTINF:-1,[PL] NAT GEO WILD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229581
+#EXTINF:-1,[PL] NAT GEOGRAPHIC
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229582
+#EXTINF:-1,[PL] NICK JR
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229583
+#EXTINF:-1,[PL] NOWA TV
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229584
+#EXTINF:-1,[PL] NSPORT
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229585
+#EXTINF:-1,[PL] NSPORT HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229586
+#EXTINF:-1,[PL] PARAMOUNT CHANNEL HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229587
+#EXTINF:-1,[PL] PLANETE+ HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229588
+#EXTINF:-1,[PL] PLAY HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229589
+#EXTINF:-1,[PL] POLO TV
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229590
+#EXTINF:-1,[PL] POLSAT
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229591
+#EXTINF:-1,[PL] POLSAT 2
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229592
+#EXTINF:-1,[PL] POLSAT 2 HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229593
+#EXTINF:-1,[PL] POLSAT CAFE
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229594
+#EXTINF:-1,[PL] POLSAT CAFE HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229595
+#EXTINF:-1,[PL] POLSAT DOKU FHD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229596
+#EXTINF:-1,[PL] POLSAT FILM
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229597
+#EXTINF:-1,[PL] POLSAT FILM HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229598
+#EXTINF:-1,[PL] POLSAT HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229599
+#EXTINF:-1,[PL] POLSAT JIM JAM
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229600
+#EXTINF:-1,[PL] POLSAT MUSIC FHD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229601
+#EXTINF:-1,[PL] POLSAT NEWS
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229602
+#EXTINF:-1,[PL] POLSAT PLAY
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229603
+#EXTINF:-1,[PL] POLSAT PLAY HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229604
+#EXTINF:-1,[PL] POLSAT ROMANS HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229605
+#EXTINF:-1,[PL] POLSAT SPORT EXTRA
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229606
+#EXTINF:-1,[PL] POLSAT SPORT EXTRA HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229607
+#EXTINF:-1,[PL] POLSAT SPORT FIGHT HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229608
+#EXTINF:-1,[PL] POLSAT SPORT NEWS HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229609
+#EXTINF:-1,[PL] POLSAT SPORTS
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229610
+#EXTINF:-1,[PL] POLSAT VIASAT EXPLORE HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229611
+#EXTINF:-1,[PL] POLSAT VIASAT HISTORY HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229612
+#EXTINF:-1,[PL] POLSAT VIASAT NATURE
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229613
+#EXTINF:-1,[PL] POWER TV
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229614
+#EXTINF:-1,[PL] PULS 2
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229615
+#EXTINF:-1,[PL] SCIFI UNIVERSAL
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229616
+#EXTINF:-1,[PL] SPORT KLUB POLSKA
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229617
+#EXTINF:-1,[PL] STARS TV
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229618
+#EXTINF:-1,[PL] STOPKLATKA TV
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229619
+#EXTINF:-1,[PL] SUPER POLSAT
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229620
+#EXTINF:-1,[PL] TELETOON+ HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229621
+#EXTINF:-1,[PL] TLC HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229622
+#EXTINF:-1,[PL] TNT HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229623
+#EXTINF:-1,[PL] TTV HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229624
+#EXTINF:-1,[PL] TV PULS
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229625
+#EXTINF:-1,[PL] TV REPUBLIKA
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229626
+#EXTINF:-1,[PL] TV TRWAM
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229627
+#EXTINF:-1,[PL] TV4
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229628
+#EXTINF:-1,[PL] TV4 HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229629
+#EXTINF:-1,[PL] TVN 24
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229630
+#EXTINF:-1,[PL] TVN 7
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229631
+#EXTINF:-1,[PL] TVN 7 FHD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229632
+#EXTINF:-1,[PL] TVN FABULA HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229633
+#EXTINF:-1,[PL] TVN HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229634
+#EXTINF:-1,[PL] TVN STYLE
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229635
+#EXTINF:-1,[PL] TVN STYLE HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229636
+#EXTINF:-1,[PL] TVN TURBO
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229637
+#EXTINF:-1,[PL] TVP 1 HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229638
+#EXTINF:-1,[PL] TVP 2 HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229639
+#EXTINF:-1,[PL] TVP ABC
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229640
+#EXTINF:-1,[PL] TVP HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229641
+#EXTINF:-1,[PL] TVP HISTORIA
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229642
+#EXTINF:-1,[PL] TVP INFO
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229643
+#EXTINF:-1,[PL] TVP KULTURA
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229644
+#EXTINF:-1,[PL] TVP POLONIA
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229645
+#EXTINF:-1,[PL] TVP ROZRYWKA
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229646
+#EXTINF:-1,[PL] TVP SERIALE
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229647
+#EXTINF:-1,[PL] TVP SPORT HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229648
+#EXTINF:-1,[PL] TVP3
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229649
+#EXTINF:-1,[PL] TVS
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229650
+#EXTINF:-1,[PL] UNIVERSAL HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229651
+#EXTINF:-1,[PL] VH1
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229652
+#EXTINF:-1,[PL] VIVA POLSKA
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229653
+#EXTINF:-1,[PL] WELLBEING
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229654
+#EXTINF:-1,[PL] WP
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229655
+#EXTINF:-1,[PL] ZEST TV
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229656
+#EXTINF:-1,[PL] ZOOM TV
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229657
+#EXTINF:-1,PL AXN BLACK
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229658
+#EXTINF:-1,PL CANAL  DISCOVERY
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229659
+#EXTINF:-1,PL CANAL FAMILY
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229660
+#EXTINF:-1,PL CANAL  FILM
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229661
+#EXTINF:-1,PL CANAL HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229662
+#EXTINF:-1,PL CANAL SERIALE
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229663
+#EXTINF:-1,PL CANAL SPORT
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229664
+#EXTINF:-1,PL CANAL SPORT 2
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229665
+#EXTINF:-1,PL CBS REALITY
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229666
+#EXTINF:-1,PL COMEDY CENTRAL
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229667
+#EXTINF:-1,PL DISCOVERY HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229668
+#EXTINF:-1,PL DISCOVERY LIFE
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229669
+#EXTINF:-1,PL DISCOVERY SCIENCE
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229670
+#EXTINF:-1,PL DISNEY CHANNEL
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229671
+#EXTINF:-1,PL DISNEY XD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229672
+#EXTINF:-1,PL ELEVEN HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229673
+#EXTINF:-1,PL EUROSPORT 1
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229674
+#EXTINF:-1,PL FILMBOX
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229675
+#EXTINF:-1,PL FILMBOX ACTION
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229676
+#EXTINF:-1,PL FILMBOX PREMIUM
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229677
+#EXTINF:-1,PL HBO 2 HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229678
+#EXTINF:-1,PL HBO HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229679
+#EXTINF:-1,PL INVESTIGATION DISCOVERY
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229680
+#EXTINF:-1,PL KINO POLSKA
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229681
+#EXTINF:-1,PL KUCHNIA HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229682
+#EXTINF:-1,PL MINIMINI
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229683
+#EXTINF:-1,PL MTV POLSKA
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229684
+#EXTINF:-1,PL NATIONAL GEO
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229685
+#EXTINF:-1,PL NSPORT
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229686
+#EXTINF:-1,PL POLSAT 2
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229687
+#EXTINF:-1,PL POLSAT CAFE
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229688
+#EXTINF:-1,PL POLSAT FILM
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229689
+#EXTINF:-1,PL POLSAT HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229690
+#EXTINF:-1,PL POLSAT PLAY
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229691
+#EXTINF:-1,PL POLSAT SPORT
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229692
+#EXTINF:-1,PL POLSAT SPORT EXTRA HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229693
+#EXTINF:-1,PL POLSAT SPORT NEWS HD
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229694
+#EXTINF:-1,PL TVN
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229695
+#EXTINF:-1,PL TVP INFO
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229696
+#EXTINF:-1,PL TVP SERIALE
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229697
+#EXTINF:-1,PL TVP SPORT
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229698
+#EXTINF:-1,PL TVP1
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229699
+#EXTINF:-1,PL TVP2
+http://player.ukwtv.com:8080/3173434353113478/2598854265/229700
