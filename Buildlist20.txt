@@ -14,7 +14,7 @@ description="Tom Wizard Matrix Build for Kodi 19.5 Matrix . "
 
 name="Tom Nexus Build"
 version="1.0.0"
-url="http://repo.1ar.cc/wizard/builds/red_wizard_nexus.5.0.4.zip"
+url="http://tom122.webd.pro/19/20 1.0.0.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
