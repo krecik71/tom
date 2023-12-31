@@ -13,7 +13,7 @@ info="http://"
 description="Tom Wizard Matrix Build for Kodi 19.5 Matrix . "
 
 name="Tom Nexus Build 2a"
-version="1.0.0"
+version="1.0.1"
 url="http://tom122.webd.pro/19/20 1.0.1.zip"
 minor="http://"
 gui="http://"
@@ -29,7 +29,7 @@ description="Tom Wizard Nexus Build for Kodi 20 Nexus . "
 
 
 name="Tom Nexus Build 1a"
-version="1.0.0"
+version="1.0.1"
 url="https://wizard.polishteam.one/build/TOM/20%201.0.1.zip"
 minor="http://"
 gui="http://"
