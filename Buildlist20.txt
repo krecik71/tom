@@ -43,8 +43,8 @@ info="http://"
 description="Tom Wizard Nexus Build for Kodi 20 Nexus . "
 
 
-name="TOM WIZARD 21 "
-version="0.0.0"
+name="TOM  21Build 1 "
+version="1.0.0"
 url="http://tom122.webd.pro/19/21 1.0.0.zip"
 gui="url.to.guisettings"
 kodi="20.0"
@@ -58,8 +58,8 @@ description="Kodi 21.  !!!! TYLKO I WYLACZNIE NA KODI 21 !!! UWAGA!Instalujac cz
 
 
 
-name="TOM WIZARD 21 LINK 2"
-version="0.0.0"
+name="TOM  21Build  LINK 2"
+version="1.0.0"
 url="https://wizard.polishteam.one/build/TOM/21 1.0.0.zip"
 gui="url.to.guisettings"
 kodi="20.0"
