@@ -41,3 +41,34 @@ preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
 adult="yes"
 info="http://"
 description="Tom Wizard Nexus Build for Kodi 20 Nexus . "
+
+
+name="TOM WIZARD 21 "
+version="0.0.0"
+url="http://tom122.webd.pro/19/21 1.0.0.zip"
+gui="url.to.guisettings"
+kodi="20.0"
+theme="url.to.themes"
+icon="https://raw.githubusercontent.com/krecik71/tom/master/icon.png"
+fanart="https://betanews.com/wp-content/uploads/2018/09/Kodi.jpg"
+preview=""
+adult="no"
+info="url.to.info"
+description="Kodi 21.  !!!! TYLKO I WYLACZNIE NA KODI 21 !!! UWAGA!Instalujac czyscisz calkowicie swoja aplikacje Kodi. Niezapomnij zrobic backupu przed instalacja!"
+
+
+
+name="TOM WIZARD 21 LINK 2"
+version="0.0.0"
+url="https://wizard.polishteam.one/build/TOM/21 1.0.0.zip"
+gui="url.to.guisettings"
+kodi="20.0"
+theme="url.to.themes"
+icon="https://raw.githubusercontent.com/krecik71/tom/master/icon.png"
+fanart="https://betanews.com/wp-content/uploads/2018/09/Kodi.jpg"
+preview=""
+adult="no"
+info="url.to.info"
+description="Kodi 21.  !!!! TYLKO I WYLACZNIE NA KODI 21 !!! UWAGA!Instalujac czyscisz calkowicie swoja aplikacje Kodi. Niezapomnij zrobic backupu przed instalacja!"
+
+
