@@ -12,8 +12,6 @@ adult="yes"
 info="http://"
 description="Tom Wizard Nexus Build for Kodi 20 Nexus . "
 
-
-
 name="Tom Nexus Build 1a"
 version="1.0.1"
 url="https://wizard.polishteam.one/build/TOM/20%201.0.1.zip"
@@ -28,8 +26,6 @@ adult="yes"
 info="http://"
 description="Tom Wizard Nexus Build for Kodi 20 Nexus . "
 
-
-
 name="Tom 21 Build 2a"
 version="1.0.0"
 url="http://tom122.webd.pro/19/21 1.0.0.zip"
@@ -43,8 +39,6 @@ preview="https://www.youtube.com/watch?v=AfQ0nX6QdVI"
 adult="yes"
 info="http://"
 description="Tom Wizard Nexus Build for Kodi 21  . "
-
-
 
 name="Tom21 Build 1a"
 version="1.0.0"
