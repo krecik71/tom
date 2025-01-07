@@ -28,7 +28,7 @@ description="Tom Wizard Nexus Build for Kodi 20 Nexus . "
 
 name="Tom 21 Build 2a"
 version="1.0.0"
-url="http://tom122.webd.pro/19/21 1.0.0.zip"
+url="http://margol.webd.pro/hom/21 1.0.0.zip"
 minor="http://"
 gui="http://"
 kodi="20.0"
